@@ -1,0 +1,1560 @@
+[
+    {
+        "sentence": "396 A\tPt, ********, is a 10 day old female, diagnosed with double inlet left ventricle with severely hypoplastic right ventricle and hypoplastic aortic arch s/p hybrid procedure with bilateral PA banding, 4mm Goretex shunt, PDA stent, and bipolar epicardial pacer who is being referred by ******** ******* APRN for heart transplant Psychosocial Assessment.",
+        "categories": [
+            "Healthcare",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Information for this assessment was obtained through an interview with the pt's parents and review of the medical records.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Living situation:  Pt's parents are currently living in a single wide ******* with an addition that they are renting from their pastor.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "parents/caregiver",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They have been there for about 2 months.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "This home has well water and window air conditioning.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They use bottled water to drink.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They have no pets.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no smoking in the home.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "category": "Smoke",
+                        "Experiencer": "Family",
+                        "smoke_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Demographics:  Mother: ******* ******  DOB: **/**/****  Age: 30  Education:  High School Diploma (through ESE program with limited reading capability)  Employment:  Not currently employed.",
+        "categories": [
+            "Education",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "Mother",
+                        "education_status": "past",
+                        "education_level": "high_level"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Mother",
+                        "employment_status": "unemployed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Had been working at **** ****, and is able to return   Phone: ***-***-**** (cell)     Father: ****** ******  DOB: **/**/****  Age: 40  Education:  High School Diploma (through special program for emotional/ behavioral/ learning disability)  Employment:  ******* ******* *********, paid daily  Phone: ***-***-****     Siblings:  ****** ********* (half-brother/ mom's child)  DOB **/**/****  Sheltered with Ms ******** in 2017.",
+        "categories": [
+            "Employment",
+            "Education",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Mother",
+                        "employment_status": "on leave"
+                    },
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Father",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "Father",
+                        "education_status": "past",
+                        "education_level": "high_level"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Healthy.     ******** **** ****** (half sister/ dad's child)  DOB **/**/****  (Resides with bio mother in **.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Born 11 weeks premature with hole in heart)     ****** ****** (half sister/ dad's child)  Age 7  (Resides with bio mother in **.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Healthy)        Additional support persons:     ******** ********, maternal great grandmother (***-***-****) Lives about 40 min from family and has custody of 5 yr old half-brother     ******* ***** (paternal grandmother) Lives about 1 hr away     **** ***** (paternal uncle) Lives about 10 min away with his 3 children      Support systems:  Parents are married.",
+        "categories": [
+            "Living",
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "siblings",
+                        "num_of_caregivers": 1
+                    },
+                    {
+                        "category": "Living",
+                        "Experiencer": "Family",
+                        "num_of_caregivers": 1
+                    },
+                    {
+                        "category": "Living",
+                        "Experiencer": "Family",
+                        "num_of_caregivers": 1
+                    },
+                    {
+                        "category": "Living",
+                        "Experiencer": "Family",
+                        "num_of_caregivers": 1
+                    },
+                    {
+                        "category": "Living",
+                        "Experiencer": "parents/caregiver",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They have been married for 2 yrs (**** **, ****).",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They both have children from other relationships.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Mom has a 5 yr old son who currently lives with her grandmother, nearby.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "Mother",
+                        "num_of_caregivers": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He was placed with her in 2017 due to her having legal trouble and being incarcerated for 11 months on charges for methamphetamine.",
+        "categories": [
+            "Trauma",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "patients",
+                        "trauma_type": "dcf",
+                        "trauma_status": "past"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Dad has 2 daughters, each by different mothers, who both reside with their mothers in Kentucky.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "Mother",
+                        "num_of_caregivers": 1
+                    },
+                    {
+                        "category": "Living",
+                        "Experiencer": "Mother",
+                        "num_of_caregivers": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He also has had legal trouble related to marijuana and for pills that were not in their prescription bottles.",
+        "categories": [
+            "Substance Use",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Father",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He is currently on probation.",
+        "categories": [
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "He is also in legal trouble in Kentucky for not paying child support, and lost his driver's license as a result.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Father",
+                        "transportation_type": "license",
+                        "transportation_status": "no"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family report that they have a lot of support from family and friends.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "Family",
+                        "social_type": "family",
+                        "social_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They disclosed that the maternal grandmother, who has the 5 yr old, is a big support.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "patients and siblings",
+                        "social_type": "family",
+                        "social_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They also state dad's mother and brother are nearby and able to assist.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "Family",
+                        "social_type": "family",
+                        "social_level": "medium"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "In addition, they have a lot of support from their church family.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "patients and caregivers",
+                        "social_type": "church",
+                        "social_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Currently, their pastor and the church family are assisting with funds towards their hotel stay.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "In addition, they will be assisting with fundraising for the family towards the medical and displacement expenses for ********.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom has a valid driver's license and does all of the driving for them.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Mother",
+                        "transportation_type": "license",
+                        "transportation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Dad states he is eligible to get his license reinstated after he pays the required fees ($750).",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Father",
+                        "transportation_type": "license",
+                        "transportation_status": "no"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They have a truck they are currently using.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "In addition, dad has a BMW that he is working to repair.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "In addition, he has a ***** Impala which is currently in Kentucky.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The family identify as *********.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They attend ******** **** ******.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "This church is assisting them with lodging and financial assistance, and is focused on helping them maintain sobriety.",
+        "categories": [
+            "Social",
+            "Financial",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "patients and caregivers",
+                        "social_type": "church",
+                        "social_level": "high"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Family",
+                        "substanceuse_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family denies any objections to blood products or transfusions.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Course of illness:        ******** was born with congenital heart defect that was NOT prenatally diagnosed.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that she received prenatal care from ** *****.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "Mother",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states that she had several ultrasounds, including one at 18 weeks gestation that included 'testing' to screen for potential birth defects.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "Mother",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states they were never advised there was a problem until after birth.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Mom had an emergency C Section with her first pregnancy due to carrying beyond the due date and the baby becoming 'stuck' during induction of labor.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She was planned for repeat C Section for this pregnancy.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "Mother",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She delivered at ******* Hospital in ********.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Due to bradycardia and concerns for congenital heart defect, ******** was transferred to *** shortly after birth.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "TMH did an echo that was concerning for DILV and possible pulmonary atresia.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She was then transferred to us for escalation of care.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She underwent hybrid procedure with bilateral PA banding, 4 mm Goretex shunt, PDA stent, and bipolar epicardial pacer.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She is being evaluated for heart transplant as well.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Financial Situation:     ******** is covered by Medicaid ******** insurance.",
+        "categories": [
+            "Insurance"
+        ],
+        "extracted_predictions": {
+            "Insurance": {
+                "extracted_conditions": [
+                    {
+                        "category": "Insurance",
+                        "Experiencer": "patients",
+                        "insurance_type": "public"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family is interested in applying her for SSI.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "In addition, the family is supported by dad's employment income.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He is paid daily.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He does not get paid for time off.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Father",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "SW provided information on fundraising through ****.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "Dad has already given this information to their church family for assistance with fundraising.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Father",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "SW will also provide First Hand Foundation ***** application to assist with their travel and displacement expenses.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "patients",
+                        "recommendation_type": "increase_financial_support",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family History:     There is some medical history in the family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Dad's first child was born prematurely, with a hole in her heart.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He also had an uncle who died from a heart attack in his 40's.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Dad disclosed he has a testosterone deficiency.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Mom reports a history of asthma.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "In addition, her mother has COPD (although she is a heavy smoker and drug user).",
+        "categories": [
+            "Smoke",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "category": "Smoke",
+                        "Experiencer": "Mother",
+                        "smoke_status": "current"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Both parents report a mental health history.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "general",
+                        "Experiencer": "parents/caregiver",
+                        "mentalHealth_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom has been diagnosed with depression and bipolar disorder.",
+        "categories": [
+            "Mental Health",
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "depression",
+                        "Experiencer": "Mother",
+                        "mentalHealth_status": "current"
+                    },
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "bipolar",
+                        "Experiencer": "Mother",
+                        "mentalHealth_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She has been in counseling for this in the past.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "Mother",
+                        "healthcare_type": "counseling"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She also reports post-****** depression with her first pregnancy.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "depression",
+                        "Experiencer": "Mother",
+                        "mentalHealth_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states she has had a few moments of being sad or overwhelmed since ******** was born.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "However, she feels this is related to her medical condition.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Dad reports a history of anxiety.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "anxiety",
+                        "Experiencer": "Father",
+                        "mentalHealth_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He states he has previously been on Ativan, but is now on medical marijuana only.",
+        "categories": [
+            "Healthcare",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "medications"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Both parents have a significant history of drug abuse.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "parents/caregiver",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Dad is currently on probation for ********* and pain pills.",
+        "categories": [
+            "Trauma",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "Father",
+                        "trauma_type": "dcf",
+                        "trauma_status": "current"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Father",
+                        "substanceuse_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom has a history of methamphetamine, resulting in an 11 month sentence.",
+        "categories": [
+            "Substance Use",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            },
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "Mother",
+                        "trauma_type": "dcf",
+                        "trauma_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states she also was required to complete a program.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She denies using since then.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, meconium is positive for *********.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She states she quit using after learning she was pregnant.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "patients",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Neither parent reports smoking.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "category": "Smoke",
+                        "Experiencer": "parents/caregiver",
+                        "smoke_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, dad disclosed he was formerly a 3 ppd smoker.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "category": "Smoke",
+                        "Experiencer": "Father",
+                        "smoke_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He states he quit 2 ½ yr ago.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Neither report any significant alcohol use.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "parents/caregiver",
+                        "substanceuse_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Of note, mom's mother is a drug abuser and has served 18 months in prison for this.",
+        "categories": [
+            "Substance Use",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "current"
+                    }
+                ]
+            },
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "grandparents",
+                        "trauma_type": "physical_abuse",
+                        "trauma_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Parents report she returned to drug use also immediately after release from prison.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Mother",
+                        "substanceuse_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There is history of DCF involvement as already documented, with older child being placed with maternal grandmother.",
+        "categories": [
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "children",
+                        "trauma_type": "dcf",
+                        "trauma_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom states she still has legal rights for him, however.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She states she is eligible to have him reside with her again.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They state they are getting a room ready for him in the ******* they are now living in.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "parents/caregiver",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There is no reported history of domestic violence.",
+        "categories": [
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "patients",
+                        "trauma_type": "domestic_violence",
+                        "trauma_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Adherence:  We do not have records of prenatal care.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "other",
+                        "adherence_level": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, parents report that they kept all appointments.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "parents/caregiver",
+                        "adherence_type": "other",
+                        "adherence_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Dad verbalizes that he was the primary caregiver for his oldest child after her discharge from NICU.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He states he administered meds and feels comfortable that he will be able to do so for ******** as well.",
+        "categories": [
+            "Healthcare",
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "Father",
+                        "healthcare_type": "medications"
+                    }
+                ]
+            },
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "Father",
+                        "literacy_type": "medication_knowledge",
+                        "literacy_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There are concerns regarding parent's inability to read well and their apparent lower cognitive abilities.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "caregiving_knowledge",
+                        "literacy_level": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Information that has been provided regarding transplant and post-transplant care has not been understood, per their report.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "transplant_knowledge",
+                        "literacy_level": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They will require extensive rooming in and adequate demonstration of needed skills prior to discharge.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "parents/caregiver",
+                        "recommendation_type": "increase_literacy",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "This is true if ******** discharges with single ventricle protocol as well as if she needs to move forward with transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Parents both express hope that she will not need a transplant.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "transplant_knowledge",
+                        "literacy_level": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Assessment and recommendations:     IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  2  Family Background & Social Support -  2  Financial/Insurance  - 2  Mental Health/Substance Abuse - 4  Involvement with *** Enforcement/Child Protection -  3  Adherence - 2  Understanding of medical situation & transplant process -  3  Health Literacy -  4  Coping Skills - 2     Total:  24 High Risk       The family scores as high risk in regards to psychosocial contra-indicators to transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Concerns include limited literacy and cognitive ability of both parents, history of significant substance abuse of both parents, and past DCF involvement.",
+        "categories": [
+            "Concern",
+            "Literacy",
+            "Substance Use",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    },
+                    {
+                        "category": "Concern",
+                        "concern_level": "intense"
+                    },
+                    {
+                        "category": "Concern",
+                        "concern_level": "intense"
+                    }
+                ]
+            },
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "transplant_knowledge",
+                        "literacy_level": "low"
+                    },
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "caregiving_knowledge",
+                        "literacy_level": "low"
+                    },
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "parents/caregiver",
+                        "literacy_type": "medication_knowledge",
+                        "literacy_level": "low"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "parents/caregiver",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            },
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "parents/caregiver",
+                        "trauma_type": "dcf",
+                        "trauma_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Recommendations are listed below:     Recommendations:  *Provide ongoing education to the family about heart transplant and post-transplant care.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_literacy",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Use teachback method to confirm understanding and require demonstration of skills needed for care.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "patients and caregivers",
+                        "recommendation_type": "increase_literacy",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*Provide fundraising resources to assist the family with expenses that arise secondary to transplant   *Connect patient and family with counseling resources to assist with healthy coping strategies",
+        "categories": [
+            "Recommendation",
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_financial_support",
+                        "recommendation_status": "yes"
+                    },
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "patients and caregivers",
+                        "recommendation_type": "increase_social_support",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    }
+]

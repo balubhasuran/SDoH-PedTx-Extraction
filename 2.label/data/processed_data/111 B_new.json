@@ -1,0 +1,495 @@
+{
+   "0": {
+      "sentence": "111 B\tDate:  *** **, ****          Name: ******* ********   DOB:  **/**/****  MRN:  ********     **, ******* ********, is a 6 year-old female with history of restrictive cardiomyopathy s/p OHT **/**/** referred by ***** ******, APRN, Transplant Coordinator, for Heart Transplant Psychosocial Assessment."
+   },
+   "1": {
+      "sentence": "Information for this assessment was obtained through an interview with the patient's mother and review of the medical records. ******* is currently sedated and unable to participate."
+   },
+   "2": {
+      "sentence": "Patient's father was unavailable due to working.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "3": {
+      "sentence": "SW spent 45 minutes of face to face time with family."
+   },
+   "4": {
+      "sentence": "Living situation:  **, *******, lives with her mother, father, and sister in ********, *******.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with both parents",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "5": {
+      "sentence": "They reside at **** *** ** *, ********, ** *****.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with both parents",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "6": {
+      "sentence": "They live in * ****** with a/c and heat window units, and well water.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with both parents",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "7": {
+      "sentence": "They clean their air filter monthly."
+   },
+   "8": {
+      "sentence": "There is a filter on the water as well."
+   },
+   "9": {
+      "sentence": "There is no smoking in the home.",
+      "SDoH": [
+         {
+            "Smoke": {
+               "Experiencer": "patients",
+               "SmokeStatus": "none"
+            }
+         }
+      ]
+   },
+   "10": {
+      "sentence": "They have one dog."
+   },
+   "11": {
+      "sentence": "Demographics:  Mother:  ******** ********  DOB:  **/**/****  Language: English   Education Level: High School Diploma       Employment:  Receptionist at *** ******** ***               Phone:  ***-***-****     Father:  ***** ********  DOB:  **/**/****  Language: English   Education Level: High School Diploma       Employment:  Self Employed- ****** Tinting       Phone:  ***-***-****     Siblings:  ********- 4     Support systems:  ******** and ***** lean on and depend on each other for support.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "general",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "general",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "parents/caregiver",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "12": {
+      "sentence": "They also have a close knit family."
+   },
+   "13": {
+      "sentence": "Most of their extended family lives within an hour of the family.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "relatives",
+               "LivingStatus": "current",
+               "LivingType": "with other relatives",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "14": {
+      "sentence": "Family was very involved during time waiting on first transplant.   ******* has been ********** since ******** of last year."
+   },
+   "15": {
+      "sentence": "She is enrolled in kindergarten through ******* Virtual School.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "childhood",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "16": {
+      "sentence": "Mom reports that she is on track to be promoted."
+   },
+   "17": {
+      "sentence": "Her lowest grade is currently a *.    ******* enjoys outdoor activities such as riding 4wheeler, riding bikes, swimming, gardening, etc."
+   },
+   "18": {
+      "sentence": "She has been able to participate in these activities up until recently illness. ******* had difficulty coping with admission while awaiting a heart transplant.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         }
+      ]
+   },
+   "19": {
+      "sentence": "Mom feels that she will do better this time as she is older."
+   },
+   "20": {
+      "sentence": "Child life will need to be heavily involved with patient, especially if a VAD is required."
+   },
+   "21": {
+      "sentence": "Mom plans to again be the primary caregiver post-transplant with assistance from dad."
+   },
+   "22": {
+      "sentence": "Parents are very familiar with post-transplant care needs.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "LiteracyLevel": "High",
+               "LiteracyType": "caregiving knowledge"
+            }
+         }
+      ]
+   },
+   "23": {
+      "sentence": "The family identifies as *******."
+   },
+   "24": {
+      "sentence": "They deny any objections to blood products, transfusions, etc."
+   },
+   "25": {
+      "sentence": "Course of illness:     ******* ******** is a 6 yo girl with history of hypertrophic restrictive cardiomyopathy s/p OHT (*/*/****) who presents with 3 days history of feeding intolerance and fatigue."
+   },
+   "26": {
+      "sentence": "She has a history of recent PTLD (**/****) that was successfully treated with reduced immunosuppression and 6 doses of rituximab."
+   },
+   "27": {
+      "sentence": "Her last cath was **/**** which showed normal **, filling pressures of 9 and 12 mmHg and normal unobstructed coronaries."
+   },
+   "28": {
+      "sentence": "Biopsy at that time was Grade 0R."
+   },
+   "29": {
+      "sentence": "She does not have a history of positive panel reactive antibodies."
+   },
+   "30": {
+      "sentence": "Per mom, she has had 3 days vomiting and fatigue."
+   },
+   "31": {
+      "sentence": "She was taken to *** where she was diagnosed with viral gastroenteritis."
+   },
+   "32": {
+      "sentence": "Due to persistent symptoms, she was asked to bring her here."
+   },
+   "33": {
+      "sentence": "She is currently on tacrolimus 0.6 mg BID without any recent missed dose."
+   },
+   "34": {
+      "sentence": "Financial situation:  Both parents are employed full time.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "parents/caregiver",
+               "FinancialStatus": "normal"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "35": {
+      "sentence": "Mom's employer provides PTO but she will quickly use this with current hospital stay.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "parents/caregiver",
+               "FinancialStatus": "PTO"
+            }
+         }
+      ]
+   },
+   "36": {
+      "sentence": "She reports that her **** is understanding and will hold her job for her.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "37": {
+      "sentence": "Dad is self-employed and will need to continue to work throughout hospitalization.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "38": {
+      "sentence": "Finances will be a concern for family but they do have a significant amount of extended family support.  ******* is covered by ********/******** Medicaid and is currently approved under social security disability.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "parents/caregiver",
+               "FinancialStatus": "constrain"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "parents/caregiver",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Insurance": {
+               "Experiencer": "patients",
+               "InsuranceType": "public"
+            }
+         },
+         {
+            "Insurance": {
+               "Experiencer": "patients",
+               "InsuranceType": "public"
+            }
+         }
+      ]
+   },
+   "39": {
+      "sentence": "Mom reports that she is having to ********* and is getting push back about ******* not meeting criteria."
+   },
+   "40": {
+      "sentence": "SW will assist with providing updated medical records from this admission.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "parents/caregiver",
+               "HealthcareType": "hospital admit"
+            }
+         }
+      ]
+   },
+   "41": {
+      "sentence": "Friends of the family are ******* their apartment in ******** ******* to the family.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "friends",
+               "LivingStatus": "current",
+               "LivingType": "with friends",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "42": {
+      "sentence": "Family will also be bringing down ******."
+   },
+   "43": {
+      "sentence": "This will allow for the family is remain local during ****** ******** closure and will also allow for dad to continue working.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "44": {
+      "sentence": "Family has two vehicles and transportation will not be a barrier."
+   },
+   "45": {
+      "sentence": "Family History:     Family denies any history with DCF in regards to *******. ******** did have DCF involvement as a child victim.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "patients",
+               "TraumaStatus": "none",
+               "TraumaType": "DCF"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "patients",
+               "TraumaStatus": "past",
+               "TraumaType": "DCF"
+            }
+         }
+      ]
+   },
+   "46": {
+      "sentence": "Her mother was the perpetrator but she is no longer involved in the family's life."
+   },
+   "47": {
+      "sentence": "Family denies any mental health or substance abuse history.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "parents/caregiver",
+               "MentalHealthStatus": "none"
+            }
+         },
+         {
+            "Substance Use": {
+               "Experiencer": "parents/caregiver",
+               "SubstanceUseStatus": "none"
+            }
+         }
+      ]
+   },
+   "48": {
+      "sentence": "Family medical history significant for hypertension, high cholesterol, heart failure, COPD, and diabetes in older family members (grandparents, etc)."
+   },
+   "49": {
+      "sentence": "Adherence:     Previously there have been no concerns for adherence since transplant.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "other"
+            }
+         },
+         {
+            "Concern": {
+               "ConcernLevel": "None"
+            }
+         }
+      ]
+   },
+   "50": {
+      "sentence": "However, family has been reluctant to get labs or come to appointments due to *****-19 concerns."
+   },
+   "51": {
+      "sentence": "They have not been seen in clinic since **/**/** due to reluctance."
+   },
+   "52": {
+      "sentence": "Assessment and recommendations:     SW inquired about how the family feels about proceeding with transplant knowing her difficult course the last few years.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "53": {
+      "sentence": "Mom states that they are ready to fight and do whatever is necessary."
+   },
+   "54": {
+      "sentence": "She feels that ******* is up for the challenge."
+   },
+   "55": {
+      "sentence": "Parents seem to have a limited understanding of *******'s current condition and factors that may impact transplant.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "56": {
+      "sentence": "They would benefit from ongoing education and meetings with the care team.   ******* is likely to have a difficult time with an extended hospitalization, especially if a VAD is medically indicated."
+   },
+   "57": {
+      "sentence": "She will need ongoing support from child life to assist with adjustment as she did previous hospital stay.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "58": {
+      "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  1     Family Background & Social Support -  1     Financial/Insurance - 2     Mental Health/Substance Abuse - 1     Involvement with *** Enforcement/Child Protection -  1     Adherence -2     Understanding of medical situation & transplant process - 2     Health Literacy - 1     Coping Skills - 1     Total:  11 Low Risk     The family scores as low risk in regards to psychosocial contra-indicators to transplant."
+   },
+   "59": {
+      "sentence": "Recommendations:  *Provide continuing education/reeducation to the family about heart transplant and post-transplant care.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "60": {
+      "sentence": "*Offer support and guidance to family as needed.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "RecommendationType": "increase social support"
+            }
+         }
+      ]
+   },
+   "61": {
+      "sentence": "*Involve child life.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "RecommendationType": "increase social support"
+            }
+         }
+      ]
+   }
+}

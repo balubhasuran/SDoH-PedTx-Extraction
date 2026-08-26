@@ -1,0 +1,864 @@
+{
+   "0": {
+      "sentence": "388\tPt, ***** ******, is a 16 year-old male with history of cardiomyopathy, s/p heart transplant (**/****), referred by ********* ********, APRN, Transplant Coordinator, for Psychosocial Assessment for Heart Transplant Evaluation.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "diagnosis"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "1": {
+      "sentence": "Information for this assessment was obtained through an interview with the patient, patient's mother, ****** ******, and review of the medical records."
+   },
+   "2": {
+      "sentence": "SW spent approximately 70 minutes of face-to-face time with patient and family."
+   },
+   "3": {
+      "sentence": "Patient's father was unavailable due to working and current visitor restrictions (*****-19)."
+   },
+   "4": {
+      "sentence": "Living situation:  **, *****, resides with his mother, and siblings in *** ****** *****, *******.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with single parent",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "5": {
+      "sentence": "They reside at **** ***** *** ***. * *** ****** *****, ** *****.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "LivingType": "with single parent",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "6": {
+      "sentence": "They **** a 3 bedroom ********."
+   },
+   "7": {
+      "sentence": "They have one rabbit."
+   },
+   "8": {
+      "sentence": "Demographics:  Mother:  ****** ******  ***:  **/**/****  Language: English   Education Level: Associates ******            Employment:  Unemployed/VA Disability                Phone:  ***-***-****     Father:  ****** ******  ***:  **/**/****  Language: English   Education Level: Associate's ******           Employment:  Corrections ******* *** ******* ******          Phone:  ***-***-****     Siblings:  *******- 11  ********- 5     Social History and Support Systems:  ***** lives with his mother and siblings in *** ******, **.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "past",
+               "EducationType": "high level",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "unemployed",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Education": {
+               "EducationStatus": "past",
+               "EducationType": "high level",
+               "Experiencer": "Father"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "Father"
+            }
+         },
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with single parent",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "9": {
+      "sentence": "He is in the 11th grade attending ******* ******* School/Hospital Homebound.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "general",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "10": {
+      "sentence": "He is unsure if he is on track, classes were supposed to resume this week."
+   },
+   "11": {
+      "sentence": "He does not appear to have significant motivation to keep up with school and this will likely be an ongoing issue while hospitalized or at home waiting for transplant. ***** enjoys playing video games or basketball with his *******.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "general",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "12": {
+      "sentence": "However, since his last hospital stay he has been unable to tolerate physical activity. ***** reports that he does not enjoy being in the hospital.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         }
+      ]
+   },
+   "13": {
+      "sentence": "He does not like being confined to his room and having his sleep constantly interrupted."
+   },
+   "14": {
+      "sentence": "The changes/restrictions due to *****-19 (visitor policy, etc) are also making this stay more difficult."
+   },
+   "15": {
+      "sentence": "Having his video games and someone at the hospital with him does help with coping.   ****** and ****** have been married for almost 18 years."
+   },
+   "16": {
+      "sentence": "However, they recently separated in ******* ** ****.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "past",
+               "TraumaType": "divorce or separation"
+            }
+         }
+      ]
+   },
+   "17": {
+      "sentence": "They have not yet filed for divorce and the relationship is amicable.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "none",
+               "TraumaType": "divorce or separation"
+            }
+         }
+      ]
+   },
+   "18": {
+      "sentence": "Dad is currently at mom's home with the girls so that she can be here at the hospital."
+   },
+   "19": {
+      "sentence": "SW inquired about additional family support.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "20": {
+      "sentence": "Mom's mother and best friend are her main sources of support.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "21": {
+      "sentence": "Dad also has a lot of family that reside locally to the family and are of support.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Father",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "22": {
+      "sentence": "Mom is on disability and dad has FMLA/PTO/sick leave and will be able to take time off during and after transplant.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Mother",
+               "FinancialStatus": "poverty"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "on leave",
+               "Experiencer": "Father"
+            }
+         }
+      ]
+   },
+   "23": {
+      "sentence": "Mom will be the primary caregiver post transplant with backup from dad.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "caregiving"
+            }
+         }
+      ]
+   },
+   "24": {
+      "sentence": "Family identifies as ********* and denies any objections to blood products, transfusions, etc."
+   },
+   "25": {
+      "sentence": "Course of illness:     ***** ****** is a 16 year old male with a history of cardiomyopathy s/p orthotopic heart transplant in 2007, admitted now for antibody-mediated rejection and secondary congestive heart failure, receiving pulse steroids, ATG, and PLEX therapy.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "diagnosis"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "26": {
+      "sentence": "His increasing fatigue, fluid retention with declining renal function provoked him to be admitted into the pediatric ***** on */**/**** for further heart failure management with inotropic infusion support with closer monitoring.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "medications"
+            }
+         }
+      ]
+   },
+   "27": {
+      "sentence": "He also has possible serum sickness with third spacing and migratory arthralgias."
+   },
+   "28": {
+      "sentence": "Milrinone was weaned off */**/**** but due to worsening renal & liver labs as well as c/o chest pressure/pain was restarted on */**/****."
+   },
+   "29": {
+      "sentence": "He is being evaluated for heart and kidney transplant.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "assessment"
+            }
+         }
+      ]
+   },
+   "30": {
+      "sentence": "Financial situation:  Mom receives disability from the VA.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Mother",
+               "FinancialStatus": "poverty"
+            }
+         }
+      ]
+   },
+   "31": {
+      "sentence": "The family also receives and adoption subsidy for their youngest child.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "patients",
+               "FinancialStatus": "normal"
+            }
+         }
+      ]
+   },
+   "32": {
+      "sentence": "Dad is employed full time and assist with needs- child support plan has not been worked out at this time.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "Father"
+            }
+         }
+      ]
+   },
+   "33": {
+      "sentence": "As mom is on disability, caregiving will not result in a loss of income for herself.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "caregiving"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "Mother",
+               "FinancialStatus": "normal"
+            }
+         }
+      ]
+   },
+   "34": {
+      "sentence": "Dad is eligible for FMLA and has PTO and sick leave.   ***** is covered by CMS ******** Medicaid.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Father",
+               "FinancialStatus": "PTO"
+            }
+         },
+         {
+            "Insurance": {
+               "Experiencer": "patients",
+               "InsuranceType": "public"
+            }
+         }
+      ]
+   },
+   "35": {
+      "sentence": "Mom was concerned about being found over income at the next renewal period.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Mother",
+               "FinancialStatus": "normal"
+            }
+         }
+      ]
+   },
+   "36": {
+      "sentence": "However, SW explained that with the parents not residing in the same household any longer, she does not have to report dad's income to Medicaid, only child support."
+   },
+   "37": {
+      "sentence": "SW encouraged mom to reapply for social security disability as well (previously denied due to being over income).",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Mother",
+               "RecommendationType": "increase financial support"
+            }
+         }
+      ]
+   },
+   "38": {
+      "sentence": "The family has two vehicles.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "easy",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "39": {
+      "sentence": "Transportation will not be a barrier for this family.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "easy",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "40": {
+      "sentence": "Family History:  There is a significant family mental health history.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Family",
+               "MentalHealthStatus": "past"
+            }
+         }
+      ]
+   },
+   "41": {
+      "sentence": "Mom reports that ***** was diagnosed with ADHD and *** as a child.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "patients",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "ADHD"
+            }
+         }
+      ]
+   },
+   "42": {
+      "sentence": "He was on medication to treat his ADHD but she reports it was discontinued due to contraindication with transplant. ***** was seeing counselor for approximately 3 years but it ended about 1 year ago. ***** reports that he is not willing to reenter counseling or be on medications at this time.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "counseling"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "counseling"
+            }
+         }
+      ]
+   },
+   "43": {
+      "sentence": "He feels that the *** diagnosis was wrong, he just will not do something he doesn't want to do.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "44": {
+      "sentence": "Upon chart review, as a young child (elementary age), ***** had significant behavior problems."
+   },
+   "45": {
+      "sentence": "Notes detail that he was frequently receiving referrals and suspensions due to aggression towards other child.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "patients",
+               "MentalHealthStatus": "past",
+               "MentalHealthType": "bipolar"
+            }
+         }
+      ]
+   },
+   "46": {
+      "sentence": "Specifically, threatening to kill others, taking knife to school, punching young girl in stomach hard enough to break a rib, etc..",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "patients",
+               "TraumaStatus": "past",
+               "TraumaType": "other"
+            }
+         }
+      ]
+   },
+   "47": {
+      "sentence": "He was placed in alternative classrooms, *******, and eventually into ******* Virtual School.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "childhood",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "48": {
+      "sentence": "During that time he also had aggression at home with his parents.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "patients",
+               "MentalHealthStatus": "past",
+               "MentalHealthType": "bipolar"
+            }
+         }
+      ]
+   },
+   "49": {
+      "sentence": "He was placed on Strattera, Abilify, and Celexa.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "medications"
+            }
+         }
+      ]
+   },
+   "50": {
+      "sentence": "However, mom stopped medications due to not seeing significant changes in behavior.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "51": {
+      "sentence": "Per notes, his behaviors do seem to have improved since starting back in high school.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "childhood",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "52": {
+      "sentence": "Mom disclosed that she was ***** Acted for suicide attempt in ********* ** ****. ***** was a witness to attempt and stated that his mom 'scared the crap out of him'.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "past",
+               "MentalHealthType": "general"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "patients",
+               "TraumaStatus": "past",
+               "TraumaType": "psychological"
+            }
+         }
+      ]
+   },
+   "53": {
+      "sentence": "She is currently on medication and is under the care of a counselor and psychiatrist.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "counseling"
+            }
+         }
+      ]
+   },
+   "54": {
+      "sentence": "Family denies any history of drug abuse or DCF involvement.",
+      "SDoH": [
+         {
+            "Substance Use": {
+               "Experiencer": "Family",
+               "SubstanceUseStatus": "none"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Family",
+               "TraumaStatus": "none",
+               "TraumaType": "DCF"
+            }
+         }
+      ]
+   },
+   "55": {
+      "sentence": "They also deny any criminal history.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Family",
+               "TraumaStatus": "none",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "56": {
+      "sentence": "Adherence:  There are significant concerns for adherence. ***** reports that he has gotten better about taking his medications, and taking them on time.",
+      "SDoH": [
+         {
+            "Concern": {
+               "ConcernLevel": "intense",
+               "Experiencer": "Family"
+            }
+         },
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         },
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "57": {
+      "sentence": "SW inquired about the times where he wasn't doing so well or periods of medication missed.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "58": {
+      "sentence": "He stated that he could not remember when this occurred and could not give SW timeframe of weeks/months/or years ago because he was bad with numbers."
+   },
+   "59": {
+      "sentence": "There is significant documentation about low levels, parents finding medication around the home, and further evidence of noncompliance.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "60": {
+      "sentence": "There are no concerns documented recently. ***** now sets an alarm on his phone to remind him to take his medications.",
+      "SDoH": [
+         {
+            "Concern": {
+               "ConcernLevel": "None",
+               "Experiencer": "patients"
+            }
+         },
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "61": {
+      "sentence": "The family also fills the pillbox together for the week.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "62": {
+      "sentence": "Assessment and recommendations:  Both mom and ***** verbalize that they would like to move forward with transplant. ***** stated that he was tired of feeling like a ** year old.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "patients and caregivers",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "63": {
+      "sentence": "He understands that he will need to take on more responsibility with his care as he is now almost 17.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "patients",
+               "LiteracyLevel": "High",
+               "LiteracyType": "caregiving knowledge"
+            }
+         }
+      ]
+   },
+   "64": {
+      "sentence": "SW discussed the two possibilities of waiting for a transplant: inpatient and outpatient.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         }
+      ]
+   },
+   "65": {
+      "sentence": "He understands that the wait will be longer outpatient but verbalized that he needs a break from the hospital.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "patients",
+               "LiteracyLevel": "High",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "66": {
+      "sentence": "He is most anxious about the surgery part of transplant.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "patients",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "67": {
+      "sentence": "SW is also concerned that he does not understand the full extent of what a retransplant would mean for him.",
+      "SDoH": [
+         {
+            "Concern": {
+               "ConcernLevel": "moderate",
+               "Experiencer": "patients"
+            }
+         },
+         {
+            "Literacy": {
+               "Experiencer": "patients",
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "68": {
+      "sentence": "He believes that it will 'fix' all of his current problems and he won't be on as many medications as he was placed on after last hospital admission.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "patients",
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "69": {
+      "sentence": "He denied any need for transplant education.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "patients",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "70": {
+      "sentence": "He would greatly benefit from counseling due to significant psych history as well as complex medical condition.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "patients",
+               "RecommendationType": "Counseling"
+            }
+         }
+      ]
+   },
+   "71": {
+      "sentence": "He is not on board with that at this time.  **** though recently separated, parents seem to have an amicable relationship."
+   },
+   "72": {
+      "sentence": "They have done well with *********** ***** and his siblings during these last two lengthy hospital admissions."
+   },
+   "73": {
+      "sentence": "Mom was very open about her recent suicide attempt and help that she is currently receiving.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "general"
+            }
+         }
+      ]
+   },
+   "74": {
+      "sentence": "She is taking weekly breaks from the hospital to help her with self-care."
+   },
+   "75": {
+      "sentence": "This would be a second transplant for ***** and family and parents are well versed in his care needs."
+   },
+   "76": {
+      "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  2     Family Background & Social Support -  2     Financial/Insurance - 2     Mental Health/Substance Abuse - 3     Involvement with *** Enforcement/Child Protection -  1     Adherence -3     Understanding of medical situation & transplant process - 2     Health Literacy -  2     Coping Skills - 2     Total:  19 Moderate Risk     The family scores as moderate risk in regards to psychosocial contra-indicators to transplant."
+   },
+   "77": {
+      "sentence": "Recommendations:  *Require counseling for ***** while awaiting transplant.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "patients",
+               "RecommendationType": "Counseling"
+            }
+         }
+      ]
+   },
+   "78": {
+      "sentence": "*Provide continuing education to the family about heart transplant and post-transplant care.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "79": {
+      "sentence": "*Offer support and guidance to family as needed.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase social support"
+            }
+         }
+      ]
+   }
+}

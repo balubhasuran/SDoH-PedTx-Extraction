@@ -1,0 +1,73 @@
+{
+    "Healthcare": [
+        "Experiencer",
+        "HealthcareType"
+    ],
+    "Living": [
+        "Experiencer",
+        "LivingStatus",
+        "LivingType",
+        "ResidentType"
+    ],
+    "Smoke": [
+        "Experiencer",
+        "SmokeStatus"
+    ],
+    "Employment": [
+        "EmploymentStatus",
+        "Experiencer",
+    ],
+    "Social": [
+        "Experiencer",
+        "SocialActivity",
+        "SocialType"
+    ],
+    "Education": [
+        "EducationStatus",
+        "EducationType",
+        "Experiencer"
+    ],
+    "Transportation": [
+        "Experiencer",
+        "TransportationConvenienceLevel",
+        "TransportationType"
+    ],
+    "Mental Health": [
+        "Experiencer",
+        "MentalHealthStatus",
+        "MentalHealthType"
+    ],
+    "Insurance": [
+        "Experiencer",
+        "InsuranceType"
+    ],
+    "Financial": [
+        "Experiencer",
+        "FinancialStatus",
+    ],
+    "Substance Use": [
+        "Experiencer",
+        "SubstanceUseStatus"
+    ],
+    "Trauma": [
+        "Experiencer",
+        "TraumaStatus",
+        "TraumaType"
+    ],
+    "Adherence": [
+        "AdherenceLevel",
+        "AdherenceType",
+        "Experiencer"
+    ],
+    "Literacy": [
+        "Experiencer",
+        "LiteracyLevel",
+        "LiteracyType"
+    ],
+    "Recommendation": [
+        "RecommendationType"
+    ],
+    "Concern": [
+        "ConcernLevel",
+    ]
+}

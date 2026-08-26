@@ -1,0 +1,516 @@
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O B-Smoke O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social I-Social I-Social I-Social O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Living O O
+O O O O O O O O O O O B-Living O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Living O O O O O O O O O
+O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O B-Living B-Living O O O O O O O O O O O O
+O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O
+O O O O B-Transportation O
+O O O O O O O O B-Transportation O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-MentalHealth I-MentalHealth I-MentalHealth O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O B-MentalHealth I-MentalHealth O O O O
+O O O O O O O O O O O O O O O O B-MentalHealth I-MentalHealth I-MentalHealth O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Healthcare O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I-Healthcare I-Healthcare I-Healthcare O
+O B-Healthcare I-Healthcare I-Healthcare O O O O O O O O O O O O O O O O
+O O O O I-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O I-Healthcare I-Healthcare O O O O O O O O O O O O O O O I-Healthcare I-Healthcare O O O O I-Healthcare O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O I-Healthcare I-Healthcare O O O O O I-Healthcare I-Healthcare I-Healthcare I-Healthcare O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Healthcare I-Healthcare O O O O O O O O O
+O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O I-Healthcare O O O
+O O O O O O O
+O O O O O O O O O O O O O O O B-Healthcare O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Insurance B-Insurance B-Insurance O
+O O B-Financial O B-Financial O O O O O O B-Financial I-Financial I-Financial O
+O O O O B-Financial O O B-Financial I-Financial B-Financial I-Financial O O O O O
+O O O O O O O O O O O O O B-Employment O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O O O O B-MentalHealth I-MentalHealth I-MentalHealth O
+O O O O O O O B-SubstanceUse O B-SubstanceUse I-SubstanceUse O
+O O O O O O O B-Trauma O O O B-Trauma I-Trauma O
+O O O O O O B-Trauma O B-Trauma I-Trauma O I-Trauma O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Adherence O O O O
+O O O O O O O B-Adherence I-Adherence O O O O O O O O O O O O O O O
+O O O O O I-Adherence I-Adherence O O O O O O
+O O B-Concern O O O O O O O O O O O I-Adherence I-Adherence O O O O
+O O O O O O O O O O O O
+O B-Adherence O O I-Adherence O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Concern O O O O I-Adherence O O O O O O O I-Adherence I-Adherence I-Adherence O O O O O O O O
+O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O
+B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O I-Recommendation O O O O O O O O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O I-Adherence I-Adherence O O O O O O O O O O O O O O
+B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O I-Healthcare I-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O
+O O O B-Smoke O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment I-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education I-Education O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Living O O O O O O O O O
+O O O O B-Living O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-Employment O O B-Social O O O O
+O O O B-Living O O O O O O O O O O O O O O O O O O I-Social B-Social I-Social O
+O O O O O O O O O O O O O O
+O O O O O O B-Concern O
+O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare O
+O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare O
+O O O O O O O O B-Employment O O O O O O O O O O
+O O B-Employment O O O O O O
+O O O O O B-Social O O O
+O O O O O O O O O O O O O B-Employment O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Healthcare O O O B-Healthcare O O O O O O O B-Healthcare I-Healthcare O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Healthcare I-Healthcare O O
+O O O O O O O O O O O O O O O O O O
+O O B-Adherence I-Adherence O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Healthcare O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O
+O O O O O O O O B-Financial O O O O
+O O O O O O O
+O B-Financial O O O O O B-Living O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Employment O
+O O O O O O O B-Financial O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Financial O O O O O O O O O O B-Financial O
+O O O O O O O O O O O
+O O O O O O O O O B-Insurance B-Insurance O
+O O O O O O O O O
+O O O O B-Transportation O
+O O O B-Transportation O O O O O O O O
+O O O O O O B-Trauma O O B-SubstanceUse I-SubstanceUse O O B-MentalHealth I-MentalHealth O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Adherence O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O I-Recommendation O O O O O O O O O O O O O O O O O
+O O O O B-Trauma I-Trauma O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Financial I-Financial I-Financial O O O O B-Financial O O O
+O O O O O O O O O O O O O O O O O O O O B-Trauma I-Trauma O O O O O O O O O O O O O O O O O
+O O O O O O O B-Adherence I-Adherence I-Adherence I-Adherence O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Recommendation I-Recommendation I-Recommendation I-Adherence I-Adherence O O O O B-Adherence O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O B-Financial I-Financial I-Financial O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O
+O O O B-Smoke O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O B-Financial O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O B-Financial O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Social B-Social I-Social O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Living O O O O B-Social O
+O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Living O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O B-Transportation O O O O O O O O O O O O O
+O O O O O O O I-Financial O O O O O O O O O O O O O O B-Financial I-Financial B-Financial O O O O
+O O O O O O O O O O B-Financial O O O O B-Financial O
+O O O O O O O O O O O O B-Financial O O
+O O O O O B-Employment O O O O O
+O O O O O O O O O O O O O O B-Living O O O O O O O
+B-Financial O O O O O O O O O O O O O O O O O O
+O O O B-Financial I-Financial I-Financial O O O O O O O O O O
+O O O O O O O O B-Financial O O O O
+O O O O O O O O O O O O O O B-Financial O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Insurance O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O B-Literacy O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O
+O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O B-Financial O O O O
+O O O O O O O B-Financial I-Financial O
+O O O O O O O O O O O O O O B-Financial O O B-Financial I-Financial O
+O O O O B-Financial O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-Employment O
+O O O O O O O O O O O O
+O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Living O O
+O O O O O O O O O B-SubstanceUse I-SubstanceUse O B-MentalHealth I-MentalHealth O O
+O O O O O O O O O O O O
+O O O O O B-Trauma O
+O O O O O O O O O O
+O O O O O O O B-Adherence O O O O O
+O O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O
+O O O B-Adherence I-Adherence O O O O O O O O O O I-Adherence I-Adherence I-Adherence O
+O O O O O O O O I-Adherence B-Adherence I-Adherence I-Adherence I-Adherence O O O O I-Adherence O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O B-Adherence O O I-Adherence O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O I-Adherence I-Adherence O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Social O B-Social O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Employment O O O O O O
+O I-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Concern O O B-Financial I-Financial O O O O O O O O O O B-Employment O
+O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O I-Recommendation O O O O O O O
+B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O B-Smoke O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment I-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Trauma O O
+O O O B-Social O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O B-Living O O O O O O O O O O
+O O B-Living O O O O O O O
+O O O O O O O
+O O O O B-Social O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Social O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O B-Social O O O O
+O O O O O O O O O O O O B-Social O
+O O O O O
+O O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-Education O O
+O O O O O O O O B-Trauma O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O B-Transportation O
+O O O B-Transportation O O O O O
+O O O O I-Transportation B-Transportation O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Living O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Living O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Healthcare O B-Healthcare O O O O O O O
+O O O B-Healthcare I-Healthcare O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Healthcare I-Healthcare I-Healthcare O
+O O O B-Healthcare O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Insurance B-Insurance O O B-Employment O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Financial O O O B-Financial O
+O O O O O B-Financial O
+O O O O O O O O B-Financial O B-Financial O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O B-Financial O
+O O B-Financial O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O B-Living O
+O O O O O O O B-MentalHealth I-MentalHealth O O
+O O O O O O B-SubstanceUse I-SubstanceUse O
+O O O O O O B-Trauma I-Trauma O B-Trauma O
+O O O O O O O B-Adherence O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Adherence I-Adherence I-Adherence O O I-Adherence O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O B-Adherence I-Adherence I-Adherence O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Literacy O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O I-Recommendation O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O B-Smoke O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education I-Education O O O O O B-Employment I-Employment O O O O
+O O O B-Financial O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education I-Education O O O O O B-Employment O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O B-Social O O O O O O O O
+O O O O O O O O B-Social O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Social O O O B-Social O O O O O O O
+O O O O O B-Transportation O
+O O O O O O O O O B-Transportation O O O O O O
+O O O O O B-Transportation I-Transportation O
+O O O B-Transportation O O O O O O O O O O O O O O O O O O B-Social I-Social I-Social I-Social O O B-Social O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Healthcare I-Healthcare O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Healthcare O O O O O
+O O O O B-Healthcare I-Adherence I-Healthcare O B-Healthcare I-Healthcare O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O I-Healthcare O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O B-Healthcare O O O O O O O
+O O O O O O O O O O O O O
+O O O B-Healthcare O O O O O O O O O O
+O O O O O O O O O O O O I-Healthcare I-Healthcare I-Healthcare O O O O
+O O O O O O O O O O B-Insurance O O O O O O O O B-Insurance O O O O
+O O O O O O O B-Financial O O O O O O O O O O O O O
+O O O B-Financial O O O O O O O
+O O O O O B-Financial O O O O O O O O O O O B-Financial O O O O O O O O O O O O O O O O
+O O B-Financial O O O O
+O O O O O O B-Social O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O I-Healthcare O O O O O O O O O O O O O
+O O O O O B-Adherence I-Adherence I-Adherence O
+O O O O O O
+O O O O O O O O O O O B-Adherence I-Adherence O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O B-Adherence O O O O O O O O O O O O O O O B-Healthcare O B-Trauma O O O O O
+O O O O O O O B-Healthcare I-Healthcare O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O B-Financial O O O O O O O
+O O O O O O O O O O O B-Literacy O O
+O O O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O
+O O O O O O B-Literacy O O O O O O O O O O O O O
+O O O O O O B-MentalHealth O B-MentalHealth O O O B-MentalHealth O O
+O O O O O B-MentalHealth I-MentalHealth O O O
+O O O O O B-MentalHealth I-MentalHealth O O O O O O O O
+O O O O O I-Adherence O O O O
+O O O O O B-Healthcare O O O O O
+O O O O B-Healthcare O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Healthcare O O O O B-Social O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O B-SubstanceUse I-SubstanceUse O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Smoke O O O O O O
+O O B-SubstanceUse I-SubstanceUse O O O O O O
+O O O O O O O O B-Trauma O
+O O O B-Trauma O O O O O O O O
+O O O O B-Trauma O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O B-Trauma O O O O O
+O O O O O O O O B-Trauma O O O O O O
+O O O O O O O O B-Trauma O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Adherence O O O O O
+O O O O O O B-Healthcare I-Healthcare O O O O B-Healthcare I-Healthcare I-Healthcare O O O O O O O O O O O O O O O O
+O O B-Healthcare O B-Healthcare I-Healthcare I-Healthcare O O O O O O O O
+O O O O O O O O O O
+O O O O O B-Concern O O I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence O O O O O O O O O O O O O O O O
+O O O O B-Healthcare O B-Trauma O
+O O O O O O O O O O B-Healthcare O B-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O O O O
+O O O O B-Adherence B-Adherence I-Adherence O O O O O O O O
+O O O B-Concern O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O I-Adherence I-Adherence O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Concern O O O O B-Adherence B-Adherence O O O O O O O O O B-Trauma O O O O O O B-Trauma O O O O O B-Financial B-Financial I-Financial O O O O
+O O O O O O O O O O O O O O O B-Concern O O O O B-Social O O O O O O O O O B-Social O O O O O
+O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O I-Recommendation O O O O O O O
+B-Recommendation I-Recommendation I-Recommendation O O O O
+B-Recommendation I-Recommendation O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O B-Employment O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Living O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O
+O O O O B-Education I-Education B-Education O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Education O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Social O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Trauma O O O O O O O O O O O O O O O
+O O O O O O B-Trauma O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O B-Social O
+O O O O O O O O O O B-Social O
+O O O O O O O O B-Living O O O O O O O B-Social O
+O O O B-Financial O O O B-Financial O B-Financial O I-Financial I-Financial O O O O O B-Adherence I-Adherence I-Adherence O O O O O
+O O O O B-Healthcare I-Healthcare I-Healthcare O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O O O O O
+O O O O O O O O O O O O O
+O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O
+O O O O O B-Financial O O O O
+O O O O O O O O O O O O
+O O B-Employment O O O B-Social O O O I-Financial I-Financial O O O O O O O O O O
+O O O O B-Financial O B-Healthcare O O O O O B-Financial I-Financial B-Financial O O O
+O O O O B-Financial O O B-Financial O O I-Financial O
+O O O O O O O O O O O O O O O O O B-Insurance O
+O O O O O O O B-Financial O O O O O O
+O O O O O O O O O B-Living O O O O O O O O O O O O O O B-Financial O B-Insurance O O O O O
+O O O O O O B-Financial I-Financial I-Financial O O O O O O O O O B-Financial O O
+O O O O B-Transportation O
+B-Transportation O O O O O O O O O
+O O O O O O O O B-MentalHealth I-MentalHealth O O
+O O O O O O O O O O O B-MentalHealth O O O O O O O O
+O O O O O O O B-MentalHealth O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Healthcare O O O B-Healthcare O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Adherence O I-Adherence O O O O O O O
+O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O O
+O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-MentalHealth O O O O O O
+O O O O O O O O O O O
+O O O B-Adherence I-Adherence O O O O O O O O O
+O O O O O O O O O O O O O O O I-Education O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Healthcare O O O O O O O O O O O
+O O O O O B-SubstanceUse I-SubstanceUse O B-Trauma O O
+O O O O B-Trauma I-Trauma O
+O O O O O O O B-Adherence O
+O O O O O O O O O O O I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence O I-Adherence I-Adherence I-Adherence I-Adherence O
+O O O O O O O O O O O O O O I-Adherence O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O I-Adherence O O O O O O O O B-Adherence O
+O O O B-Concern O O O
+O O O O O O O O O O O O O O O O B-Adherence I-Adherence I-Adherence O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Adherence I-Adherence O O O
+O O O B-MentalHealth O O O O O O O
+O O O O O O O O O O O O O O O B-Healthcare O O O O O
+O O O O O O O O O O O O O O O O O O O O I-Adherence O O O O O O O O O O
+O O O O O O I-Recommendation O
+O O O O O B-Healthcare O O O B-MentalHealth O O O O O O O O
+O O O O O O O O O O O
+O O O O O O B-Trauma O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Social O O O O O O
+O O O O I-Adherence O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Recommendation I-Recommendation O O O O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O
+O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O

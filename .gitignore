@@ -1,0 +1,47 @@
+# Ignore Jupyter Notebook temporary folders and virtual documents
+**/.virtual_documents/
+**/.ipynb_checkpoints/
+
+# 1. Ignore everything inside the output folder
+/1.tag/output/*
+
+# Re-include files at the root level of the output folder
+!/1.tag/output/*.csv
+!/1.tag/output/*.json
+
+# 2. Allow Git to "see" the subdirectories (open the doors)
+!/1.tag/output/*/
+
+# 3. Ignore everything inside those subdirectories by default
+/1.tag/output/*/*
+
+# 4. Finally, allow the predictions folder specifically
+!/1.tag/output/*/predictions/
+
+# 5. NEW: Explicitly allow all files INSIDE the predictions folder
+!/1.tag/output/*/predictions/*
+
+
+
+# Ignore virtual environment directories everywhere
+**/.venv/
+**/.virtualenv/
+
+# Ignore macOS metadata files everywhere
+**/.DS_Store
+
+# Ignore compiled Python files everywhere
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+/1.tag/data/mimic3/*
+
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.h5
+*.env

@@ -1,0 +1,1166 @@
+{
+    "BERT": {
+        "Adherence": {
+            "strict": {
+                "precision": 0.32,
+                "recall": 0.296,
+                "f-1": 0.308
+            },
+            "relax": {
+                "precision": 0.52,
+                "recall": 0.481,
+                "f-1": 0.5
+            },
+            "sentence-level": {
+                "precision": 0.708,
+                "recall": 0.63,
+                "f-1": 0.667
+            }
+        },
+        "Concern": {
+            "strict": {
+                "precision": 0.5,
+                "recall": 0.429,
+                "f-1": 0.462
+            },
+            "relax": {
+                "precision": 0.5,
+                "recall": 0.429,
+                "f-1": 0.462
+            },
+            "sentence-level": {
+                "precision": 0.6,
+                "recall": 0.429,
+                "f-1": 0.5
+            }
+        },
+        "Education": {
+            "strict": {
+                "precision": 0.577,
+                "recall": 0.625,
+                "f-1": 0.6
+            },
+            "relax": {
+                "precision": 0.692,
+                "recall": 0.75,
+                "f-1": 0.72
+            },
+            "sentence-level": {
+                "precision": 0.737,
+                "recall": 0.778,
+                "f-1": 0.757
+            }
+        },
+        "Employment": {
+            "strict": {
+                "precision": 0.774,
+                "recall": 0.649,
+                "f-1": 0.706
+            },
+            "relax": {
+                "precision": 0.839,
+                "recall": 0.703,
+                "f-1": 0.765
+            },
+            "sentence-level": {
+                "precision": 0.885,
+                "recall": 0.821,
+                "f-1": 0.852
+            }
+        },
+        "Financial": {
+            "strict": {
+                "precision": 0.623,
+                "recall": 0.647,
+                "f-1": 0.635
+            },
+            "relax": {
+                "precision": 0.755,
+                "recall": 0.784,
+                "f-1": 0.769
+            },
+            "sentence-level": {
+                "precision": 0.87,
+                "recall": 0.851,
+                "f-1": 0.86
+            }
+        },
+        "Healthcare": {
+            "strict": {
+                "precision": 0.373,
+                "recall": 0.333,
+                "f-1": 0.352
+            },
+            "relax": {
+                "precision": 0.537,
+                "recall": 0.48,
+                "f-1": 0.507
+            },
+            "sentence-level": {
+                "precision": 0.75,
+                "recall": 0.627,
+                "f-1": 0.683
+            }
+        },
+        "Insurance": {
+            "strict": {
+                "precision": 0.636,
+                "recall": 0.583,
+                "f-1": 0.609
+            },
+            "relax": {
+                "precision": 0.727,
+                "recall": 0.667,
+                "f-1": 0.696
+            },
+            "sentence-level": {
+                "precision": 0.727,
+                "recall": 0.667,
+                "f-1": 0.696
+            }
+        },
+        "Literacy": {
+            "strict": {
+                "precision": 0.231,
+                "recall": 0.103,
+                "f-1": 0.143
+            },
+            "relax": {
+                "precision": 0.692,
+                "recall": 0.31,
+                "f-1": 0.429
+            },
+            "sentence-level": {
+                "precision": 0.692,
+                "recall": 0.31,
+                "f-1": 0.429
+            }
+        },
+        "Living": {
+            "strict": {
+                "precision": 0.711,
+                "recall": 0.75,
+                "f-1": 0.73
+            },
+            "relax": {
+                "precision": 0.737,
+                "recall": 0.778,
+                "f-1": 0.757
+            },
+            "sentence-level": {
+                "precision": 0.784,
+                "recall": 0.829,
+                "f-1": 0.806
+            }
+        },
+        "MentalHealth": {
+            "strict": {
+                "precision": 0.419,
+                "recall": 0.481,
+                "f-1": 0.448
+            },
+            "relax": {
+                "precision": 0.806,
+                "recall": 0.926,
+                "f-1": 0.862
+            },
+            "sentence-level": {
+                "precision": 0.742,
+                "recall": 0.958,
+                "f-1": 0.836
+            }
+        },
+        "Recommendation": {
+            "strict": {
+                "precision": 0.25,
+                "recall": 0.296,
+                "f-1": 0.271
+            },
+            "relax": {
+                "precision": 0.719,
+                "recall": 0.852,
+                "f-1": 0.78
+            },
+            "sentence-level": {
+                "precision": 0.821,
+                "recall": 0.92,
+                "f-1": 0.868
+            }
+        },
+        "Smoke": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Social": {
+            "strict": {
+                "precision": 0.242,
+                "recall": 0.211,
+                "f-1": 0.225
+            },
+            "relax": {
+                "precision": 0.667,
+                "recall": 0.579,
+                "f-1": 0.62
+            },
+            "sentence-level": {
+                "precision": 0.727,
+                "recall": 0.649,
+                "f-1": 0.686
+            }
+        },
+        "SubstanceUse": {
+            "strict": {
+                "precision": 0.733,
+                "recall": 0.688,
+                "f-1": 0.71
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 0.938,
+                "f-1": 0.968
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 0.933,
+                "f-1": 0.966
+            }
+        },
+        "Transportation": {
+            "strict": {
+                "precision": 0.63,
+                "recall": 0.708,
+                "f-1": 0.667
+            },
+            "relax": {
+                "precision": 0.741,
+                "recall": 0.833,
+                "f-1": 0.784
+            },
+            "sentence-level": {
+                "precision": 0.792,
+                "recall": 0.864,
+                "f-1": 0.826
+            }
+        },
+        "Trauma": {
+            "strict": {
+                "precision": 0.529,
+                "recall": 0.333,
+                "f-1": 0.409
+            },
+            "relax": {
+                "precision": 0.706,
+                "recall": 0.444,
+                "f-1": 0.545
+            },
+            "sentence-level": {
+                "precision": 0.857,
+                "recall": 0.444,
+                "f-1": 0.585
+            }
+        },
+        "overall": {
+            "strict": {
+                "precision": 0.508,
+                "recall": 0.473,
+                "f-1": 0.49
+            },
+            "relax": {
+                "precision": 0.705,
+                "recall": 0.656,
+                "f-1": 0.68
+            },
+            "sentence-level": {
+                "precision": 0.79,
+                "recall": 0.716,
+                "f-1": 0.751
+            }
+        }
+    },
+    "BioBERT": {
+        "Adherence": {
+            "strict": {
+                "precision": 0.19,
+                "recall": 0.148,
+                "f-1": 0.167
+            },
+            "relax": {
+                "precision": 0.571,
+                "recall": 0.444,
+                "f-1": 0.5
+            },
+            "sentence-level": {
+                "precision": 0.789,
+                "recall": 0.556,
+                "f-1": 0.652
+            }
+        },
+        "Concern": {
+            "strict": {
+                "precision": 0.667,
+                "recall": 0.429,
+                "f-1": 0.522
+            },
+            "relax": {
+                "precision": 0.667,
+                "recall": 0.429,
+                "f-1": 0.522
+            },
+            "sentence-level": {
+                "precision": 0.778,
+                "recall": 0.5,
+                "f-1": 0.609
+            }
+        },
+        "Education": {
+            "strict": {
+                "precision": 0.682,
+                "recall": 0.625,
+                "f-1": 0.652
+            },
+            "relax": {
+                "precision": 0.727,
+                "recall": 0.667,
+                "f-1": 0.696
+            },
+            "sentence-level": {
+                "precision": 0.8,
+                "recall": 0.667,
+                "f-1": 0.727
+            }
+        },
+        "Employment": {
+            "strict": {
+                "precision": 0.741,
+                "recall": 0.541,
+                "f-1": 0.625
+            },
+            "relax": {
+                "precision": 0.815,
+                "recall": 0.595,
+                "f-1": 0.688
+            },
+            "sentence-level": {
+                "precision": 0.833,
+                "recall": 0.714,
+                "f-1": 0.769
+            }
+        },
+        "Financial": {
+            "strict": {
+                "precision": 0.638,
+                "recall": 0.588,
+                "f-1": 0.612
+            },
+            "relax": {
+                "precision": 0.787,
+                "recall": 0.725,
+                "f-1": 0.755
+            },
+            "sentence-level": {
+                "precision": 0.864,
+                "recall": 0.809,
+                "f-1": 0.835
+            }
+        },
+        "Healthcare": {
+            "strict": {
+                "precision": 0.741,
+                "recall": 0.267,
+                "f-1": 0.392
+            },
+            "relax": {
+                "precision": 0.741,
+                "recall": 0.267,
+                "f-1": 0.392
+            },
+            "sentence-level": {
+                "precision": 0.852,
+                "recall": 0.343,
+                "f-1": 0.489
+            }
+        },
+        "Insurance": {
+            "strict": {
+                "precision": 0.714,
+                "recall": 0.417,
+                "f-1": 0.526
+            },
+            "relax": {
+                "precision": 0.857,
+                "recall": 0.5,
+                "f-1": 0.632
+            },
+            "sentence-level": {
+                "precision": 0.857,
+                "recall": 0.5,
+                "f-1": 0.632
+            }
+        },
+        "Literacy": {
+            "strict": {
+                "precision": 0.286,
+                "recall": 0.138,
+                "f-1": 0.186
+            },
+            "relax": {
+                "precision": 0.643,
+                "recall": 0.31,
+                "f-1": 0.419
+            },
+            "sentence-level": {
+                "precision": 0.643,
+                "recall": 0.31,
+                "f-1": 0.419
+            }
+        },
+        "Living": {
+            "strict": {
+                "precision": 0.65,
+                "recall": 0.722,
+                "f-1": 0.684
+            },
+            "relax": {
+                "precision": 0.7,
+                "recall": 0.778,
+                "f-1": 0.737
+            },
+            "sentence-level": {
+                "precision": 0.789,
+                "recall": 0.857,
+                "f-1": 0.822
+            }
+        },
+        "MentalHealth": {
+            "strict": {
+                "precision": 0.586,
+                "recall": 0.63,
+                "f-1": 0.607
+            },
+            "relax": {
+                "precision": 0.793,
+                "recall": 0.852,
+                "f-1": 0.821
+            },
+            "sentence-level": {
+                "precision": 0.759,
+                "recall": 0.917,
+                "f-1": 0.83
+            }
+        },
+        "Recommendation": {
+            "strict": {
+                "precision": 0.3,
+                "recall": 0.333,
+                "f-1": 0.316
+            },
+            "relax": {
+                "precision": 0.833,
+                "recall": 0.926,
+                "f-1": 0.877
+            },
+            "sentence-level": {
+                "precision": 0.852,
+                "recall": 0.92,
+                "f-1": 0.885
+            }
+        },
+        "Smoke": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Social": {
+            "strict": {
+                "precision": 0.382,
+                "recall": 0.342,
+                "f-1": 0.361
+            },
+            "relax": {
+                "precision": 0.676,
+                "recall": 0.605,
+                "f-1": 0.639
+            },
+            "sentence-level": {
+                "precision": 0.735,
+                "recall": 0.676,
+                "f-1": 0.704
+            }
+        },
+        "SubstanceUse": {
+            "strict": {
+                "precision": 0.733,
+                "recall": 0.688,
+                "f-1": 0.71
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 0.938,
+                "f-1": 0.968
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 0.933,
+                "f-1": 0.966
+            }
+        },
+        "Transportation": {
+            "strict": {
+                "precision": 0.619,
+                "recall": 0.542,
+                "f-1": 0.578
+            },
+            "relax": {
+                "precision": 0.857,
+                "recall": 0.75,
+                "f-1": 0.8
+            },
+            "sentence-level": {
+                "precision": 0.9,
+                "recall": 0.818,
+                "f-1": 0.857
+            }
+        },
+        "Trauma": {
+            "strict": {
+                "precision": 0.611,
+                "recall": 0.407,
+                "f-1": 0.489
+            },
+            "relax": {
+                "precision": 0.778,
+                "recall": 0.519,
+                "f-1": 0.622
+            },
+            "sentence-level": {
+                "precision": 0.875,
+                "recall": 0.519,
+                "f-1": 0.651
+            }
+        },
+        "overall": {
+            "strict": {
+                "precision": 0.577,
+                "recall": 0.451,
+                "f-1": 0.507
+            },
+            "relax": {
+                "precision": 0.765,
+                "recall": 0.599,
+                "f-1": 0.672
+            },
+            "sentence-level": {
+                "precision": 0.824,
+                "recall": 0.654,
+                "f-1": 0.729
+            }
+        }
+    },
+    "RoBERTa": {
+        "Adherence": {
+            "strict": {
+                "precision": 0.2,
+                "recall": 0.185,
+                "f-1": 0.192
+            },
+            "relax": {
+                "precision": 0.48,
+                "recall": 0.444,
+                "f-1": 0.462
+            },
+            "sentence-level": {
+                "precision": 0.667,
+                "recall": 0.593,
+                "f-1": 0.627
+            }
+        },
+        "Concern": {
+            "strict": {
+                "precision": 0.545,
+                "recall": 0.429,
+                "f-1": 0.48
+            },
+            "relax": {
+                "precision": 0.545,
+                "recall": 0.429,
+                "f-1": 0.48
+            },
+            "sentence-level": {
+                "precision": 0.636,
+                "recall": 0.5,
+                "f-1": 0.56
+            }
+        },
+        "Education": {
+            "strict": {
+                "precision": 0.615,
+                "recall": 0.667,
+                "f-1": 0.64
+            },
+            "relax": {
+                "precision": 0.692,
+                "recall": 0.75,
+                "f-1": 0.72
+            },
+            "sentence-level": {
+                "precision": 0.737,
+                "recall": 0.778,
+                "f-1": 0.757
+            }
+        },
+        "Employment": {
+            "strict": {
+                "precision": 0.703,
+                "recall": 0.703,
+                "f-1": 0.703
+            },
+            "relax": {
+                "precision": 0.811,
+                "recall": 0.811,
+                "f-1": 0.811
+            },
+            "sentence-level": {
+                "precision": 0.867,
+                "recall": 0.929,
+                "f-1": 0.897
+            }
+        },
+        "Financial": {
+            "strict": {
+                "precision": 0.596,
+                "recall": 0.667,
+                "f-1": 0.63
+            },
+            "relax": {
+                "precision": 0.754,
+                "recall": 0.843,
+                "f-1": 0.796
+            },
+            "sentence-level": {
+                "precision": 0.857,
+                "recall": 0.894,
+                "f-1": 0.875
+            }
+        },
+        "Healthcare": {
+            "strict": {
+                "precision": 0.418,
+                "recall": 0.373,
+                "f-1": 0.394
+            },
+            "relax": {
+                "precision": 0.522,
+                "recall": 0.467,
+                "f-1": 0.493
+            },
+            "sentence-level": {
+                "precision": 0.719,
+                "recall": 0.612,
+                "f-1": 0.661
+            }
+        },
+        "Insurance": {
+            "strict": {
+                "precision": 0.727,
+                "recall": 0.667,
+                "f-1": 0.696
+            },
+            "relax": {
+                "precision": 0.818,
+                "recall": 0.75,
+                "f-1": 0.783
+            },
+            "sentence-level": {
+                "precision": 0.818,
+                "recall": 0.75,
+                "f-1": 0.783
+            }
+        },
+        "Literacy": {
+            "strict": {
+                "precision": 0.333,
+                "recall": 0.276,
+                "f-1": 0.302
+            },
+            "relax": {
+                "precision": 0.542,
+                "recall": 0.448,
+                "f-1": 0.491
+            },
+            "sentence-level": {
+                "precision": 0.565,
+                "recall": 0.448,
+                "f-1": 0.5
+            }
+        },
+        "Living": {
+            "strict": {
+                "precision": 0.636,
+                "recall": 0.778,
+                "f-1": 0.7
+            },
+            "relax": {
+                "precision": 0.659,
+                "recall": 0.806,
+                "f-1": 0.725
+            },
+            "sentence-level": {
+                "precision": 0.732,
+                "recall": 0.857,
+                "f-1": 0.789
+            }
+        },
+        "MentalHealth": {
+            "strict": {
+                "precision": 0.406,
+                "recall": 0.481,
+                "f-1": 0.441
+            },
+            "relax": {
+                "precision": 0.781,
+                "recall": 0.926,
+                "f-1": 0.847
+            },
+            "sentence-level": {
+                "precision": 0.742,
+                "recall": 0.958,
+                "f-1": 0.836
+            }
+        },
+        "Recommendation": {
+            "strict": {
+                "precision": 0.25,
+                "recall": 0.296,
+                "f-1": 0.271
+            },
+            "relax": {
+                "precision": 0.719,
+                "recall": 0.852,
+                "f-1": 0.78
+            },
+            "sentence-level": {
+                "precision": 0.846,
+                "recall": 0.88,
+                "f-1": 0.863
+            }
+        },
+        "Smoke": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Social": {
+            "strict": {
+                "precision": 0.308,
+                "recall": 0.316,
+                "f-1": 0.312
+            },
+            "relax": {
+                "precision": 0.59,
+                "recall": 0.605,
+                "f-1": 0.597
+            },
+            "sentence-level": {
+                "precision": 0.639,
+                "recall": 0.622,
+                "f-1": 0.63
+            }
+        },
+        "SubstanceUse": {
+            "strict": {
+                "precision": 0.688,
+                "recall": 0.688,
+                "f-1": 0.688
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Transportation": {
+            "strict": {
+                "precision": 0.654,
+                "recall": 0.708,
+                "f-1": 0.68
+            },
+            "relax": {
+                "precision": 0.808,
+                "recall": 0.875,
+                "f-1": 0.84
+            },
+            "sentence-level": {
+                "precision": 0.875,
+                "recall": 0.955,
+                "f-1": 0.913
+            }
+        },
+        "Trauma": {
+            "strict": {
+                "precision": 0.571,
+                "recall": 0.444,
+                "f-1": 0.5
+            },
+            "relax": {
+                "precision": 0.762,
+                "recall": 0.593,
+                "f-1": 0.667
+            },
+            "sentence-level": {
+                "precision": 0.842,
+                "recall": 0.593,
+                "f-1": 0.696
+            }
+        },
+        "overall": {
+            "strict": {
+                "precision": 0.506,
+                "recall": 0.511,
+                "f-1": 0.508
+            },
+            "relax": {
+                "precision": 0.688,
+                "recall": 0.694,
+                "f-1": 0.691
+            },
+            "sentence-level": {
+                "precision": 0.769,
+                "recall": 0.75,
+                "f-1": 0.76
+            }
+        }
+    },
+    "BiLSTM-CRF": {
+        "Adherence": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Concern": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Education": {
+            "strict": {
+                "precision": 0.957,
+                "recall": 0.917,
+                "f-1": 0.936
+            },
+            "relax": {
+                "precision": 1.043,
+                "recall": 1.0,
+                "f-1": 1.021
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Employment": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Financial": {
+            "strict": {
+                "precision": 0.98,
+                "recall": 0.961,
+                "f-1": 0.97
+            },
+            "relax": {
+                "precision": 1.02,
+                "recall": 1.0,
+                "f-1": 1.01
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Healthcare": {
+            "strict": {
+                "precision": 0.958,
+                "recall": 0.92,
+                "f-1": 0.939
+            },
+            "relax": {
+                "precision": 1.042,
+                "recall": 1.0,
+                "f-1": 1.02
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Insurance": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Literacy": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Living": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "MentalHealth": {
+            "strict": {
+                "precision": 0.92,
+                "recall": 0.852,
+                "f-1": 0.885
+            },
+            "relax": {
+                "precision": 1.08,
+                "recall": 1.0,
+                "f-1": 1.038
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Recommendation": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Smoke": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Social": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "SubstanceUse": {
+            "strict": {
+                "precision": 0.933,
+                "recall": 0.875,
+                "f-1": 0.903
+            },
+            "relax": {
+                "precision": 1.067,
+                "recall": 1.0,
+                "f-1": 1.032
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Transportation": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "Trauma": {
+            "strict": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "relax": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        },
+        "overall": {
+            "strict": {
+                "precision": 0.983,
+                "recall": 0.966,
+                "f-1": 0.974
+            },
+            "relax": {
+                "precision": 1.017,
+                "recall": 1.0,
+                "f-1": 1.009
+            },
+            "sentence-level": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f-1": 1.0
+            }
+        }
+    }
+}

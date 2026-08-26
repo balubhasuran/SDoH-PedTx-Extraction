@@ -1,0 +1,264 @@
+sentence_index,sentence,category,argument_key,true_value,pred_value,error_type
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,experiencer,patients,patients,TP
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,healthcaretype,,surgeries/procedures,FP
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,healthcaretype,diagnosis,,FN
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,experiencer,,patients,FP
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,healthcaretype,,hospital stay,FP
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,experiencer,,patients,FP
+0,"100	Pt, Tanecia, is a 4 year old female who is diagnosed with hypoplastic left heart syndrome s/p norwood, Glenn, and fenestrated fontan with a personal history of ECMO and seizure disorder who is now being referred for heart transplant psychosocial assessment.",Healthcare,healthcaretype,,clinical visits,FP
+3,"Living situation:  Pt, Tanecia, lives with her parents and sisters in Land O Lakes, Florida.",Living,experiencer,patients,patients,TP
+3,"Living situation:  Pt, Tanecia, lives with her parents and sisters in Land O Lakes, Florida.",Living,numofcaregivers,,2,FP
+3,"Living situation:  Pt, Tanecia, lives with her parents and sisters in Land O Lakes, Florida.",Living,livingstatus,current,,FN
+3,"Living situation:  Pt, Tanecia, lives with her parents and sisters in Land O Lakes, Florida.",Living,livingtype,with both parents,,FN
+3,"Living situation:  Pt, Tanecia, lives with her parents and sisters in Land O Lakes, Florida.",Living,residenttype,home,,FN
+4,"They reside at 4427 Dylan Loop, # 187, Land O Lakes, FL  34639.",Living,experiencer,,patients,FP
+4,"They reside at 4427 Dylan Loop, # 187, Land O Lakes, FL  34639.",Living,numofcaregivers,,2,FP
+4,"They reside at 4427 Dylan Loop, # 187, Land O Lakes, FL  34639.",Living,experiencer,family,,FN
+4,"They reside at 4427 Dylan Loop, # 187, Land O Lakes, FL  34639.",Living,livingstatus,current,,FN
+4,"They reside at 4427 Dylan Loop, # 187, Land O Lakes, FL  34639.",Living,residenttype,home,,FN
+5,They reside in an apartment/ town home.,Living,experiencer,,patients,FP
+5,They reside in an apartment/ town home.,Living,numofcaregivers,,0,FP
+5,They reside in an apartment/ town home.,Living,experiencer,family,,FN
+5,They reside in an apartment/ town home.,Living,livingstatus,current,,FN
+5,They reside in an apartment/ town home.,Living,residenttype,home,,FN
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,experiencer,family,family,TP
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,smokestatus,none,none,TP
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,experiencer,,father,FP
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,smokestatus,,past,FP
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,experiencer,parents/caregiver,,FN
+8,"There is no smoking in the home, although dad had been smoking outside.",Smoke,smokestatus,current,,FN
+9,He was just diagnosed with asthma and is trying to stop smoking completely at this time.,Smoke,experiencer,,patients,FP
+9,He was just diagnosed with asthma and is trying to stop smoking completely at this time.,Smoke,smokestatus,current,current,TP
+9,He was just diagnosed with asthma and is trying to stop smoking completely at this time.,Smoke,experiencer,parents/caregiver,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,experiencer,,mother,FP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,employmentstatus,on leave,on leave,TP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,experiencer,parents/caregiver,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,experiencer,,father,FP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,employmentstatus,employed,employed,TP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Employment,experiencer,parents/caregiver,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Healthcare,experiencer,parents/caregiver,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Healthcare,healthcaretype,general,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,experiencer,parents/caregiver,parents/caregiver,TP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,socialfamilylevel,,high,FP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,socialchurchlevel,,low,FP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,socialgovernmentlevel,,low,FP
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,socialactivity,high,,FN
+10,"Demographics:  Mother: Courtney Hauss  DOB:  07/25/1991           Age:  25  Employment:  Kers Winghouse (currently not working due to pt's medical care needs)  Phone:  352-204-3349 (cell)     Father: Justin Fisher  DOB:  03/20/1989    Age:  27  Employment:  Kers Winghouse  Phone:  813-551-8952 (cell)     Siblings:  Isabelle Fisher, Age 5  Coraline Fisher, Age 2     Support systems:  Courtney disclosed that Justin and she provide a lot of support to one another.",Social,socialtype,family,,FN
+11,She states the extended family is also involved and supportive.,Social,experiencer,,family,FP
+11,She states the extended family is also involved and supportive.,Social,socialfamilylevel,,high,FP
+11,She states the extended family is also involved and supportive.,Social,socialchurchlevel,,low,FP
+11,She states the extended family is also involved and supportive.,Social,socialgovernmentlevel,,low,FP
+11,She states the extended family is also involved and supportive.,Social,experiencer,parents/caregiver,,FN
+11,She states the extended family is also involved and supportive.,Social,socialactivity,high,,FN
+11,She states the extended family is also involved and supportive.,Social,socialtype,family,,FN
+12,Both sets of grandparents reside nearby and assist with caring for the other children while parents care for Tanecia.,Living,experiencer,grandparents,grandparents,TP
+12,Both sets of grandparents reside nearby and assist with caring for the other children while parents care for Tanecia.,Living,numofcaregivers,,2,FP
+12,Both sets of grandparents reside nearby and assist with caring for the other children while parents care for Tanecia.,Living,livingstatus,current,,FN
+12,Both sets of grandparents reside nearby and assist with caring for the other children while parents care for Tanecia.,Living,livingtype,with other relatives,,FN
+12,Both sets of grandparents reside nearby and assist with caring for the other children while parents care for Tanecia.,Living,residenttype,home,,FN
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Employment,experiencer,,mother,FP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Employment,employmentstatus,employed,employed,TP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Employment,experiencer,grandparents,,FN
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Employment,experiencer,,father,FP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Employment,employmentstatus,,employed,FP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Education,experiencer,,children,FP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Education,educationstatus,current,current,TP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Education,educationlevel,,childhood,FP
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Education,educationtype,general,,FN
+13,Courtney states her mother has been getting off from work early in order to pick up the oldest child from school at 4 PM because Justin has to be at work at 4 PM.,Education,experiencer,siblings,,FN
+15,Courtney disclosed that they both have a car.,Transportation,experiencer,parents/caregiver,parents/caregiver,TP
+15,Courtney disclosed that they both have a car.,Transportation,transportationvehicleaccess,,easy,FP
+15,Courtney disclosed that they both have a car.,Transportation,transportationcost,,low,FP
+15,Courtney disclosed that they both have a car.,Transportation,transportationdistance,,short,FP
+15,Courtney disclosed that they both have a car.,Transportation,transportationlicense,,yes,FP
+15,Courtney disclosed that they both have a car.,Transportation,transportationviolation,,no,FP
+15,Courtney disclosed that they both have a car.,Transportation,transportationconveniencelevel,easy,,FN
+15,Courtney disclosed that they both have a car.,Transportation,transportationtype,vehicle access,,FN
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,experiencer,father,father,TP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationvehicleaccess,,easy,FP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationcost,,low,FP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationdistance,,short,FP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationlicense,,yes,FP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationviolation,,no,FP
+16,"However, Justin's car is just for him to get back and forth to work.",Transportation,transportationtype,vehicle access,,FN
+17,She states it is not reliable enough to be used as a family car.,Transportation,experiencer,,family,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationvehicleaccess,,easy,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationcost,,low,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationdistance,,short,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationlicense,,yes,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationviolation,,no,FP
+17,She states it is not reliable enough to be used as a family car.,Transportation,experiencer,parents/caregiver,,FN
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationconveniencelevel,hard,,FN
+17,She states it is not reliable enough to be used as a family car.,Transportation,transportationtype,vehicle access,,FN
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,experiencer,,mother,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationvehicleaccess,,easy,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationcost,,low,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationdistance,,short,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationlicense,,yes,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationviolation,,no,FP
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,experiencer,family,,FN
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationconveniencelevel,easy,,FN
+18,She states she drives a large SUV that they use as the family vehicle.,Transportation,transportationtype,vehicle access,,FN
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,experiencer,,mother,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationvehicleaccess,,easy,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationcost,,high,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationdistance,,short,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationlicense,,yes,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationviolation,,no,FP
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,experiencer,parents/caregiver,,FN
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationconveniencelevel,hard,,FN
+21,She is concerned about the cost of the gas for that vehicle.,Transportation,transportationtype,transportation cost,,FN
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,experiencer,mother,mother,TP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationvehicleaccess,,easy,FP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationcost,,low,FP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationdistance,,short,FP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationlicense,,yes,FP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationviolation,,no,FP
+22,She states they may trade it in for a more fuel efficient vehicle.,Transportation,transportationtype,vehicle access,,FN
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,experiencer,,mother,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationvehicleaccess,,easy,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationcost,,low,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationdistance,,long,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationlicense,,no,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationviolation,,no,FP
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,experiencer,parents/caregiver,,FN
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationconveniencelevel,easy,,FN
+23,"Other than the cost of the gas, she states that travel to and from Gainesville will not be problematic.",Transportation,transportationtype,transportation cost,,FN
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,experiencer,,children,FP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,educationstatus,,past,FP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,educationlevel,,childhood,FP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,experiencer,,children,FP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,educationstatus,current,current,TP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,educationlevel,,childhood,FP
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,educationtype,childhood,,FN
+24,"Tanecia attended VPK last year, and was enrolled to attend again this year.",Education,experiencer,patients,,FN
+25,"However, due to the decline in her health over the past few months, she has not been able to begin attending yet this school year.",Education,experiencer,patients,patients,TP
+25,"However, due to the decline in her health over the past few months, she has not been able to begin attending yet this school year.",Education,educationstatus,current,current,TP
+25,"However, due to the decline in her health over the past few months, she has not been able to begin attending yet this school year.",Education,educationlevel,,childhood,FP
+25,"However, due to the decline in her health over the past few months, she has not been able to begin attending yet this school year.",Education,educationtype,childhood,,FN
+26,"Course of illness:     Tanecia was diagnosed with hypoplastic left heart syndrome and underwent norwood, glenn, and fenestrated fontan procedures.",Healthcare,experiencer,patients,patients,TP
+26,"Course of illness:     Tanecia was diagnosed with hypoplastic left heart syndrome and underwent norwood, glenn, and fenestrated fontan procedures.",Healthcare,healthcaretype,,surgeries/procedures,FP
+26,"Course of illness:     Tanecia was diagnosed with hypoplastic left heart syndrome and underwent norwood, glenn, and fenestrated fontan procedures.",Healthcare,healthcaretype,diagnosis,,FN
+28,She has recently had increased hospital stays due to worsening tricuspid valve insufficiency and RV dilatation and dysfunction.,Healthcare,experiencer,patients,patients,TP
+28,She has recently had increased hospital stays due to worsening tricuspid valve insufficiency and RV dilatation and dysfunction.,Healthcare,healthcaretype,,hospital stay,FP
+28,She has recently had increased hospital stays due to worsening tricuspid valve insufficiency and RV dilatation and dysfunction.,Healthcare,healthcaretype,hospital admit,,FN
+30,Tanecia is developmentally delayed.,Mental Health,experiencer,patients,,FN
+30,Tanecia is developmentally delayed.,Mental Health,mentalhealthstatus,current,,FN
+30,Tanecia is developmentally delayed.,Mental Health,mentalhealthtype,neuro condition,,FN
+35,Financial Situation:     Tanecia is covered by CMS insurance.,Insurance,experiencer,patients,patients,TP
+35,Financial Situation:     Tanecia is covered by CMS insurance.,Insurance,insurancetype,public,public,TP
+36,She receives SSI as well.,Financial,experiencer,patients,patients,TP
+36,She receives SSI as well.,Financial,financialstatus,,normal,FP
+36,She receives SSI as well.,Financial,financialstatus,poverty,,FN
+37,"In addition, the family is supported by dad's employment income.",Financial,experiencer,family,family,TP
+37,"In addition, the family is supported by dad's employment income.",Financial,financialstatus,normal,normal,TP
+38,"When Tanecia is doing better, the family also is supported by employment income from mom.",Financial,experiencer,family,family,TP
+38,"When Tanecia is doing better, the family also is supported by employment income from mom.",Financial,financialstatus,normal,normal,TP
+39,Neither parent is eligible for PTO.,Financial,experiencer,,family,FP
+39,Neither parent is eligible for PTO.,Financial,financialstatus,,constrain,FP
+39,Neither parent is eligible for PTO.,Financial,experiencer,parents/caregiver,,FN
+39,Neither parent is eligible for PTO.,Financial,financialstatus,pto,,FN
+40,Neither is eligible for FMLA either.,Employment,experiencer,parents/caregiver,parents/caregiver,TP
+40,Neither is eligible for FMLA either.,Employment,employmentstatus,,employed,FP
+40,Neither is eligible for FMLA either.,Employment,employmentstatus,fmla,,FN
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Healthcare,experiencer,,family,FP
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Healthcare,healthcaretype,,hospital stay,FP
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Healthcare,experiencer,patients,,FN
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Healthcare,healthcaretype,hospital admit,,FN
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Financial,experiencer,family,family,TP
+41,Courtney admits that the family struggles financially with the added expenses of pt's hospital admissions.,Financial,financialstatus,constrain,constrain,TP
+44,She is also interested in fundraising.,Financial,experiencer,,patients,FP
+44,She is also interested in fundraising.,Financial,financialstatus,,constrain,FP
+44,She is also interested in fundraising.,Financial,experiencer,parents/caregiver,,FN
+44,She is also interested in fundraising.,Financial,financialstatus,fundraising,,FN
+45,She was given information on fundraising through COTA.,Financial,experiencer,,patients,FP
+45,She was given information on fundraising through COTA.,Financial,financialstatus,,constrain,FP
+45,She was given information on fundraising through COTA.,Financial,experiencer,parents/caregiver,,FN
+45,She was given information on fundraising through COTA.,Financial,financialstatus,fundraising,,FN
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,experiencer,,patients,FP
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,socialfamilylevel,,low,FP
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,socialchurchlevel,,low,FP
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,socialgovernmentlevel,,medium,FP
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,experiencer,parents/caregiver,,FN
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,socialactivity,medium,,FN
+47,She also verbalizes desire to apply for First Hand Foundation grant to assist with their travel expenses.,Social,socialtype,non-profit,,FN
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,mentalhealthtype,depression,depression,TP
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,experiencer,,patients,FP
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,mentalhealthstatus,current,current,TP
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,experiencer,parents/caregiver,,FN
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,mentalhealthtype,,depression,FP
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,experiencer,,patients,FP
+54,Courtney reports that both she and Justin have been diagnosed with depression.,Mental Health,mentalhealthstatus,,current,FP
+55,She states she has also been diagnosed with anxiety.,Mental Health,mentalhealthtype,anxiety,anxiety,TP
+55,She states she has also been diagnosed with anxiety.,Mental Health,experiencer,,patients,FP
+55,She states she has also been diagnosed with anxiety.,Mental Health,mentalhealthstatus,current,current,TP
+55,She states she has also been diagnosed with anxiety.,Mental Health,experiencer,mother,,FN
+56,She states neither of them are on any psychotropic meds for this however.,Mental Health,mentalhealthtype,medication,medication,TP
+56,She states neither of them are on any psychotropic meds for this however.,Mental Health,experiencer,,patients,FP
+56,She states neither of them are on any psychotropic meds for this however.,Mental Health,mentalhealthstatus,none,none,TP
+56,She states neither of them are on any psychotropic meds for this however.,Mental Health,experiencer,parents/caregiver,,FN
+57,Courtney denies any substance abuse history in the family.,Substance Use,experiencer,family,family,TP
+57,Courtney denies any substance abuse history in the family.,Substance Use,substanceusestatus,none,none,TP
+58,There is no reported history of DV or involvement with DCF.,Trauma,experiencer,,patients,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,divorce,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,loss,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,physicalabuse,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,psychologicalabuse,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,domesticviolence,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,dcf,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,abandonment,,none,FP
+58,There is no reported history of DV or involvement with DCF.,Trauma,experiencer,family,,FN
+58,There is no reported history of DV or involvement with DCF.,Trauma,traumastatus,none,,FN
+58,There is no reported history of DV or involvement with DCF.,Trauma,traumatype,domestic violence,,FN
+58,There is no reported history of DV or involvement with DCF.,Trauma,experiencer,family,,FN
+58,There is no reported history of DV or involvement with DCF.,Trauma,traumastatus,none,,FN
+58,There is no reported history of DV or involvement with DCF.,Trauma,traumatype,dcf,,FN
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,experiencer,,patients,FP
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,adherencemedication,,normal,FP
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,adherencetherapy,,normal,FP
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,adherenceother,,normal,FP
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,adherencelevel,high,,FN
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,adherencetype,medication,,FN
+59,Adherence:  There are no concerns for adherence noted at this time.,Adherence,concernlevel,none,,FN
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,experiencer,,patients and caregivers,FP
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,transplantknowledge,,none,FP
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,caregivingknowledge,,high,FP
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,medicationknowledge,,normal,FP
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,experiencer,mother,,FN
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,literacylevel,high,,FN
+60,Courtney demonstrates good knowledge of Tanecia's medical care needs and appears comfortable providing her care.,Literacy,literacytype,caregiving knowledge,,FN
+61,She administers meds orally and through the g-tube.,Healthcare,experiencer,,patients and caregivers,FP
+61,She administers meds orally and through the g-tube.,Healthcare,healthcaretype,medications,medications,TP
+61,She administers meds orally and through the g-tube.,Healthcare,experiencer,parents/caregiver,,FN
+62,She states that Tanecia typically takes all of her meds but one orally.,Healthcare,experiencer,patients,patients,TP
+62,She states that Tanecia typically takes all of her meds but one orally.,Healthcare,healthcaretype,medications,medications,TP
+63,"However, because she is currently npo due to oxygen support requirement, she is getting all of her meds through the g-tube.",Healthcare,experiencer,patients,patients,TP
+63,"However, because she is currently npo due to oxygen support requirement, she is getting all of her meds through the g-tube.",Healthcare,healthcaretype,medications,medications,TP
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,experiencer,,patients,FP
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,adherencemedication,,normal,FP
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,adherencetherapy,,normal,FP
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,adherenceother,,normal,FP
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,adherencelevel,high,,FN
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,adherencetype,appointments,,FN
+65,"She verbalizes a commitment to keeping follow up appointments, obtaining labs, etc.",Adherence,experiencer,parents/caregiver,,FN
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,experiencer,,patients,FP
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,adherencemedication,,none,FP
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,adherencetherapy,,high,FP
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,adherenceother,,none,FP
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,adherencelevel,high,,FN
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,adherencetype,appointments,,FN
+66,She also verbalizes a commitment to continuing the therapies for pt's rehab from seizure disorder.,Adherence,experiencer,parents/caregiver,,FN
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,experiencer,,family,FP
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,transplantknowledge,,normal,FP
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,caregivingknowledge,,normal,FP
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,medicationknowledge,,normal,FP
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,experiencer,parents/caregiver,,FN
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,literacylevel,high,,FN
+67,"Assessment and recommendations:     Although initially the family was hoping for valve repair rather than transplant, Courtney states they are now totally on board with transplant.",Literacy,literacytype,transplant knowledge,,FN
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,experiencer,,father,FP
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,transplantknowledge,,normal,FP
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,caregivingknowledge,,normal,FP
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,medicationknowledge,,normal,FP
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,experiencer,mother,,FN
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,literacylevel,high,,FN
+71,She states that dad is also in agreement with moving forward with transplant.,Literacy,literacytype,transplant knowledge,,FN

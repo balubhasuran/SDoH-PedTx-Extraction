@@ -1,0 +1,1076 @@
+{
+   "0": {
+      "sentence": "134\tPt, ******, is a 14 year old female[FP1] who is diagnosed with history of ventricular tachycardia s/p 2 ablations, now with atrial tachycardia and poor heart function who is being referred for heart transplant evaluation.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "diagnosis"
+            }
+         }
+      ]
+   },
+   "1": {
+      "sentence": "[FP2]  Information for this assessment was obtained through an interview with the pt's mother, step-father (by phone), and review of the medical records."
+   },
+   "2": {
+      "sentence": "Living situation:  **, ******, lives with her mother, step-father, and 5 siblings[FP3] at *** * ******** **, ****** **** **.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with both parents"
+            }
+         }
+      ]
+   },
+   "3": {
+      "sentence": "They reside in a 3 bedroom, 2 bath mobile home[FP4] with city water and central a/c.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "LivingType": "with both parents",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "4": {
+      "sentence": "However, the central a/c is currently not working."
+   },
+   "5": {
+      "sentence": "They also have window a/c units[FP5]."
+   },
+   "6": {
+      "sentence": "There is no smoking in the home[FP6].",
+      "SDoH": [
+         {
+            "Smoke": {
+               "Experiencer": "patients and caregivers",
+               "SmokeStatus": "none"
+            }
+         }
+      ]
+   },
+   "7": {
+      "sentence": "They have 1 inside dog (law enforcement trained), a hamster, and 1 outside dog[FP7]."
+   },
+   "8": {
+      "sentence": "Demographics:  Mother: ***** *******  DOB:  **/**/****           Age: 39  Employment:  Fulltime mom and student[FP8]  Education:  ******* on Social Work degree from ******** ******* *******  Phone:  ***-***-**** (cell)     ****-father:  ****** *******  DOB:  **/**/****           Age: 32  Employment:  Bay Correctional Institute[FP9]  Phone:  ***-***-**** (cell)     Father:  Not involved at all[FP10]     Siblings:  Sister:  ***** *********              Age: 22                Resides independently in ****** ****  Sister:  ***** ******                      Age: 21                Resides independently in Tallahassee  Sister:  ****** *********             Age: 15                Healthy  Brother: ******* *****                  Age: 11                Healthy  Brother: ***** *** ***** **          Age: 6                   Healthy  Brother:  **** *******                Age: 5                   *****  Brother:  ****** *******           Age: 3                   Healthy        Support systems:     The family appears to have adequate support in ****** ****, but very limited support in Gainesville.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "student",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "high level",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Education": {
+               "EducationStatus": "past",
+               "EducationType": "high level",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "step-parent"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Father",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "9": {
+      "sentence": "Currently, an aunt is caring for the 4 boys[FP11].  ****** is home with ******* but will be joining mom here in Gainesville when ******* comes this weekend.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients and siblings",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "10": {
+      "sentence": "Mom has no living relatives other than her sister, whom she is estranged from.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "11": {
+      "sentence": "Dad has a lot of family locally in ****** **** that are willing to provide support to them.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Father",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "12": {
+      "sentence": "Mom states they have a lot of friends who provide emotional support as well[FP12], but few that are able to provide financial assistance[FP13].",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "high",
+               "SocialType": "friends"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "Mother",
+               "FinancialStatus": "fundraising"
+            }
+         }
+      ]
+   },
+   "13": {
+      "sentence": "Mom plans to be the primary caregiver post-transplant, but states her husband will also help as a back-up caregiver.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "14": {
+      "sentence": "She disclosed that ****** is close to ******, and enjoys spending time with him fishing etc.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "15": {
+      "sentence": "Mom states that she and ****** have been married for 3 years but have been together about 6 years."
+   },
+   "16": {
+      "sentence": "[FP14]       ****** has a vehicle and is able to provide transportation to and from Gainesville.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "easy",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "17": {
+      "sentence": "Mom does not drive.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Mother",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         }
+      ]
+   },
+   "18": {
+      "sentence": "However, she states she may be motivated to get her drivers license now that ****** is admitted so far away from home.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Mother",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         }
+      ]
+   },
+   "19": {
+      "sentence": "[FP15]       Mom disclosed that the family does not have a church that they attend.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients and caregivers",
+               "SocialActivity": "low",
+               "SocialType": "church"
+            }
+         }
+      ]
+   },
+   "20": {
+      "sentence": "However, she states her faith is important to her and is a large source of support.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "medium",
+               "SocialType": "church"
+            }
+         }
+      ]
+   },
+   "21": {
+      "sentence": "She is open to having support from the chaplain during this admission.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "medium",
+               "SocialType": "church"
+            }
+         }
+      ]
+   },
+   "22": {
+      "sentence": "[FP16]       ****** will be entering the 9th grade[FP17] in the ****.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "childhood",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "23": {
+      "sentence": "She is on the ***** roll, although she reportedly does not always do her homework."
+   },
+   "24": {
+      "sentence": "She is not on an IEP.",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "current",
+               "EducationType": "childhood",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "25": {
+      "sentence": "She has never attended homebound school, although mom is open to the possibility[FP18].  ****** enjoys volleyball and swimming[FP19]."
+   },
+   "26": {
+      "sentence": "She is a '*****'."
+   },
+   "27": {
+      "sentence": "She loves to watch Food Network and to cook."
+   },
+   "28": {
+      "sentence": "She is described as funny, tough, giving, and fun to be around."
+   },
+   "29": {
+      "sentence": "Course of illness:     ****** reportedly was diagnosed with ventricular tachycardia in 2015.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "diagnosis"
+            }
+         }
+      ]
+   },
+   "30": {
+      "sentence": "She was started on atenolol or metoprolol (unclear from mom).  ****** was not compliant with the meds but reportedly did well until late 2017.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "31": {
+      "sentence": "[FP20]  She underwent two ablations, one early in 2018, and one at ******* during current She is now experiencing atrial tachycardia and low EF.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "32": {
+      "sentence": "She was transferred to our center for evaluation for transplant and other supportive devices if needed.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "Transfer"
+            }
+         }
+      ]
+   },
+   "33": {
+      "sentence": "[FP21]       Financial Situation:     ****** is covered by Medicaid prestige insurance.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "patients",
+               "InsuranceType": "public"
+            }
+         }
+      ]
+   },
+   "34": {
+      "sentence": "She does not currently receive SSI benefits.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "patients",
+               "FinancialStatus": "constrain"
+            }
+         }
+      ]
+   },
+   "35": {
+      "sentence": "However, mom is willing to apply for this."
+   },
+   "36": {
+      "sentence": "[FP22]  The family is also supported by employment income of step-father.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "patients and caregivers",
+               "FinancialStatus": "normal"
+            }
+         }
+      ]
+   },
+   "37": {
+      "sentence": "Mom admits that they struggle financially.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "patients and caregivers",
+               "FinancialStatus": "constrain"
+            }
+         }
+      ]
+   },
+   "38": {
+      "sentence": "[FP23] She is currently not covered by any insurance and has not been able to afford her own healthcare needs.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "Mother",
+               "InsuranceType": "none"
+            }
+         },
+         {
+            "Healthcare": {
+               "ConcernLevel": "moderate",
+               "Experiencer": "Mother",
+               "HealthcareType": "none"
+            }
+         }
+      ]
+   },
+   "39": {
+      "sentence": "However, all of the children are covered by Medicaid, and she and dad will soon be covered through his employer's insurance.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "patients and siblings",
+               "InsuranceType": "public"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "Father"
+            }
+         }
+      ]
+   },
+   "40": {
+      "sentence": "[FP24]     Information on fundraising through **** was provided.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "parents/caregiver",
+               "FinancialStatus": "fundraising",
+               "RecommendationType": "increase financial support"
+            }
+         }
+      ]
+   },
+   "41": {
+      "sentence": "Mom verbalizes an interest in pursuing this.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "42": {
+      "sentence": "An application for First Hand Foundation ***** was also provided.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "parents/caregiver",
+               "FinancialStatus": "fundraising",
+               "RecommendationType": "increase financial support"
+            }
+         }
+      ]
+   },
+   "43": {
+      "sentence": "[FP25]          Family History:     Mom disclosed that she does not know any of the medical information on biological father's side of the family."
+   },
+   "44": {
+      "sentence": "She was reluctant to discuss him, except to say he is not involved at all and has no legal rights for pt.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "45": {
+      "sentence": "Mom disclosed that she has an 'irregular heartbeat' and had previously been on atenolol for this.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "diagnosis"
+            }
+         }
+      ]
+   },
+   "46": {
+      "sentence": "However, she lost insurance coverage and has not been able to continue care for this[FP26].",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "Mother",
+               "InsuranceType": "none"
+            }
+         }
+      ]
+   },
+   "47": {
+      "sentence": "She states she sometimes thinks it is more related to anxiety.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "48": {
+      "sentence": "She states she can calm her heartrate by breathing techniques and relaxation strategies."
+   },
+   "49": {
+      "sentence": "She reports that diabetes and hypertension run in her side of the family."
+   },
+   "50": {
+      "sentence": "She denies any other family history of heart problems or any family history of cancer."
+   },
+   "51": {
+      "sentence": "She does have a son with Down syndrome.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "siblings",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "neuro condition"
+            }
+         }
+      ]
+   },
+   "52": {
+      "sentence": "Mom disclosed that her mother was diagnosed as bipolar.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "grandparents",
+               "MentalHealthStatus": "current"
+            }
+         }
+      ]
+   },
+   "53": {
+      "sentence": "[FP27] She was also an alcoholic.",
+      "SDoH": [
+         {
+            "Substance Use": {
+               "Experiencer": "grandparents",
+               "SubstanceUseStatus": "past"
+            }
+         }
+      ]
+   },
+   "54": {
+      "sentence": "[FP28]  Mom states she was primarily raised by her grandmother due to her mother's mental health issues and substance abuse.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "grandparents",
+               "MentalHealthStatus": "past",
+               "MentalHealthType": "general"
+            }
+         },
+         {
+            "Substance Use": {
+               "Experiencer": "grandparents",
+               "SubstanceUseStatus": "past"
+            }
+         }
+      ]
+   },
+   "55": {
+      "sentence": "[FP29][FP30]  She describes being very close to her grandmother, who was an RN.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "high",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "56": {
+      "sentence": "Her grandmother died in 2003 at the age of 71 from a stroke.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Mother",
+               "TraumaStatus": "past",
+               "TraumaType": "loss"
+            }
+         }
+      ]
+   },
+   "57": {
+      "sentence": "Two years later, her mother committed suicide[FP31].",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Mother",
+               "TraumaStatus": "past",
+               "TraumaType": "loss"
+            }
+         }
+      ]
+   },
+   "58": {
+      "sentence": "Mom's only remaining family member from her family of origin is her sister."
+   },
+   "59": {
+      "sentence": "However, she states that she and her sister are estranged from one another.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "60": {
+      "sentence": "[FP32]     Mom disclosed that she struggles with anxiety.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "61": {
+      "sentence": "She states ****** has appeared anxious at times due to her medical condition, but is typically 'tough' and happy.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "patients",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "62": {
+      "sentence": "She denies any other mental health issues in the family.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Family",
+               "MentalHealthStatus": "none"
+            }
+         }
+      ]
+   },
+   "63": {
+      "sentence": "[FP33]  She denies any other family history of substance abuse.",
+      "SDoH": [
+         {
+            "Substance Use": {
+               "Experiencer": "Family",
+               "SubstanceUseStatus": "none"
+            }
+         }
+      ]
+   },
+   "64": {
+      "sentence": "[FP34]  She denies any involvement with law enforcement.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "none",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "65": {
+      "sentence": "[FP35]       She does report that DCF has been called multiple times on the family.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Family",
+               "TraumaStatus": "past",
+               "TraumaType": "DCF"
+            }
+         }
+      ]
+   },
+   "66": {
+      "sentence": "[FP36]  She initially disclosed '60 times'."
+   },
+   "67": {
+      "sentence": "However, she then said she was ************."
+   },
+   "68": {
+      "sentence": "She states they have been called for allegations of 'beating' the children.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "past",
+               "TraumaType": "Abuse"
+            }
+         }
+      ]
+   },
+   "69": {
+      "sentence": "She states these allegations were always unsubstantiated as there were never any marks or bruises.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "none",
+               "TraumaType": "Abuse"
+            }
+         }
+      ]
+   },
+   "70": {
+      "sentence": "[FP37] However, she states she does spank her children when they need it.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "patients and siblings",
+               "TraumaStatus": "current",
+               "TraumaType": "physical"
+            }
+         }
+      ]
+   },
+   "71": {
+      "sentence": "She states she would rather spank them, than have them engage in a behavior that could lead to an injury.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "patients and siblings",
+               "TraumaStatus": "current",
+               "TraumaType": "physical"
+            }
+         }
+      ]
+   },
+   "72": {
+      "sentence": "She also states DCF was called with a complaint that all they fed the children was *******.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "parents/caregiver",
+               "TraumaStatus": "current",
+               "TraumaType": "DCF"
+            }
+         }
+      ]
+   },
+   "73": {
+      "sentence": "She again said this was unsubstantiated, and states they always offer a variety of 'sides' with meals."
+   },
+   "74": {
+      "sentence": "[FP38]  She admits it is hard to feed so many, but states they always have enough for everyone to have one plate of food, and for those who desire so to have seconds.",
+      "SDoH": [
+         {
+            "Concern": {
+               "ConcernLevel": "moderate",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "75": {
+      "sentence": "[FP39]       Adherence:  There are concerns for adherence.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "appointments",
+               "ConcernLevel": "moderate",
+               "Experiencer": "patients and caregivers"
+            }
+         }
+      ]
+   },
+   "76": {
+      "sentence": "There is documented lapses in medical care in which ****** was 'lost to follow up'.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "appointments",
+               "Experiencer": "patients and caregivers"
+            }
+         }
+      ]
+   },
+   "77": {
+      "sentence": "[FP40]  Mom states this was due to a loss of insurance.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "Family",
+               "InsuranceType": "none"
+            }
+         }
+      ]
+   },
+   "78": {
+      "sentence": "[FP41]  However, it does not appear that the family was ever over the income limits for the children to qualify for Medicaid.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         },
+         {
+            "Insurance": {
+               "Experiencer": "patients and siblings",
+               "InsuranceType": "public"
+            }
+         }
+      ]
+   },
+   "79": {
+      "sentence": "This makes it more likely that a loss in coverage was due to not updating the required information with DCF.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "patients and caregivers",
+               "InsuranceType": "none"
+            }
+         }
+      ]
+   },
+   "80": {
+      "sentence": "[FP42]  There are also documented concerns that ****** has not always been compliant with taking meds.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "81": {
+      "sentence": "Mom verbalizes that she would never stop a med without first consulting a doctor.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "medication knowledge"
+            }
+         }
+      ]
+   },
+   "82": {
+      "sentence": "However, it appears that this may have happened.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "Mother"
+            }
+         }
+      ]
+   },
+   "83": {
+      "sentence": "[FP43]  ****** reportedly did not like the way her heart felt after taking one of the meds."
+   },
+   "84": {
+      "sentence": "Mom states she reported this to the cardiologist, and did not just allow her to stop taking it."
+   },
+   "85": {
+      "sentence": "However, there is no documentation to confirm that she reported to cardiologist and was directed to stop it."
+   },
+   "86": {
+      "sentence": "SW reiterated to mom the importance of compliance with meds after transplant."
+   },
+   "87": {
+      "sentence": "She states that she understands and states ****** will not have a problem with taking them as prescribed.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "medication knowledge"
+            }
+         },
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "medication",
+               "Experiencer": "patients and caregivers"
+            }
+         }
+      ]
+   },
+   "88": {
+      "sentence": "[FP44] SW advised mom that many teens struggle with noncompliance with meds, and that this is a concern we need to address ************.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients"
+            }
+         }
+      ]
+   },
+   "89": {
+      "sentence": "SW has not yet had a chance to directly engage ****** in discussion of this, as she has not been feeling well and is requesting that medical decisions be made on her behalf right now."
+   },
+   "90": {
+      "sentence": "SW will continue to attempt to engage her in decision making, as she is at increased risk if she is not moving forward with transplant because it is her decision to do so.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Mother",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "91": {
+      "sentence": "The family also has only one car, and one licensed driver (step-dad).",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "92": {
+      "sentence": "Information on using Medicaid transport for follow up appointments will be provided.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "N/A",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "93": {
+      "sentence": "[FP45]       Assessment and recommendations:     Mom presented as anxious and overwhelmed throughout the evaluation.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "current",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "94": {
+      "sentence": "She verbalizes that she will likely not be able to recall most of the information that was presented.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "95": {
+      "sentence": "When talking with her husband, she had difficulty explaining to him what the plan of care is, etc.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "96": {
+      "sentence": "[FP46]  She will need a lot of review of information and time to process things."
+   },
+   "97": {
+      "sentence": "She does express desire to do whatever is needed to save ******.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "98": {
+      "sentence": "[FP47]  She describes ****** as her 'mini me', and states she cannot deal with the possibility of losing her.       ****** has been advised about transplant."
+   },
+   "99": {
+      "sentence": "However, she verbalizes that she prefers to not have all this information and would like her parents to make decisions for her at this time."
+   },
+   "100": {
+      "sentence": "it is unclear what her understanding is.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "Mother",
+               "LiteracyLevel": "Low",
+               "LiteracyType": "transplant knowledge"
+            }
+         }
+      ]
+   },
+   "101": {
+      "sentence": "[FP48] ****** has also never had a lengthy admission and will likely need assistance with coping with extended admission.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "patients",
+               "SocialActivity": "medium",
+               "SocialType": "other"
+            }
+         }
+      ]
+   },
+   "102": {
+      "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  2     Family Background & Social Support -  2     Financial/Insurance  - 2     Mental Health/Substance Abuse - 1     Involvement with *** Enforcement/Child Protection -  2     Adherence - 3     Understanding of medical situation & transplant process -  2     Health Literacy -  2     Coping Skills - 2     Total:  18 Moderate  Risk     The family scores as moderate risk in regards to psychosocial contra-indicators to transplant."
+   },
+   "103": {
+      "sentence": "Recommendations are listed below:     Recommendations:  *Provide ongoing education to the family about heart transplant and post-transplant care.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "patients and caregivers",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "104": {
+      "sentence": "Use teach-back method to ensure that the patient and family understands what is being explained.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "patients and caregivers",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "105": {
+      "sentence": "*Provide fundraising and financial resources to assist the family with displacement expenses that arise secondary to transplant    * Engage Child **** and psych to assist in preparing ****** for transplant and any supportive devices that may be required as a bridge to transplant, and to assist in overall coping with extended admission[FP49]           ****** ******** LCSW  Pediatric Heart/ Lung Transplant Team\r[FP1]Gender\r[FP2]ACC Healthcare\r[FP3]Living Condition\r[FP4]Living Condition\r[FP5]Living Supply\r[FP6]Smoking\r[FP7]Living Condition\r[FP8]Employment Status\r[FP9]Occupation\r[FP10]Social Support\r[FP11]Social Support\r[FP12]Social Support\r[FP13]Financial Constraint\r[FP14]Social Cohesion\r[FP15]Financial Constraint\r[FP16]Social Support\r[FP17]Education General\r[FP18]Education General\r[FP19]Physical Activity\r[FP20]Adherence\r[FP21]ACC Healthcare\r[FP22]Insurance\r[FP23]Financial Constraint\r[FP24]Insurance\r[FP25]Financial Constraint\r[FP26]Insurance\r[FP27]Mental Health (Historical)\r[FP28]Alcohol Abuse (Historical)\r[FP29]Drug Abuse (Historical)\r[FP30]Mental Health (Historical)\r[FP31]Mental Health (Historical)\r[FP32]Social Support\r[FP33]Mental Health\r[FP34]Drug Abuse\r[FP35]Legal Involvement\r[FP36]Abuse\r[FP37]Abuse\r[FP38]Abuse\r[FP39]Living Supply\r[FP40]Adherence\r[FP41]Insurance\r[FP42]Adherence\r[FP43]Adherence\r[FP44]Adherence\r[FP45]Financial Constraint\r[FP46]Literacy\r[FP47]Literacy\r[FP48]Literacy\r[FP49]Reccomendations",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase financial support"
+            }
+         }
+      ]
+   }
+}

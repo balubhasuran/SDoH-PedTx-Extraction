@@ -1,0 +1,6 @@
+,Model,strict_precision,strict_recall,strict_f1,relax_precision,relax_recall,relax_f1,sentence-level_precision,sentence-level_recall,sentence-level_f1
+0,BERT,0.465,0.442,0.453,0.68,0.651,0.665,0.758,0.699,0.727
+1,BioBERT,0.485,0.452,0.467,0.684,0.646,0.664,0.766,0.696,0.729
+2,RoBERTa,0.492,0.464,0.478,0.694,0.657,0.675,0.77,0.695,0.73
+3,BiLSTM-CRF,0.107,0.018,0.031,0.396,0.065,0.11,0.46,0.074,0.127
+4,Ctran,0.436,0.44,0.438,0.615,0.632,0.623,0.691,0.681,0.685

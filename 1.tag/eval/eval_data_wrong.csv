@@ -1,0 +1,519 @@
+,sentence,true,pred,match
+12,Demographics : Mother : * * * * * * * * * * * * * * * * DOB : * * / * * / * * * * Language : English Education Level : High School Diploma Employment : Receptionist at * * * * * * * * * * * * * * Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * DOB : * * / * * / * * * * Language : English Education Level : High School Diploma Employment : Self Employed - * * * * * * Tinting Phone : * * * - * * * - * * * * Siblings : * * * * * * * * - 4 Support systems : * * * * * * * * and * * * * * lean on and depend on each other for support .,"Employment,Social,Education","Employment,Education",False
+14,Most of their extended family lives within an hour of the family .,Living,,False
+22,* * * * * * * had difficulty coping with admission while awaiting a heart transplant .,Healthcare,,False
+26,Parents are very familiar with post-transplant care needs .,Literacy,Healthcare,False
+38,Financial situation : Both parents are employed full time .,"Employment,Financial",Employment,False
+45,SW will assist with providing updated medical records from this admission .,Healthcare,,False
+55,Adherence : Previously there have been no concerns for adherence since transplant .,"Concern,Adherence",Adherence,False
+58,Assessment and recommendations : SW inquired about how the family feels about proceeding with transplant knowing her difficult course the last few years .,Recommendation,Literacy,False
+79,"Demographics : Mother : * * * * * * * * * * * * * * * * DOB : * * / * * / * * * * Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * DOB : * * / * * / * * * * Employment : * * * * * * ' s * * * * * Tinting Phone : * * * - * * * - * * * * Siblings : * * * * * * * * * * * * * * * , 1 yr Support systems : * * * * * * * * and * * * * * lean on and depend on each other for support .",Social,Employment,False
+80,They also have a close knit family .,Social,,False
+82,* * * * * * * * also has involved family members .,Social,,False
+89,They deny any difficulty getting * * * * * * * to appointments .,Transportation,Adherence,False
+103,Finances will be a stressor for family but they do have a significant amount of extended family support .,"Financial,Social",Social,False
+111,Assessment and recommendations : Both * * * * * * * * and * * * * * verbalize that they are agreeable to proceeding with transplant if indicated .,Literacy,,False
+135,"She disclosed that * * * * * * is close to * * * * * * , and enjoys spending time with him fishing etc .",Social,,False
+161,[ FP23 ] She is currently not covered by any insurance and has not been able to afford her own healthcare needs .,"Insurance,Concern","Financial,Insurance",False
+164,Mom verbalizes an interest in pursuing this .,Literacy,,False
+165,An application for First Hand Foundation * * * * * was also provided .,Financial,Social,False
+167,"She was reluctant to discuss him , except to say he is not involved at all and has no legal rights for pt .",Social,,False
+168,Mom disclosed that she has an ' irregular heartbeat ' and had previously been on atenolol for this .,Healthcare,,False
+174,She does have a son with Down syndrome .,MentalHealth,,False
+194,"She states she would rather spank them , than have them engage in a behavior that could lead to an injury .",Trauma,Healthcare,False
+197,"[ FP38 ] She admits it is hard to feed so many , but states they always have enough for everyone to have one plate of food , and for those who desire so to have seconds .",Concern,,False
+198,[ FP39 ] Adherence : There are concerns for adherence .,Adherence,Concern,False
+201,"[ FP41 ] However , it does not appear that the family was ever over the income limits for the children to qualify for Medicaid .","Financial,Insurance",Insurance,False
+202,This makes it more likely that a loss in coverage was due to not updating the required information with DCF .,Insurance,,False
+204,Mom verbalizes that she would never stop a med without first consulting a doctor .,Literacy,Adherence,False
+205,"However , it appears that this may have happened .",Adherence,,False
+210,She states that she understands and states * * * * * * will not have a problem with taking them as prescribed .,"Literacy,Adherence",Literacy,False
+213,"SW will continue to attempt to engage her in decision making , as she is at increased risk if she is not moving forward with transplant because it is her decision to do so .",Recommendation,,False
+217,She verbalizes that she will likely not be able to recall most of the information that was presented .,Literacy,,False
+231,"Information for this assessment was obtained through an interview with the pt's mother , and review of the medical records .",Healthcare,,False
+234,Mom states they have their own space in the home with the exception of sharing the * * * * * * * area .,Living,,False
+236,The house has central air conditioning and city water .,Living,,False
+241,They have to rely on other people to assist them with transportation [ SM9 ] .,"Transportation,Social",Transportation,False
+249,Two children are now adults and live independently .,Living,,False
+251,"Their mother has custody and is not currently allowing dad to have contact with them , although he does pay child support .","Financial,Trauma",Trauma,False
+261,"She admits that transportation to and from Gainesville will be problematic , although the aunt and niece they reside with might be able to assist .","Transportation,Living,Social","Transportation,Social",False
+266,"* * * * * * * , her mother works for a prison [ SM14 ] during the week and is primarily able to help them on the weekends .","Employment,Social","Employment,Trauma",False
+273,She did not require any time in the NICU and discharged home after birth .,Healthcare,,False
+279,She was decannulated on * * * * .,Healthcare,,False
+280,She continued to have complications including seizures and acute kidney injury requiring PD .,Healthcare,,False
+315,Mom admits that she ran out of Lasix one week prior to this current admission .,Adherence,,False
+319,Mom states * * * * * * * * had attended all well-baby visits [ SM26 ] and received shots until now .,"Healthcare,Adherence",Healthcare,False
+321,She also admits they were late on one of the visits due to a ' family emergency ' .,Adherence,,False
+326,"The family has limited financial resources [ SM28 ] , and limited support in regards to transportation .","Financial,Transportation,Social","Financial,Social",False
+331,"Primary concerns are limited finances , limited support persons , limited transportation , as well as possible adherence concerns .","Financial,Transportation,Social,Adherence","Financial,Concern",False
+348,Mom and dad were never married and separated several years prior .,Trauma,,False
+355,Both parents have parental rights and therefore both parents can consent for treatment .,Healthcare,,False
+365,"The father is married to * * * * * * * * * * * * , they have been married for two years .",Social,,False
+366,The family's housing situation is tenuous .,"Living,Concern",,False
+367,Mom informed staff that she needed to return home for a meeting to avoid eviction .,Concern,,False
+369,This is concerning as this was prior to illness onset and before the mother at the added stressors of this hospital stay .,Concern,,False
+370,Mom plans to be the primary caregiver post-transplant .,Healthcare,,False
+373,Patient's father reports that he can return to * * * * * * * and stay as long as needed to assist with * * * * * * ' s care .,Healthcare,Social,False
+377,She does not receive benefits through her work with Soothe Inc .,"Employment,Insurance",,False
+379,The father is unemployed and does not pay child support .,"Employment,Financial",Employment,False
+381,She missed the end of the school year due to illness .,Education,,False
+383,SW discussed the possibility of beginning next year in hospital homebound if needed .,Education,,False
+384,Mom denies any history of developmental or educational delays .,Education,MentalHealth,False
+390,She went on to say that if * * * * * * ' s heart stopped working she would be agreeable to transplant if it was her only option .,Literacy,,False
+406,She then decided to take * * * * * * to St * * * * * * ' s Hospital ER .,Healthcare,,False
+410,"Throughout the week , she noticed she was having tachycardia which prompted them to go to * * * * * * * * * * * * * * * * * * * * * * * where after hydration and an EKG , she was sent home .",Healthcare,,False
+412,* * * * * * ( cardiologist ) prompting them to go to the ED at St .,Healthcare,,False
+419,SW discussed fundraising but she was not open to the idea .,Recommendation,Financial,False
+422,SW discussed the possibility of * * * * funds but also tried to encourage other ideas for financial planning .,Recommendation,Financial,False
+423,"Upon admission , * * * * * * was uninsured .",Insurance,,False
+434,Adherence : There are concerns for adherence with this family .,Adherence,Concern,False
+435,The patient's mother refused a heart catheterization on * * / * * .,Adherence,Healthcare,False
+438,Mom informed that the medical team is ' lying ' to her .,Literacy,,False
+442,"She stated that she is the mother and she gets to decide which way it is done , and she wants it done through the groin .",Literacy,,False
+444,Mom still refused unless it could be guaranteed that they would enter through the groin .,Adherence,,False
+446,She will do liquids or chewables but cannot swallow pills .,Adherence,,False
+448,They confirmed understanding and said they were willing to work on this .,Literacy,,False
+450,She informed SW that the only thing she was aware of was that mom refused transfer when airlift team came overnight to transfer to * * * * * * .,"Healthcare,Adherence",Adherence,False
+451,She agreed to transfer after speaking with Cardiologist the next day .,Healthcare,,False
+454,Patient's mother initially refused the cath informing physicians that she ' is the mother and gets to tell the doctor how they get to do the cath ' .,Literacy,,False
+456,The mother has already been served with an eviction notice .,Concern,Trauma,False
+465,* * * * * * ' s presented with flat affect and was difficult to engage .,Literacy,,False
+466,She does not like being in the hospital and a prolonged could likely be detrimental to her mental health .,MentalHealth,,False
+468,She was unable to describe her current health condition .,Literacy,,False
+469,She stated that transplant is a surgery and that she will get a new heart .,Literacy,Healthcare,False
+470,She endorsed feeling fearful about transplant .,Literacy,MentalHealth,False
+471,She informed SW that she does not want transplant .,Literacy,,False
+474,She stated that she does not like discussing it and does not want any information .,Literacy,,False
+500,The parents are divorced [ FP16 ] .,Social,Trauma,False
+501,Parents share joint custody of the children .,Social,Trauma,False
+508,She believes dad does not handle these incidents appropriately and is concerned about the safety of her kids .,Concern,Trauma,False
+509,"Despite these incidents , she informed SW that she wants to maintain a non-confrontational relationship with dad since he has the belief they are on the same team .",Concern,Social,False
+529,* * * * * * * is on IEP for * * * * and * * * * * * * .,Education,,False
+530,Mom said that psychology was considering a neuro-psych evaluation for * * * * * * * to determine if he has a learning disability [ FP28 ] .,"MentalHealth,Healthcare",MentalHealth,False
+531,Mom verbalized being willing to go forward with this .,Literacy,,False
+536,He is also very active with his siblings and rides [ FP31 ] * * * * * * * * * * * with his paternal uncle .,Social,,False
+544,* * * * * * * noted changes of left ventricular enlargement that was found on an echocardiogram .,Healthcare,,False
+552,Mom reported she was taking Zoloft or Prozac when the children were younger and around the same time of her father's passing [ FP35 ] .,MentalHealth,Healthcare,False
+553,* * * * * * * has an IEP for emotional disturbance at school .,Education,MentalHealth,False
+554,His parents stated that he still has difficulty with math and he expresses frustration with this subject .,Education,,False
+555,He reports that he continues to struggle with math but that he does like reading .,Education,,False
+559,"When asked if he still did not like the ' stickers ' that are used for the EKG , he nodded in disapproval .",Healthcare,,False
+572,She reports currently using a 7 day / night pill box to schedule his medications .,Adherence,,False
+576,"However , mom disclosed privately to SW that she was worried about dad adhering to medication regimen [ FP47 ] .","Adherence,Concern",Adherence,False
+578,"When * * * * * * * was asked how he felt about transplant , he appeared a little scared .",Literacy,,False
+580,"Mom and * * * * * * * express that if the procedure will allow him to live longer , they are willing to move forward .",Literacy,,False
+583,She has also reported reckless behavior on dad's part .,Concern,MentalHealth,False
+584,She notes that dad has driven under the influence on multiple counts [ FP54 ] with the children in the car and occasions where dad did not express concern for his children [ FP55 ] .,Concern,Transportation,False
+585,"If mom is the primary caregiver , it is to be noted that she has limited support [ FP56 ] .",Concern,Social,False
+600,"Demographics : Mother : * * * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 20 Education : High School diploma 2015 Education : Currently taking classes on-line from * * * * * * * * * * * * * * * * * * * * University towards business administration Employment : Not employed but receives SSI for club feet Phone : * * * - * * * - * * * * ( cell ) Father : * * * * * * * * * * * DOB : * * / * * / * * * * Age : 21 Education : High school diploma Employment : Not currently employed Phone : * * * - * * * - * * * * ( cell ) Others in the home : Paternal grandmother : * * * * * * * * * * * Paternal grandfather : * * * * * * * * * * * * * * * Paternal cousin : * * * * * * * * * * * * * , age 19 ( kidney transplant recipient ) Support systems : Parents report that they are engaged to be married , but have put that on hold while dealing with pt's medical care currently .","Employment,Financial,Social,Education","Employment,Education",False
+611,"He does not have a relationship with him at all , but does still have a relationship with his mother .",Social,,False
+615,* * * * * * * and * * * * * ( great grandmother ) will be the primary caregivers while * * * * * is working .,Healthcare,,False
+619,These fees are related to a charge for possession of * * * * * * * * * three years ago .,SubstanceUse,Financial,False
+622,They were also updated about the possibility of using Medicaid transportation for * * * * ' s appointments if needed .,Insurance,Transportation,False
+623,The family is aware of the need to remain locally for the first month or so after transplant .,Literacy,,False
+649,"She was prescribed an antidepressant in the past , but stopped taking it as she did not notice any improvements .",MentalHealth,"Healthcare,Adherence",False
+650,She states she was never prescribed anything for anxiety .,MentalHealth,,False
+652,* * * * * disclosed that he has mood swings and anger issues at times .,MentalHealth,,False
+657,* * * * * was sheltered and raised in a * * * * * * family .,Living,,False
+658,"* * * * * * * was not sheltered , and remained in her mother's care .",Living,,False
+662,* * * * * reports that he was arrested three years ago for possession of * * * * * * * * * .,SubstanceUse,Trauma,False
+673,"They state that grandma ( * * * * * ) has experience with transplant meds from her experience with * * * * * * , and will be a valuable resource to them in the home as well .",Social,Healthcare,False
+710,He is concerned they would not be able to meet the time requirement to get him here in time .,Concern,,False
+717,He is attending * * * * - k program at * * * * * * * * * * * * * * * * * * * * and is doing ok .,Education,,False
+731,"Course of illness : * * * * * * * has a history signficant for heterotaxy with asplenia and situs inversus , history of malrotation s / p * * * * procedure and placement of GT , as well as history of factor VII deficiency , chronic diarrhea and prior cdiff infection , and complex congenital heart disease .",Healthcare,,False
+737,"Patient was managed with D10W bolus , volume resuscitation , supplemental O2 with NC , and IV Abx .",Healthcare,,False
+738,Echo revealed moderate to severe * * * regurgitation and severe ventricular * * * * * * * * * * with EF 30% .,Healthcare,,False
+742,"Due to concern for risk of decompensation , patient was transferred to * * * * * * * * * * * * for possible ECMO cannulation if needed .","Healthcare,Concern",Healthcare,False
+752,Family History : * * * * * * * was adopted by these parents .,Social,,False
+756,This is a second marriage for these parents .,Social,,False
+764,The family appears to be able to keep appointments and to meet the care needs for * * * * * * * .,"Healthcare,Adherence",Adherence,False
+765,They have been consistent in administering medications and caring for his g-tube .,Adherence,Healthcare,False
+766,The primary concern is that * * * * * * * currently receives his meds through the g-tube .,Healthcare,"Adherence,Concern",False
+774,He states that his wife does most of the care for * * * * * * * when they are at home .,Healthcare,,False
+802,Mom plans to keep her home until she is better .,Living,,False
+804,She is familiar with * * * * during her time as a home health nurse and feels that the children too often get sick there and does not want to expose * * * * * * to illnesses .,Employment,Literacy,False
+809,Mom and * * * * * * * * * are both registered nurses .,Employment,,False
+810,Mom has been doing * * * * * * ' s PICC dressing changes when needed as well as managing her infusions .,Healthcare,,False
+816,She was evaluated by * * * * * * * * * * * * * * * * * * * and placed on waiting list for heart transplant .,Healthcare,,False
+817,She was also placed on outpatient IV Milrinone .,Healthcare,,False
+822,He makes approximately $2000 / month .,Financial,,False
+823,Their expenses are limited as they are living with * * * * * * ' s * * * * * * * * * .,Living,Financial,False
+826,They are planning to purchase a home in the next year and feel that this would harm their * * * * application .,Financial,Living,False
+827,"SW encouraged them to speak with mortgage broker and consider , as it will help the family financially .",Financial,,False
+835,They family declined due to planned moving in a few days as well as not feeling that * * * * * * was sick enough for transplant .,Literacy,Living,False
+840,Assessment and recommendations : Mom has expressed that they do not feel that * * * * * * is sick enough to indicate transplant at this time .,Literacy,,False
+841,They have consented to listing but not to accepting an offer if one becomes available .,Literacy,,False
+842,The psychosocial concerns for this family are as follows : The family has indicated that they do not feel * * * * * * is medically ready for transplant .,"Literacy,Concern",Concern,False
+843,The family's unwillingness to apply for social security disability to assist with the costs of transplant .,Concern,Financial,False
+845,SW is also concerned that mom never sought out medical treatment when * * * * * * was sick with flu like symptoms for over a month .,"Healthcare,Concern",,False
+846,The murmur was only found due to pediatrician's insistence in evaluating her at her brother's appointment .,Healthcare,,False
+858,Their home has city water and central heating and a / c .,Living,,False
+866,She is currently keeping * * * * * * * * while both parents are here with * * * * * * for inpatient evaluation .,Healthcare,,False
+876,An application for First Hand Foundation * * * * * will also be provided .,Social,Financial,False
+881,"* * * * * * * * * * * * * , OT , and ST there .",Healthcare,,False
+886,She has had * * * * * * * and * * * * * palliation surgeries .,Healthcare,,False
+895,* * * * * * * verbalized desire to commute back and forth for follow up care if permitted .,Transportation,,False
+900,The only involvement they have had legally is for traffic violations .,Trauma,Social,False
+907,* * * * * * previously had a g-tube and the parents were able to provide adequate care for that as well .,Healthcare,,False
+908,The family appears to be very involved in her care and have demonstrated good recall for her past medical history .,Literacy,,False
+909,They appear to be good historians .,Literacy,,False
+933,Demographics : Mother : * * * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 34 Education : * * * Employment : Not currently employed Phone : * * * - * * * - * * * * ( cell ) Father : * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 39 Employment : * * * * * * * Hospital Internal Medicine MD .,"Employment,Education",Employment,False
+942,They currently have a nanny who is a friend of the family who came from * * * * * * * assist .,Social,,False
+950,They had enrolled * * * * * * in a Catholic preschool prior to * * * * * * * being ill .,Education,,False
+951,They are researching Catholic * * * * * * * * * * locally so they can continue her learning exposure .,Education,,False
+953,"However , they would prefer that she speak * * * * * * * only at home , and use English at school .",Education,,False
+957,Mom plans to keep a car with her for travel between local apartment and the daycare and hospital .,Living,Transportation,False
+959,"She will then drop * * * * * * off at school , and will take nanny to apartment so she can rest .",Education,,False
+981,"However , dad disclosed that it will be challenging to pay for their home mortgage and the local apartment .",Financial,,False
+991,Dad is a MD and states he is quite comfortable with caring for * * * * * * * .,"Employment,Literacy",Education,False
+992,Mom also states she does not foresee any difficulties administering meds or providing care for * * * * * * * .,"Healthcare,Adherence",Adherence,False
+1016,"Disabled , receives SSI [ FP9 ] .",Insurance,Financial,False
+1018,They have been together for much longer however [ FP13 ] .,Social,,False
+1022,"Grandparents on both sides are local to them , and involved .",Social,,False
+1035,"However , she was not seen until almost 6 months of age .",Adherence,,False
+1038,"She presented to OSH the day prior to admission here with fatigue , decreased feeding , decreased urination , and increased work of breathing .",Healthcare,,False
+1039,"She was also found to be anemic , and was given a large PRBC transfusion .",Healthcare,,False
+1043,"She is now being evaluated for possible escalation of care to include ECMO , VAD , and transplant .",Healthcare,,False
+1054,"She states she controls it primarily by diet , but does take insulin if she has a large meal or consumes a large amount of sugar .",Healthcare,,False
+1058,Dad denies any medical history for himself or his side of the family .,Healthcare,,False
+1064,Neither are currently on any psychotropic meds for this .,Healthcare,MentalHealth,False
+1065,Both report having been on psychotropic meds in the past however [ FP27 ] .,Healthcare,MentalHealth,False
+1066,They state belief that the meds were not useful .,Healthcare,Adherence,False
+1067,Neither report having participated in counseling previously [ FP28 ] .,MentalHealth,Healthcare,False
+1068,Mom admits that this admission has been stressful .,MentalHealth,,False
+1070,"She states it is hard to see her lying there intubated , when she had previously been active .",Healthcare,,False
+1071,"SW validated that this is a traumatic experience , and encouraged both to consider counseling [ FP30 ] to assist with coping with the challenges of transplant .","Trauma,Recommendation",Healthcare,False
+1078,He has been arrested for driving without a valid driver's license .,"Trauma,Transportation",Transportation,False
+1083,They state that they have been reported for neglect [ FP36 ] .,Trauma,Adherence,False
+1088,"However , this was never done [ FP38 ] .",Adherence,,False
+1089,"In addition , there is concern that mom did not keep her own medical appointments and care during the pregnancy , and her diabetes was ' poorly controlled ' [ FP39 ] .","Adherence,Concern",Adherence,False
+1092,"However , she did not follow up until age 5 months [ FP40 ] .",Adherence,,False
+1094,She was at 0.06 % on the growth chart for weight on the day of admission .,Healthcare,,False
+1096,"It is unclear if this was related to medical issues with her heart , or lack of nutrition [ FP41 ] .",Healthcare,,False
+1100,Parents are demonstrating bonding with * * * * by being at bedside with her as much as possible .,Social,,False
+1102,"Assessment and recommendations : Mom disclosed that transplant is a new concept to them , and she is holding onto belief that * * * * will get better and not need transplant .","Literacy,Recommendation",Literacy,False
+1113,"388 Pt , * * * * * * * * * * * , is a 16 year-old male with history of cardiomyopathy , s / p heart transplant ( * * / * * * * ) , referred by * * * * * * * * * * * * * * * * * , APRN , Transplant Coordinator , for Psychosocial Assessment for Heart Transplant Evaluation .",Healthcare,,False
+1122,"Demographics : Mother : * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : Associates * * * * * * Employment : Unemployed / VA Disability Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : Associate's * * * * * * Employment : Corrections * * * * * * * * * * * * * * * * * * * * * * * Phone : * * * - * * * - * * * * Siblings : * * * * * * * - 11 * * * * * * * * - 5 Social History and Support Systems : * * * * * lives with his mother and siblings in * * * * * * * * * , * * .","Employment,Living,Education","Employment,Living",False
+1125,He does not appear to have significant motivation to keep up with school and this will likely be an ongoing issue while hospitalized or at home waiting for transplant .,Education,,False
+1127,"However , since his last hospital stay he has been unable to tolerate physical activity .",Healthcare,,False
+1133,"However , they recently separated in * * * * * * * * * * * * * .",Trauma,,False
+1139,Mom is on disability and dad has FMLA / PTO / sick leave and will be able to take time off during and after transplant .,"Employment,Financial",Financial,False
+1148,The family also receives and adoption subsidy for their youngest child .,Financial,,False
+1150,"As mom is on disability , caregiving will not result in a loss of income for herself .","Financial,Healthcare",Financial,False
+1155,SW encouraged mom to reapply for social security disability as well ( previously denied due to being over income ) .,Recommendation,Financial,False
+1161,* * * * * was seeing counselor for approximately 3 years but it ended about 1 year ago .,Healthcare,,False
+1163,"He feels that the * * * diagnosis was wrong , he just will not do something he doesn't want to do .",Adherence,,False
+1165,Notes detail that he was frequently receiving referrals and suspensions due to aggression towards other child .,MentalHealth,Trauma,False
+1169,During that time he also had aggression at home with his parents .,MentalHealth,,False
+1170,"He was placed on Strattera , Abilify , and Celexa .",Healthcare,,False
+1172,"Per notes , his behaviors do seem to have improved since starting back in high school .",Education,,False
+1173,Mom disclosed that she was * * * * * Acted for suicide attempt in * * * * * * * * * * * * * * * .,MentalHealth,,False
+1174,* * * * * was a witness to attempt and stated that his mom ' scared the crap out of him ' .,Trauma,,False
+1178,Adherence : There are significant concerns for adherence .,"Adherence,Concern",Adherence,False
+1180,SW inquired about the times where he wasn't doing so well or periods of medication missed .,Adherence,,False
+1185,The family also fills the pillbox together for the week .,Adherence,,False
+1188,He understands that he will need to take on more responsibility with his care as he is now almost 17 .,Literacy,,False
+1189,SW discussed the two possibilities of waiting for a transplant : inpatient and outpatient .,Healthcare,,False
+1190,He understands that the wait will be longer outpatient but verbalized that he needs a break from the hospital .,Literacy,,False
+1192,SW is also concerned that he does not understand the full extent of what a retransplant would mean for him .,"Literacy,Concern",Literacy,False
+1193,He believes that it will ' fix ' all of his current problems and he won't be on as many medications as he was placed on after last hospital admission .,Literacy,Healthcare,False
+1194,He denied any need for transplant education .,Literacy,Recommendation,False
+1195,He would greatly benefit from counseling due to significant psych history as well as complex medical condition .,Recommendation,Healthcare,False
+1199,Mom was very open about her recent suicide attempt and help that she is currently receiving .,MentalHealth,"Trauma,Social",False
+1224,She can make the trip here and home 2 ½ times on a tank of gas .,Transportation,,False
+1225,"However , as she is currently not working , she admits that the cost of gas is becoming overwhelming .",Transportation,Financial,False
+1233,She states that having some background in the medical field has helped prepare her a little .,Literacy,,False
+1234,"While working at * * * * * * * transport , she has been exposed to medically fragile patients ranging from dialysis patients to hospital discharges to hospice .",Employment,Healthcare,False
+1244,"After cardiac cath and MRI , it was decided to move forward with surgical intervention while also evaluating for heart transplant Financial Situation : * * * * * * * is covered by Medicaid * * * * * * * * .","Healthcare,Insurance","Literacy,Insurance",False
+1245,The family has already applied him for SSI / disability .,Financial,Insurance,False
+1248,* * * * * * states her employer is holding a job for her but understands her current situation .,Employment,,False
+1249,She is not on FMLA but is not in danger of losing her job .,Employment,Financial,False
+1251,Her leave is not paid leave .,"Employment,Financial",Financial,False
+1259,"There is no reported mental health history , other than * * * * * * having an episode of depression about 10 years ago when she and her fiancé at the time broke up .","Trauma,MentalHealth",MentalHealth,False
+1268,* * * * * * states that they are only about a 30 minute drive from the hospital .,Transportation,,False
+1270,She states she feels comfortable being able to administer medications .,Healthcare,Adherence,False
+1272,"She verbalizes belief that g-tube feeds would be manageable for her to do as well , if needed .",Healthcare,,False
+1294,She denies being part of a local * * * * * * community [ FP12 ] .,Social,,False
+1305,She is using * * * * to get around .,Transportation,,False
+1306,"She states she will have to * * * * a car post-transplant in order to get * * * * * to his appts , as she does not want to use Medicaid [ FP17 ] transportation [ FP18 ] .",Transportation,Insurance,False
+1307,She states she cannot fathom moving the car seat base from car to car as using Medicaid [ FP19 ] transportation would require .,Transportation,,False
+1310,She states she is open to applying for a First Hand Foundation * * * * * .,Financial,Social,False
+1313,* * * * * * disclosed she has researched transplant extensively and is aware that they will need to stay in local housing for 2 - 4 months after transplant [ FP22 ] .,Literacy,,False
+1315,She would not receive this and reiterated that she has done her research already [ FP23 ] .,Literacy,,False
+1319,"However , she later disclosed that after discussing with * * * * * , they realized it might be helpful to be able to have the others here [ FP25 ] .",Social,,False
+1323,male [ FP28 ] with * * * * * * syndrome and hypertrophic cardiomyopathy with atrial tachyarrhythmias s / p ablasion and myomectomy .,Healthcare,,False
+1325,Transferred here with worsening respiratory distress and tachyarrhythmias for further management .,Healthcare,,False
+1327,The family is applying her for SSI / disability [ FP30 ] .,Financial,Insurance,False
+1333,She verbalizes understanding that the transplant housing is expensive .,Literacy,Living,False
+1337,"She disclosed that there was a history of substance abuse with her parents [ FP35 ] , and disclosed growing up in an abusive environment [ FP36 ] .","SubstanceUse,Trauma",SubstanceUse,False
+1338,She describes being abandoned by her parents as well [ FP37 ] .,Trauma,Social,False
+1339,She disclosed that her father passed away on * * / * * / * * * * of a heart issue .,Trauma,,False
+1342,* * * * * * disclosed that * * * * * ' s father had * * * * * and passed away when * * * * * was 11 yrs old .,Trauma,,False
+1343,* * * * * ' s mother had a blood clot in her leg and also passed away while * * * * * was a young child .,Trauma,,False
+1350,She states she has been diagnosed with blepharitis in her right eye that is entirely due to stress [ FP42 ] .,Healthcare,,False
+1351,"She states she was given a prescription for 8 pills of Ativan at an urgent care in * * * * * , and states it does seem helpful .",MentalHealth,"Healthcare,Adherence",False
+1352,"However , she has been resistant to taking these as she does not have a means of getting refills [ FP43 ] .",Adherence,,False
+1371,"However , the plan of care is still being determined and it is possible that he may not need a transplant , but can be managed or with other surgical options .",Healthcare,,False
+1379,Monitor adherence to these supports [ FP51 ] .,Recommendation,Adherence,False
+1387,"This is a single family , 3 bedroom , 2 bath home .",Living,,False
+1392,She also has opened her home to the family .,Social,,False
+1399,"* * * * * * states she does have a separate insurance policy that covers ambulance transport , should * * * * * * be allowed to wait for a heart at the aunt's home .","Transportation,Living,Insurance","Transportation,Healthcare,Insurance",False
+1401,* * * * * * states that she had not been attending church due to her work schedule .,"Employment,Social",,False
+1402,"However , the children had been attending * * * * * * * * * * * * * her mother , prior to her death 4 months ago .",Trauma,,False
+1403,She states * * * * * * ' s faith is a source of strength for him .,Social,,False
+1408,She is hopeful that the school can send this curriculum here for him to continue progressing .,Education,,False
+1409,"She is open to hospital homebound for him , but states he would benefit from * * * or autism-based curriculum .",Education,MentalHealth,False
+1412,He was diagnosed with obstructive sleep apnea and then asthma .,Healthcare,MentalHealth,False
+1414,A cardiac catheterization was obtained revealing severely elevated LVEDP with resulting elevated PA pressures in the setting of a normal transpulmonary gradient .,Healthcare,,False
+1427,"Eventually , however , she states she plans to permanently relocate to * * * * * * * so that * * * * * * will be closer for his medical care .","Healthcare,Living",Living,False
+1432,* * * * * * ' s father passed away from a heart attack in 2010 .,Trauma,,False
+1435,"* * * * * * ' s mother passed away 4 months ago from * * * , diabetes , and hypertension .",Trauma,,False
+1437,"In addition , * * * * * * ' s brother passed away at age 22 from a pulmonary embolism .",Trauma,Healthcare,False
+1438,Her grandmother also passed away from a pulmonary embolism .,Trauma,Healthcare,False
+1440,"She has enough for about a month , but then will need to follow up with an endocrine physician .",Healthcare,,False
+1441,She also states she needs to see gyn by * * * * * * * * .,Healthcare,,False
+1444,SW also advised her * * * * * * * * * * * * * * * accepts * * * * * if she needs to get refills on any meds while here .,Healthcare,,False
+1447,He has been on multiple other psychotropic meds in the past several years .,Healthcare,MentalHealth,False
+1448,He was started on Prozac and clonidine in * * * or * * * * of this year .,Healthcare,MentalHealth,False
+1449,"These were managed by his PCP , as the psychiatrist moved to one of the other islands .",Healthcare,,False
+1450,He has not seen psychiatry since 2015 .,Healthcare,,False
+1453,"She states she is unsure about doing too many changes with them currently however , since his cardiac meds are being adjusted too .",Healthcare,,False
+1457,"She denies any legal involvement , and states she would be unable to be employed at the police department if she had any criminal history .","Employment,Trauma",,False
+1460,"She states he is cooperative with taking them , and she feels comfortable administering them to him .","Healthcare,Adherence",Adherence,False
+1464,It will be important for * * * * * * to maintain a heart healthy diet after transplant to protect his new heart and keep it as healthy as possible .,Recommendation,,False
+1465,It has been demonstrated to improve patient success when the whole family * * * * * * * * a healthy diet and exercise routine after transplant .,Recommendation,,False
+1466,It is unclear if * * * * * * is receptive to making changes in this area .,Literacy,,False
+1468,She is still processing this information .,Literacy,,False
+1474,He becomes anxious rather easily and Is limited in his understanding of things .,"Literacy,MentalHealth",MentalHealth,False
+1475,Mom gave an example that he became very anxious when taken for MRI .,"MentalHealth,Healthcare",MentalHealth,False
+1487,She is also likely going to experience some financial burdens depending on how much PTO is donated to her .,"Financial,Social",Financial,False
+1488,"Housing and transportation locally is another challenge , although insurance will provide almost 6 months of housing post-transplant , and the aunt may be able to assist with transportation when possible .","Transportation,Social,Insurance,Concern","Transportation,Living",False
+1496,"Living situation : Pt , * * * * * * * * * * , was born here at * * * * * * and has not yet left the hospital .",Living,,False
+1517,SW will provide family with a list of in-network counselors near the family's home .,Recommendation,Social,False
+1525,"Due to infant's medical condition , he has been unable to work .",Employment,,False
+1540,"However , SW met with family again the day after interview and dad was having trouble getting home due to having a blown tire and not having the financial means to have tire repaired .",Financial,,False
+1553,They would benefit from ongoing education .,Recommendation,,False
+1554,The family's lack of income as well as mom's history of being both a perpetrator and victim of domestic violence is concerning .,"Financial,Trauma,Concern","Financial,Trauma",False
+1555,SW will continue to work with family and provide support during hospitalization .,Recommendation,"Employment,Social",False
+1567,He was referred by * * * * * * * * * * * * * * * for heart transplant Psychosocial Assessment .,Healthcare,,False
+1578,Demographics : Mother : * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 43 Born in * * * * Employment : None currently Education : Just completed RN program at * * * * * * * * * * * * * * * * in * * * * .,"Employment,Education",Education,False
+1581,* * * Father : * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 41 Employment : Works for * * * * * Phone : * * * - * * * - * * * * ( cell ) Siblings : None Support systems : Parents divorced in 2010 .,"Employment,Trauma",Employment,False
+1601,He disclosed he has researched his medical condition and his medications .,Literacy,,False
+1602,"He does not like to be started on new meds without being advised of interaction and side effects with other medications , and the impact on his overall health .",Literacy,,False
+1603,He states he likes to know the purpose of each medication and how it works in his body .,Literacy,,False
+1607,He is aware of the PLE and need for certain nutrition .,Adherence,Literacy,False
+1619,"They are open to transplant evaluation , but do not believe he needs transplant at this time .",Healthcare,,False
+1625,She disclosed she had hoped to be working as an RN by the time he needed transplant so that she would have higher income and better insurance coverage .,Financial,Employment,False
+1633,Information on fundraising through * * * * was provided .,Recommendation,Financial,False
+1648,"The parents are now divorced , and have a good relationship with one another .",Trauma,Social,False
+1650,"Dad has been here this admission , and has been driving mom to and from hotel , Target , etc .","Transportation,Healthcare",Transportation,False
+1651,He plans to transport mom and * * * * * * home upon discharge as mom * * * * in ambulance and does not have her car here .,Transportation,Healthcare,False
+1666,Dad verbalizes feeling that there are only 2 options : pursue the procedure in * * * * * * * * or pursue transplant .,Literacy,,False
+1687,"Healthy ) Additional support persons : * * * * * * * * * * * * * * * * , maternal great grandmother ( * * * - * * * - * * * * ) Lives about 40 min from family and has custody of 5 yr old half-brother * * * * * * * * * * * * ( paternal grandmother ) Lives about 1 hr away * * * * * * * * * ( paternal uncle ) Lives about 10 min away with his 3 children Support systems : Parents are married .",Living,Social,False
+1691,He was placed with her in 2017 due to her having legal trouble and being incarcerated for 11 months on charges for methamphetamine .,"SubstanceUse,Trauma",SubstanceUse,False
+1695,"He is also in legal trouble in Kentucky for not paying child support , and lost his driver's license as a result .",Transportation,Financial,False
+1709,"This church is assisting them with lodging and financial assistance , and is focused on helping them maintain sobriety .","SubstanceUse,Financial,Social","SubstanceUse,Financial",False
+1712,Mom reports that she received prenatal care from * * * * * * * .,Healthcare,,False
+1722,She is being evaluated for heart transplant as well .,Healthcare,,False
+1730,SW will also provide First Hand Foundation * * * * * application to assist with their travel and displacement expenses .,Recommendation,Financial,False
+1736,"In addition , her mother has COPD ( although she is a heavy smoker and drug user ) .","Smoke,SubstanceUse","SubstanceUse,Healthcare",False
+1746,Dad is currently on probation for * * * * * * * * * and pain pills .,"SubstanceUse,Trauma",Trauma,False
+1747,"Mom has a history of methamphetamine , resulting in an 11 month sentence .","SubstanceUse,Trauma",SubstanceUse,False
+1751,She states she quit using after learning she was pregnant .,SubstanceUse,,False
+1756,"Of note , mom's mother is a drug abuser and has served 18 months in prison for this .","SubstanceUse,Trauma",SubstanceUse,False
+1763,Adherence : We do not have records of prenatal care .,Adherence,,False
+1766,He states he administered meds and feels comfortable that he will be able to do so for * * * * * * * * as well .,"Literacy,Adherence",Adherence,False
+1767,There are concerns regarding parent's inability to read well and their apparent lower cognitive abilities .,Literacy,Concern,False
+1768,"Information that has been provided regarding transplant and post-transplant care has not been understood , per their report .",Literacy,,False
+1769,They will require extensive rooming in and adequate demonstration of needed skills prior to discharge .,Recommendation,,False
+1773,"Concerns include limited literacy and cognitive ability of both parents , history of significant substance abuse of both parents , and past DCF involvement .","Literacy,Trauma,SubstanceUse,Concern",Trauma,False
+1777,"105 Pt , * * * * * , is a 4 week old male who is diagnosed with HLHS , Congenital stenosis of aortic valve , Mitral valve stenosis , severe tricuspid valve insufficiency , Hyperbilirubinemia , Elevated liver enzymes , and jaundice .",Healthcare,,False
+1778,"He is being evaluated for heart transplant , and is referred for heart transplant Psychosocial Assessment .",Healthcare,,False
+1790,The family is supported by the employment income of both parents .,"Employment,Financial",Financial,False
+1801,They are unsure if they will financially qualify for any benefits but are hopeful they will at least quality for Medicaid as secondary insurance .,"Financial,Insurance",,False
+1804,"However , they do live 4 hr from our Center and are interested in fundraising to assist with their travel and displacement expenses .","Financial,Transportation",Financial,False
+1811,Financial Situation : * * * * * is covered by * * * * through dad's employer .,"Employment,Financial",Employment,False
+1824,They appear bonded with * * * * * and attentive to him .,Social,,False
+1835,"238 Date : * * * * * * * * * , * * * * Name : * * * * * * * * * * * * * DOB : * * / * * / * * * * MRN : * * * * * * * * * * , * * * * * * * , is a 3 week old male who is diagnosed with cardiomyopathy , currently on ECMO , who is being referred for heart transplant Psychosocial Assessment .",Healthcare,,False
+1845,[ SM4 ] Attending * * * State * * * * * * * to become RN .,"Employment,Education",,False
+1846,[ SM5 ] Employment : * * * * * * * * * * * * * * of * * * * * * * * * ( currently on unpaid maternity leave ) Phone : * * * - * * * - * * * * ( cell ) Father : * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 24 Education : 11th grade [ SM6 ] .,"Employment,Financial,Education","Employment,Education",False
+1853,He states he was ' homeless ' as a teenager .,Living,Trauma,False
+1854,His dad ' was a * * * * * * * * ' and his mother was with an * * * truck driver and he rarely saw her or had contact with her .,Employment,Transportation,False
+1860,"She resides close to them , and is currently taking care of the siblings while the parents are here with * * * * * * * .","Living,Social",Living,False
+1875,"However , one of them is not registered and the other needs new tires before it can be safely driven any distance .",Transportation,,False
+1876,"Mom disclosed that she is aware of Medicaid transportation for clinic visits , but would prefer to relocate to Gainesville so that they are not 3 hours away .","Transportation,Living",Transportation,False
+1895,The family has now decided to pursue relocating to Gainesville .,Living,,False
+1901,They are also interested in doing a First Hand Foundation * * * * * .,Financial,Social,False
+1908,"In addition , the maternal grandmother has been diagnosed with MS .",Healthcare,MentalHealth,False
+1922,He also disclosed that he has been arrested twice for * * * * * * * * * possession [ SM23 ] .,"SubstanceUse,Trauma",SubstanceUse,False
+1935,"He states he learns best by being shown initially , but having printed instructions that he can refer back to [ SM27 ] .",Literacy,,False
+1936,The limited support and finances are possible barriers to compliance with follow up appointments .,"Financial,Social,Adherence","Financial,Social",False
+1943,Dad appears to have limited coping skills .,Concern,Literacy,False
+1947,It would be helpful to have a psych evaluation of the parents to better assess their ability to adequately meet this child's medical care needs .,MentalHealth,Healthcare,False
+1967,* * * * ' s biological father resides in * * * * and has minimal involvement / contact .,"Living,Social",Living,False
+1971,Mom plans to be * * * * ' s primary caregiver post-transplant but this would require her to quit work .,"Employment,Healthcare",Employment,False
+1979,"At one time , he was prescribed Risperidone but mom took him off the medication because she felt it was causing gynecomastia .","MentalHealth,Adherence",Healthcare,False
+1980,She did not take him off under physician supervision .,Adherence,,False
+2001,Mom also plans to quit work to be the primary caregiver post-transplant .,"Employment,Healthcare",Employment,False
+2003,SW discussed the possibility of starting to save now while still able to work .,Recommendation,"Employment,Financial",False
+2005,Fundraising would be difficult for family due to limited social network .,Social,Financial,False
+2017,They removed the children due to failure to protect .,Trauma,,False
+2025,He has been lost to follow up to several providers .,Adherence,,False
+2026,He is not under the care of a psychologist or psychiatrist .,Adherence,Healthcare,False
+2028,SW discussed the importance of medications after transplant and the red flags ( noncompliance ) in patient's chart .,"Recommendation,Adherence",Adherence,False
+2034,SW also reminded her that she had disclosed that she stopped his risperidone without the doctor .,Adherence,,False
+2044,"However , there is no one else that mom can identify to assist in * * * * ' s care .",Healthcare,,False
+2046,Family has been lost to follow up .,Adherence,,False
+2048,"* * * * , while 16 years old , is developmentally delayed and unable to care for himself .",MentalHealth,,False
+2054,They are in the process of being evicted from their home due to this finding / arrest .,"Trauma,Living",Living,False
+2058,SW provided mom with copy of transplant compliance contracts .,Adherence,,False
+2061,Recommendations : * Complete Pre and Post-Transplant Contracts with Family to address concerns with adherence .,Adherence,"Recommendation,Concern",False
+2067,* Discuss DCF report with team due to medical neglect and inability to proceed with transplant in current home .,"Recommendation,Concern","Recommendation,Trauma",False
+2069,"365 Pt , * * * * * , is a 14 year old female who is diagnosed with pulmonary hypertension and RV dysfunction .",Healthcare,,False
+2071,She is trach dependent and was on * * * * ( both VA and VV ) in the past .,Healthcare,,False
+2072,She is being referred for heart / lung transplant Psychosocial Assessment .,Healthcare,,False
+2080,They live in * * * * * with city water and central heating and a / c .,Living,,False
+2086,"Middle school teacher Phone : * * * - * * * - * * * * Siblings : Brother : * * * * * * * * , DOB * * / * * / * * * * , 4th grade , no medical history Birth father : Has had no contact with * * * * * since birth .","Employment,Trauma","Social,Education",False
+2098,"She has been coming to * * * * * * * * * * * * * * * * twice weekly , in addition to follow up appts with pulmonology etc .",Healthcare,,False
+2099,* * * * * continues to work to support the family and to ensure that * * is able to continue attending school .,"Employment,Education",Education,False
+2101,"They had another vehicle , but the engine went out on it and they cannot afford to repair it since they are living on one income .","Financial,Transportation",Transportation,False
+2103,"They admit that it has been challenging to get * * * * * to follow up appts while sharing a single vehicle , but they have made it work .","Transportation,Adherence",Transportation,False
+2120,They state * * * * * had a lot of friends at school and on the travel soccer team .,Social,Education,False
+2121,Course of illness : * * * * * was reportedly a healthy child until about a week before admission in * * * * * * * * * * * * with the influenza * * * * * * * * * * and MRSA necrotizing pneumonia .,Healthcare,,False
+2135,She is now being evaluated for heart / lung transplant .,Healthcare,,False
+2139,The family does verbalize willingness to * * * * * * * * * as well and were provided information on fundraising through * * * * .,"Recommendation,Adherence","Literacy,Financial",False
+2145,She was prescribed Amlodipine on * * / * * but the medication was not started until * * / * * .,Adherence,,False
+2146,It was stopped on * * / * * by mom but she did not speak to medical provider about medication until * * / * * .,Adherence,,False
+2147,"Also on * * / * * , NP prescribed Lisinopril to replace the Amlodipine but this medication was never started .",Adherence,Healthcare,False
+2151,She reports that she was informed by NP not to start the Lisinopril until the swelling goes down and the swelling did not go down prior to her admission so the medication was not started ( This was not documented in system ) .,Adherence,,False
+2162,The primary concerns are the financial stressors and the past concerns about compliance .,"Adherence,Financial,Concern","Adherence,Concern",False
+2170,He is being referred for heart / kidney transplant evaluation .,Healthcare,,False
+2194,"However , it is an older car and is not reliable for length of travel needed to come to Gainesville .",Transportation,,False
+2207,He underwent a Bidirectional * * * * * at 9 months of age .,Healthcare,,False
+2208,He underwent non-fenestrated fontan at the age of 4 .,Healthcare,,False
+2209,"He presented to * * * * * * * * * * * * * * * * * * * ' s Hospital in * * * * * * * * * * for worsening * * * * * * physiology , ventricular dysfunction and transplant evaluation .",Healthcare,,False
+2212,He recovered nicely from this event with milrinone and dopamine for support .,Healthcare,,False
+2218,Decision was made to transition to VAD support .,Healthcare,,False
+2221,He required HFOV for 5 days and remained on invasive ventilation for the next several weeks .,Healthcare,,False
+2223,He has since been able to wean off of vent support .,Healthcare,,False
+2231,"His last swallow eval in * * * * * showed aspiration with thin liquids , but no aspiration w thickened liquids or solid foods .",Healthcare,,False
+2232,He is now being evaluated for heart / kidney transplant .,Healthcare,,False
+2243,"Dad denies interest in fundraising , as he states they do not have a network of support for this .","Financial,Social",Financial,False
+2261,Adherence : There are concerns for adherence .,Concern,Adherence,False
+2262,"There have been documented concerns from the outside hospital regarding dad not abiding by some of the medical recommendations , particularly in regards to * * * being given oral nutrition and abiding by fluid restrictions .",Adherence,Concern,False
+2264,There are also concerns for adherence due to the lack of support persons and lack of reliable transportation .,"Transportation,Social,Concern","Transportation,Social,Adherence",False
+2270,"However , he is limited in opportunities because of only speaking and reading Spanish .",Concern,,False
+2273,"Should * * * receive transplant here , the family would need to remain in Gainesville for at least 6 weeks after discharge for close monitoring and follow up .",Living,,False
+2276,Recommendations are listed below : Recommendations : * It appears it would be in patient and family's best interest to transfer back to * * * * * where they can be closer to their support system .,Recommendation,Social,False
+2278,"If family is able to consistently care for both of these , they would demonstrate better ability to move forward with transplant .",Literacy,Healthcare,False
+2287,They live in * * * * * with well water and central heating and a / c .,Living,,False
+2292,"Currently , mom has been staying here with * * * * * and dad has been going back and forth between home and here in order to keep working .","Employment,Living",Employment,False
+2296,"However , they have another friend locally that they can stay with .",Living,,False
+2305,The parents report that they were advised that she would likely not survive .,Trauma,,False
+2309,"Neurology has expressed that this is not a contra-indication to transplant , but state she will need rehab to address deficits from the stroke .",Healthcare,Financial,False
+2311,She has some co-pays from this .,Insurance,Financial,False
+2313,"As mom is not planning to return to work until * * * * * * , the family plans to apply for SSI to see if she might be eligible for supplemental insurance .","Employment,Financial,Insurance",Employment,False
+2323,"Both parents verbalize willingness to give meds to pt as prescribed , and verbalize feeling comfortable learning to do so .","Literacy,Healthcare","Literacy,Adherence",False
+2327,They also verbalize a commitment to the therapies that will be needed secondary to the stroke .,Healthcare,Literacy,False
+2330,"However , they state they were advised during the pregnancy that * * * * * would likely not survive the pregnancy .",Trauma,,False
+2344,Dropped out [ FP7 ] due to having baby and DV issues with father of baby [ FP8 ] ( not * * * * * * * ) .,"Trauma,Education",Trauma,False
+2346,Attended * * * Employment : Does odd jobs as available [ FP11 ] .,Employment,Education,False
+2347,"Currently pursuing a job [ FP12 ] at a local restaurant Phone : * * * - * * * - * * * * cell Siblings : Half-brother : * * * * * * * * * * * * * * * : * * / * * / * * * * Age 8 Others in the home : * * * * * * * * * * * * * * * * * , Maternal grandmother , Age 53 * * * * * * * * , maternal grandfather , age 56 * * * * * * * * * , mom's sister , age 23 * * * * * * * * * * * * * * , * * * * * ' s daughter , age 7 * * * * * * * * * * , * * * * * ' s son , age 6 mo * * * * * * * * * * , mom's brother , age 16 Support systems : * * * * * * * and * * * * * * * * have been together for 4 years but are not married [ FP13 ] .","Employment,Social","Employment,Education",False
+2352,"However , he states he is not involved with his family .",Social,,False
+2354,"Financially , the family has very little support [ FP17 ] .",Financial,Social,False
+2355,"* * * * * * * reports that he does a lot of odd jobs , including moving furniture , fencing , and doing * * * * * * * * [ FP18 ] .",Employment,,False
+2356,He states he is always able to provide what they need if given enough advance notice .,Financial,,False
+2357,He states he does not mind working hard and will do whatever it takes to provide for his family .,Financial,"Employment,Literacy",False
+2359,"He states he has to finish paying off a seatbelt fine , as he was stopped for a traffic violation and did not have * * * * * * * in a car seat [ FP20 ] .",Trauma,Transportation,False
+2362,It will be more expensive to get hers reinstated as she has to pay court fees .,Financial,,False
+2370,This may assist with displacement housing post-transplant .,Living,,False
+2373,The family was given information on * * * * ( Childrens * * * * * Transplant Association ) .,Financial,,False
+2374,They were also given an application for First Hand Foundation [ FP27 ] * * * * * .,Financial,Social,False
+2378,Course of illness : * * * * * * was diagnosed with her heart condition prenatally .,Healthcare,,False
+2387,"In addition , the family reports that they were expecting a child about 2 years ago and * * * * * * * * had a miscarriage .",Trauma,,False
+2390,"Psychotropic medication management of this was recommended , but she states she never took anything .",MentalHealth,Healthcare,False
+2393,"* * * * * * * disclosed that he did smoke * * * * * * * * * a few times when he was 18 [ FP36 ] , and received a misdemeanor charge for this [ FP37 ] .","SubstanceUse,Trauma","Smoke,Trauma",False
+2394,He denies any current usage .,SubstanceUse,,False
+2396,She reports continued problems with him .,Social,,False
+2406,"* * * * * * was feeding by mouth prior to admission , so they have not had to learn g-tube care .",Literacy,Healthcare,False
+2414,"* * * * * * * , * * * * * * * also disclosed that he would like to be given information if * * * * * * is ever at a point where it is not likely that she would be able to have a good life .",Literacy,,False
+2418,"* * * * * * * * expressed hope and belief that * * * * * * will be ok , and states she would never want to have to make a decision about end of life care .",Literacy,Healthcare,False
+2437,The paternal grandmother resides nearby and is very actively involved with the family .,Social,Living,False
+2446,"Dad disclosed that his partners will continue running the business while they are here with * * * * * , and that they will not experience any loss of income .","Employment,Financial",Financial,False
+2448,"Mom will remain at bedside , and in the transplant housing with * * * * * .",Living,,False
+2463,Course of illness : * * * * * was diagnosed with hypertrophic cardiomyopathy at the age of 3 yrs .,Healthcare,,False
+2464,He is status post septal myectomy .,Healthcare,,False
+2466,He is currently being evaluated for heart transplant .,Healthcare,,False
+2469,"Family reports they are able to pay for displacement lodging and travel expenses , but do want to * * * * * * * * * for future expenses in case there is a time when * * * * * is no longer covered by the Medicaid .","Transportation,Insurance",Insurance,False
+2477,* * * * * reports that he is currently on one medication .,Healthcare,,False
+2478,He states he takes this independently and the family verbalizes agreement .,Adherence,,False
+2506,They had several miscarriages and also lost a child born prematurely at 23 weeks .,Trauma,,False
+2527,Both parents have vehicles and transportation will not be a barrier .,Transportation,,False
+2529,"Dad has a history of depression , per mom , likely stemming from the loss of his mother at a young age .","Trauma,MentalHealth",MentalHealth,False
+2530,He has engaged in counseling sporadically but is not currently involved .,Healthcare,MentalHealth,False
+2549,"Demographics : Mother : * * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : 11th Grade [ FP7 ] Employment : Unemployed [ FP8 ] Phone : * * * - * * * - * * * * Mom's Fiance : * * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : High School Diploma [ FP9 ] Employment : Unemployed [ FP10 ] Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * * * * Prison in * * * * * * * * Siblings in Home : * * * * * * * * * * * * * * 28 * * * * * * * * * * * * 4 Siblings Not in Home : * * * * * * * * * * * * 26 ( * * * * * ) * * * * * * * * * * * * * * * 24 ( * * * * * ) * * * * * Mon 22 ( New * * * * ) * * * * * * * * * * * * * * * 13 ( * * * * * * * ) Other Children in Home ( * * * * * * * ' s Children ) : * * * * * * * * * * * * * 8 * * * * * * * * * * * * 6 * * * * * * * * * * * * * 4 Social History and Support Systems : * * * * * * * * * * * lives with his mother , mother's fiancé ( * * * * * * * ) , two of his sisters , and three [ FP11 ] * * * * * * * in * * * * * * * * * , * * .","Employment,Trauma,Education","Employment,Living,Education",False
+2551,* * * * * * and * * * * * * * have been together for four years .,Social,,False
+2557,This would be beneficial as grandmother has had custody [ FP15 ] of * * * * * * * * * * * and been an advocate for his healthcare during the majority of his life per medical records from * * * * * * * .,Social,Trauma,False
+2559,He has not had any involvement in * * * * * * * * * * * ' s life and has not had any contact with the family since 2004 .,Social,,False
+2560,Mom plans to be * * * * * * * * * * * ' s primary caregiver post-transplant .,Social,,False
+2561,* * * * * * * * * * * ' s grandmother will be the secondary caregiver as she plans to relocate to * * * * * * * to be here for the family .,Social,Living,False
+2562,Neither are working at this time .,Employment,,False
+2564,He has been diagnosed with a developmental delay [ FP17 ] .,MentalHealth,Healthcare,False
+2568,Family is not in agreement with the diagnosis or the medication treatment he received for the diagnosis .,Literacy,Healthcare,False
+2572,He can become depressed during hospital stays but family being at bedside assists with improving his mood .,"MentalHealth,Social",MentalHealth,False
+2573,"Mom denies any objections to blood products , transfusions , etc [ FP21 ] .",Literacy,,False
+2574,Course of illness : * * * * * * * * * * * * * * * * * * is a 17 y / o male [ FP22 ] with a history of tricuspid atresia with transposition of the great arteries and coarctation of the aorta [ FP23 ] .,Healthcare,,False
+2576,"Also with history of left CVA with resultant right-sided weakness s / p HIT induced coagulopathy , seizure disorder ( last seizure * / * * * * ) , and small bowel resection following obstruction .",Healthcare,,False
+2579,"Just prior to the move to * * * * * * * , mom was involved in an accident and is receiving a settlement from the accident .","Financial,Trauma",Financial,False
+2580,The family is in section 8 housing and was just approved for food [ FP25 ] * * * * * * .,Financial,,False
+2583,* * * * * * * * * * * is currently covered by New * * * * * * * * * * * * [ FP28 ] .,Insurance,,False
+2585,"Once approved , this will cover all medical expenses at 100% .",Insurance,,False
+2597,"However , mom did disclose that the father of her youngest child , * * * * * * , called in unfounded allegations because he was upset with her .",Trauma,,False
+2598,The case was closed and he no longer has any contact with the family .,"Trauma,Social",,False
+2602,"Upon move to * * * * * * * , family was slow to seek physicians , medical care , insurance , resources , etc .",Adherence,,False
+2603,[ FP39 ] SW discussed these concerns with family at length including the expectations of the transplant team .,"Literacy,Concern",,False
+2604,Assessment and recommendations : Mom was very * * * * * * about her past but seems to be very committed to being there for * * * * * * * * * * * and her other children .,Literacy,,False
+2606,They acknowledge that there has been noncompliance in the past [ FP40 ] and that the transplant team has concerns due to that history .,"Concern,Adherence",Adherence,False
+2610,SW met with * * * * * * * alone to discuss his feelings regarding transplant .,Literacy,,False
+2614,He was explaining it as such that the other person was being killed for him to live [ FP42 ] .,Literacy,Trauma,False
+2619,"In the end , he verbalized that he would like to proceed with transplant .",Literacy,,False
+2621,Recommendations : * Complete Pre and Post-Transplant Contracts with Family to address concerns with adherence .,"Recommendation,Concern",Adherence,False
+2635,Mom reports that * * * * * loves the new house .,Living,,False
+2643,"Resides in * * * * * * * * * * * * * * * Aunt : * * * * * * * * * * * * * * * * * in * * * * * * , * * .",Living,,False
+2644,Works for * * * * Hotels administration Phone : * * * - * * * - * * * * Support systems : * * * * * * * * reports that she and her husband provide support for one another .,"Employment,Social",Social,False
+2646,"Although she lives in * * * * * * , she is actively involved in their lives and is able to come to assist them when needed .","Living,Social",Living,False
+2654,"Prior to this admission , he was able to stay home by himself while mom was at work .","Employment,Living",Living,False
+2657,"Now that he is on a fluid restriction , * * * * * cannot be left alone at all as he will drink excessive amounts of fluid if no one is watching .",Adherence,,False
+2658,"While in the hospital , he reports drinking about 8000 ml of water in the shower .",Healthcare,,False
+2661,* * * * * * * * states they are able to afford the gas expenses as well .,Transportation,Financial,False
+2662,"Because she feels the need to stay in the room with him at the hospital , she denies that displacement lodging expenses will be a problem either .","Healthcare,Living",,False
+2663,She also denies need for assistance with displacement food expenses .,Financial,,False
+2667,"If not , she believes they would be able to afford displacement lodging temporarily .",Financial,,False
+2676,"He had * * * * * * * at 8 days old , glenn at 6 mo old , and fontan at 19 mo of age .",Healthcare,,False
+2684,"Due to his developmental and intellectual delays , the parents are his legal decision makers .",MentalHealth,,False
+2688,She does not plan to resume working and they verbalize that there will be no financial stress related to this .,"Employment,Financial",Financial,False
+2696,"The only psychotropic medication he has been prescribed was Zoloft , prior to this admission .",Healthcare,MentalHealth,False
+2697,"During this admission , * * * * * demonstrated aggressive behaviors and hallucinations .",MentalHealth,,False
+2702,He also has a history of sleep disturbances .,MentalHealth,,False
+2704,Several things were tried during this admission .,Healthcare,,False
+2722,He has also threatened to leave the hospital * * * .,Adherence,Trauma,False
+2725,Assessment and recommendations : * * * * * * * * admits that she is overwhelmed with thinking about the prospect of transplant .,Concern,,False
+2726,"However , she is equally afraid of trying to manage him medically at home as his electrolytes and albumin levels have been so difficult to maintain at a therapeutic level .",Concern,,False
+2727,She states * * * * * would likely be in agreement with a transplant if it meant he could drink without restrictions .,Literacy,SubstanceUse,False
+2763,"However , they admit that the cost of gas for the daily trips back and forth between their home and the hospital has become overwhelming .",Financial,Transportation,False
+2776,The PCP referred to cardiology where echo showed a hypoplastic aortic valve and moderate to severe aortic stenosis .,Healthcare,,False
+2784,The family is applying her for SSI / disability .,Insurance,Financial,False
+2794,"In addition , * * * * * has demonstrated anxiety during her hospital stay and the family is in agreement with her receiving counseling .","Literacy,MentalHealth,Healthcare","MentalHealth,Healthcare",False
+2798,Adherence : The only concern related to adherence is * * * * * ' s difficulty taking her medications .,"Adherence,Concern",Adherence,False
+2799,"She has demonstrated difficulty taking them at times while admitted , and has vomited after taking them a few times .","Healthcare,Adherence",Healthcare,False
+2800,"Parents report that she sometimes does better taking them when they administer , but sometimes does not .",Adherence,,False
+2804,"They verbalize belief that they will be able to get her to take them , especially if she is advised of what they do and how important they are .",Literacy,,False
+2806,Assessment and recommendations : The family is adjusting to the information regarding * * * * * ' s medical condition .,Literacy,,False
+2811,"At this point , they verbalize that * * * * * * * * * * * * * * * * * * * and are aware that there is nothing surgically that can be done to make * * * * * ' s heart improve .",Literacy,,False
+2814,They appear to need medical things to be broken down in very simple terms .,Literacy,,False
+2820,They are also amenable to counseling as soon as the financial / insurance part can be worked out .,"Financial,Healthcare,Insurance",Healthcare,False
+2821,The parents disclosed that * * * * * ' s medical condition is already having a significant impact on their family .,Concern,,False
+2824,"In addition , they report that the family did not get to do anything over the * * * * * * as a result of * * * * * ' s admissions , and are concerned that the other children may begin to resent the time the parents have to spend at the hospital .",Healthcare,Concern,False
+2826,"As a result , she is doing on-line classes instead .",Education,,False
+2829,The primary concerns are the financial stressors and the difficulty * * * * * has demonstrated with taking oral medications .,"Adherence,Financial,Concern","Adherence,Concern",False
+2830,It is expected that both of these concerns can be successfully managed .,Concern,,False

@@ -1,0 +1,1264 @@
+[
+    {
+        "sentence": "365\tPt, *****, is a 14 year old female who is diagnosed with pulmonary hypertension and RV dysfunction.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She has a history of influenza *********** complicated by severe MRSA necrotizing pneumonia.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She is trach dependent and was on **** (both VA and VV) in the past.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She is being referred for heart/ lung transplant Psychosocial Assessment.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "counseling"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Information for this assessment was obtained through an interview with the pt and her mother.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Pt's step-father, who also has legal consenting rights for her, was not present.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW will meet with him prior to completing assessment process.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW also reviewed medical records.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW spent 75 minutes of face to face time with patient and family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Living situation:  **, *****, lives with her mother, step-father, and half-brother in *****, **.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "patients",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They reside in a 3 bedroom, 2 bath home at *** ***** **, *****, ** *****.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "patients",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They live in * **** with city water and central heating and a/c.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "Mother",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There is no smoking in the home.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "category": "Smoke",
+                        "Experiencer": "Family",
+                        "smoke_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They replace the air filter every 3 months.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They have 1 pet, a ****** Retriever.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Demographics:  Mother: ******* ******  DOB: **/**/****            Age:  34  Employment: Unemployed due to *****'s care needs.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Mother",
+                        "employment_status": "unemployed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Was formerly employed ** ****** ****** School ***** as a substitute teacher at ******** **********   Phone:  ***-***-****     ****-Father: ***** ******  DOB: **/**/****     Age:  56  Employment:  ****** ****** School *****.",
+        "categories": [
+            "Employment",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "Father",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Middle school teacher  Phone:  ***-***-****     Siblings:  Brother:  ** ******, DOB **/**/****, 4th grade, no medical history     Birth father:  Has had no contact with ***** since birth.",
+        "categories": [
+            "Employment",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": []
+            },
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "children",
+                        "trauma_type": "abandonment",
+                        "trauma_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Support systems:  Parents report that they receive most of their support from one another and from their church family.  ******* and ***** have been married since 2007.",
+        "categories": [
+            "Social",
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "parents/caregiver",
+                        "social_type": "family",
+                        "social_level": "medium"
+                    },
+                    {
+                        "category": "Social",
+                        "Experiencer": "parents/caregiver",
+                        "social_type": "church",
+                        "social_level": "medium"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They attend a non-denominational ********* church called ****** of the *******.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They state their faith is important to them and provides strength to them during difficult times such as this.  ******* has no extended family members nearby.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "parents/caregiver",
+                        "social_type": "church",
+                        "social_level": "medium"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Her family are all in the Phillipines.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "*****'s family resides in *** **** and *****.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "category": "Living",
+                        "Experiencer": "Family",
+                        "num_of_caregivers": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*****'s mother is deceased.  ******* disclosed that ***** is close to her mother, but they primarily communicate by phone due to the distance.",
+        "categories": [
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "category": "Trauma",
+                        "Experiencer": "Mother",
+                        "trauma_type": "loss",
+                        "trauma_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Parents report that they really have no one to assist them with ***** or **.  ******* has quit working in order to care for *****'s needs and accompany her to appts.",
+        "categories": [
+            "Social",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "parents/caregiver",
+                        "social_type": "family",
+                        "social_level": "low"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "parents/caregiver",
+                        "employment_status": "unemployed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She has been coming to *********** *** ** twice weekly, in addition to follow up appts with pulmonology etc.  ***** continues to work to support the family and to ensure that ** is able to continue attending school.",
+        "categories": [
+            "Healthcare",
+            "Employment",
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    },
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "category": "Employment",
+                        "Experiencer": "parents/caregiver",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "children",
+                        "education_status": "current",
+                        "education_level": "general"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family shares one vehicle.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They had another vehicle, but the engine went out on it and they cannot afford to repair it since they are living on one income.",
+        "categories": [
+            "Transportation",
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "no"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They do plan to obtain another vehicle or get that one repaired eventually.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "no"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They admit that it has been challenging to get ***** to follow up appts while sharing a single vehicle, but they have made it work.",
+        "categories": [
+            "Adherence",
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "other",
+                        "adherence_level": "normal"
+                    }
+                ]
+            },
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "hard"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They verbalize that they will likely commute back and forth from ***** rather than staying locally in transplant housing, if given the option.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW updated them of Medicaid transportation to reduce their travel expenses and to assist with the challenge of sharing one vehicle.       ***** is in the 8th grade.",
+        "categories": [
+            "Transportation",
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "cost",
+                        "transportation_status": "low"
+                    },
+                    {
+                        "category": "Transportation",
+                        "Experiencer": "Family",
+                        "transportation_type": "vehicle_access",
+                        "transportation_status": "hard"
+                    }
+                ]
+            },
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "children",
+                        "education_status": "current",
+                        "education_level": "childhood"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She is enrolled in ******* ******* ****** due to her health needs and frequent follow up appts.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She is hopeful to finish the 8th grade year this ******, and be able to actually attend high school in the ****.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "patients",
+                        "education_status": "future",
+                        "education_level": "general"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She is reportedly a good student who enjoys school.  ***** expressed sadness at missing the 8th grade social and other special events with her friends.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "patients",
+                        "education_status": "current",
+                        "education_level": "general"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She also disclosed missing soccer.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She was formerly a star soccer ****** on both the school team and a travel team[SM1].",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Now she can only play a little with her younger brother.         ** is completing the 4th grade.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "category": "Education",
+                        "Experiencer": "patients",
+                        "education_status": "current",
+                        "education_level": "childhood"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He is talkative and engaging.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He disclosed that ***** likes to read, draw, study, and play music.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He states he likes to play with her, but she likes to be on her computer usually instead.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The family states that ***** and ** get along well.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They describe the family as close-knit.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They state ***** had a lot of friends at school and on the travel soccer team.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "category": "Social",
+                        "Experiencer": "patients and siblings",
+                        "social_type": "family",
+                        "social_level": "high"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Course of illness:     ***** was reportedly a healthy child until about a week before admission in ******** **** with the influenza ********** and MRSA necrotizing pneumonia.",
+        "categories": [
+            "Healthcare",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She was admitted for about 7 ½ months.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She was on ECMO from */** to */*/**.  ***** was done on */*.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "On *** **, She was discharged to inpatient rehab at ******* in *******, due to extreme deconditioning from the admission.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She underwent 2 weeks of intensive rehab, and then was able to return home.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "counseling"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She was managed at home without any readmissions until */**/****.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She was admitted for edema and abdominal distension.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Per report, local cardiologist prescribed amlodipine on */** for hypertension.  ***** did not start this med until */**.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "By */*, medication was discontinued for worsening weight gain, LE swelling, abdominal distension, and SOB with activity.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Cards recommended switch to Lisinopril therapy on */*, which was not begun prior to arrival on */**.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The current hospital admission is related to severe RV dysfunction and Tricuspid valve regurgitation associated with marked increase in fluid *********.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She has required vent support and milrinone this admission.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "hospital stay"
+                    },
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "medications"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She is now being evaluated for heart/ lung transplant.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "category": "Healthcare",
+                        "Experiencer": "patients",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Financial Situation:     ***** is currently covered by Medicaid ********.",
+        "categories": [
+            "Insurance"
+        ],
+        "extracted_predictions": {
+            "Insurance": {
+                "extracted_conditions": [
+                    {
+                        "category": "Insurance",
+                        "Experiencer": "patients",
+                        "insurance_type": "public"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family is currently supported by *****'s employment income.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that ***** was also approved for SSI.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "patients",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family does verbalize willingness to ********* as well and were provided information on fundraising through ****.",
+        "categories": [
+            "Literacy",
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": []
+            },
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_financial_support",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family History:     There is no other reported medical history in the family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no reported mental health history in the family.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "category": "MentalHealth",
+                        "mentalhealth_type": "general",
+                        "Experiencer": "Family",
+                        "mentalHealth_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family denies any substance abuse history as well.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "category": "SubstanceUse",
+                        "Experiencer": "Family",
+                        "substanceuse_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There is no reported history of DV or involvement with DCF.",
+        "categories": [
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "Adherence:  There are a few concerns for adherence noted.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "other",
+                        "adherence_level": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She was prescribed Amlodipine on **/** but the medication was not started until **/**.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "medication",
+                        "adherence_level": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "It was stopped on **/** by mom but she did not speak to medical provider about medication until **/**.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Mother",
+                        "adherence_type": "medication",
+                        "adherence_level": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Also on **/**, NP prescribed Lisinopril to replace the Amlodipine but this medication was never started.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Mother",
+                        "adherence_type": "medication",
+                        "adherence_level": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that she was hesitant to start the Amlodipine after researching side effects of the medication.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "Mother",
+                        "literacy_type": "medication_knowledge",
+                        "literacy_level": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She also stated that she did speak with the answering service on **/** to inform of swelling likely associated with starting the Amlodipine.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "(this is not documented in the system).",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She reports that she was informed by NP not to start the Lisinopril until the swelling goes down and the swelling did not go down prior to her admission so the medication was not started (This was not documented in system).",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "medication",
+                        "adherence_level": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "SW also inquired about cancelled PT appointments in the system documented on the following days: **/**, **/**, **/**, **/**, **/**, **/**, **/**, **/**, **/**, **/**, **/**, and **/**.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "patients",
+                        "adherence_type": "therapy",
+                        "adherence_level": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that ***** was either sick during those appointment times or she had to reschedule due to conflicting doctors appointments.     *******, ***** has demonstrated strength and resilience during previous admission, and has been willing to participate in **/OT therapies that have been challenging.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "This demonstrates a likelihood that she will be willing to comply with medications and therapies post-transplant.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Mother",
+                        "adherence_type": "medication",
+                        "adherence_level": "normal"
+                    },
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Mother",
+                        "adherence_type": "therapy",
+                        "adherence_level": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family appears willing to learn her care and take responsibility for adherence as well.",
+        "categories": [
+            "Literacy",
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "Family",
+                        "literacy_type": "caregiving_knowledge",
+                        "literacy_level": "normal"
+                    }
+                ]
+            },
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Family",
+                        "adherence_type": "other",
+                        "adherence_level": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Assessment and recommendations:     Upon initial evaluation a year ago, the family was very reluctant about transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Now, however, the family is *********** a desire to move forward with transplant.  ***** is also *********** hope that she is a candidate for transplant.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "category": "Literacy",
+                        "Experiencer": "Family",
+                        "literacy_type": "transplant_knowledge",
+                        "literacy_level": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She expresses belief that this will give her the best chance at a more normal life, without trach etc.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  2     Family Background & Social Support -  2     Financial/Insurance  - 2     Mental Health/Substance Abuse - 1     Involvement with *** Enforcement/Child Protection -  1     Adherence - 2     Understanding of medical situation & transplant process -  2     Health Literacy -  2     Coping Skills - 2     Total:  16  Moderate     The family scores as moderate risk in regards to psychosocial contra-indicators to transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The primary concerns are the financial stressors and the past concerns about compliance.",
+        "categories": [
+            "Concern",
+            "Financial",
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "intense"
+                    },
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "category": "Financial",
+                        "Experiencer": "Family",
+                        "financial_status": "constrain"
+                    }
+                ]
+            },
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "category": "Adherence",
+                        "Experiencer": "Family",
+                        "adherence_type": "other",
+                        "adherence_level": "low"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "It is expected that both of these concerns can be successfully managed.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Recommendations are listed below:     Recommendations:  *Provide ongoing education in simple terms to the family about heart/lung transplant and post-transplant care.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_literacy",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Use teach-back method to ensure that the family/ child are understanding what is being explained.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_literacy",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*Provide fundraising and financial resources to assist the family with expenses that arise secondary to transplant  *Assist with connecting child and family with counseling and supports that will assist in positive coping skills   * Continue to use palliative care support for pt and family during this critical illness .     ****** ******** LCSW  Pediatric Heart/ Lung Transplant Team  ***-***-****\r[SM1]physical activity",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_financial_support",
+                        "recommendation_status": "yes"
+                    },
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "Family",
+                        "recommendation_type": "increase_social_support",
+                        "recommendation_status": "yes"
+                    },
+                    {
+                        "category": "Recommendation",
+                        "Experiencer": "patients and caregivers",
+                        "recommendation_type": "increase_social_support",
+                        "recommendation_status": "yes"
+                    }
+                ]
+            }
+        }
+    }
+]

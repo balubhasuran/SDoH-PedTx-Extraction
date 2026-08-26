@@ -1,0 +1,951 @@
+{
+  "Healthcare": {
+    "name": "extract_healthcare_info",
+    "description": "Extract structured healthcare information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Healthcare"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "siblings",
+                  "relatives",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "healthcare_type": {
+                "type": "string",
+                "enum": [
+                  "medications",
+                  "surgeries/procedures",
+                  "clinical visits",
+                  "counseling",
+                  "hospital stay"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "healthcare_type"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Living": {
+    "name": "extract_living_info",
+    "description": "Extract structured living information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Living"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "siblings",
+                  "Mother",
+                  "relatives",
+                  "friends",
+                  "cousins",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "num_of_caregivers": {
+                "type": "integer"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "num_of_caregivers"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Smoke": {
+    "name": "extract_smoke_info",
+    "description": "Extract structured smoke information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Smoke"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "smoke_status": {
+                "type": "string",
+                "enum": [
+                  "current",
+                  "past",
+                  "none"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "smoke_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Employment": {
+    "name": "extract_employment_info",
+    "description": "Extract structured employment information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Employment"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "step-parent",
+                  "Father",
+                  "Mother",
+                  "siblings",
+                  "relatives",
+                  "parents/caregiver"
+                ]
+              },
+              "employment_status": {
+                "type": "string",
+                "enum": [
+                  "employed",
+                  "unemployed",
+                  "retired",
+                  "on leave"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "employment_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Social": {
+    "name": "extract_social_info",
+    "description": "Extract structured social support information from a sentence. If there are multiple sources of social support, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Social"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients and siblings",
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "relatives",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "social_type": {
+                "type": "string",
+                "enum": [
+                  "family",
+                  "church",
+                  "government"
+                ]
+              },
+              "social_level": {
+                "type": "string",
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "social_type",
+              "social_level"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Education": {
+    "name": "extract_education_info",
+    "description": "Extract structured education information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Education"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "children",
+                  "patients",
+                  "step-parent",
+                  "Father",
+                  "Mother",
+                  "siblings",
+                  "parents/caregiver"
+                ]
+              },
+              "education_status": {
+                "type": "string",
+                "enum": [
+                  "current",
+                  "past",
+                  "none",
+                  "future"
+                ]
+              },
+              "education_level": {
+                "type": "string",
+                "enum": [
+                  "high_level",
+                  "occupational",
+                  "general",
+                  "childhood"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "education_status",
+              "education_level"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Transportation": {
+    "name": "extract_transportation_info",
+    "description": "Extract structured transportation information from a sentence. If there are multiple transportation-related types, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Transportation"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "relatives",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "transportation_type": {
+                "type": "string",
+                "enum": [
+                  "vehicle_access",
+                  "cost",
+                  "distance",
+                  "license",
+                  "violation"
+                ]
+              },
+              "transportation_status": {
+                "type": "string",
+                "enum": [
+                  "easy",
+                  "hard",
+                  "low",
+                  "high",
+                  "short",
+                  "long",
+                  "yes",
+                  "no"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "transportation_type",
+              "transportation_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Mental Health": {
+    "name": "extract_mentalhealth_info",
+    "description": "Extract structured mental health information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "MentalHealth"
+                ]
+              },
+              "mentalhealth_type": {
+                "type": "string",
+                "enum": [
+                  "general",
+                  "OCD",
+                  "PTSD",
+                  "bipolar",
+                  "ADHD",
+                  "sleep problem",
+                  "anxiety",
+                  "neuro condition",
+                  "medication",
+                  "depression"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "siblings",
+                  "relatives",
+                  "parents/caregiver"
+                ]
+              },
+              "mentalHealth_status": {
+                "type": "string",
+                "enum": [
+                  "none",
+                  "current",
+                  "past"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "mentalhealth_type",
+              "Experiencer",
+              "mentalHealth_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Insurance": {
+    "name": "extract_insurance_info",
+    "description": "Extract structured insurance information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Insurance"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients",
+                  "parents/caregiver",
+                  "Family",
+                  "Mother",
+                  "patients and siblings",
+                  "patients and caregivers"
+                ]
+              },
+              "insurance_type": {
+                "type": "string",
+                "enum": [
+                  "public",
+                  "private"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "insurance_type"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Financial": {
+    "name": "extract_financial_info",
+    "description": "Extract structured financial information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Financial"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "friends",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "financial_status": {
+                "type": "string",
+                "enum": [
+                  "poverty",
+                  "constrain",
+                  "normal"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "financial_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Substance Use": {
+    "name": "extract_substanceuse_info",
+    "description": "Extract structured substance use information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "SubstanceUse"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "grandparents",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "relatives",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "substanceuse_status": {
+                "type": "string",
+                "enum": [
+                  "current",
+                  "past",
+                  "none"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "substanceuse_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Trauma": {
+    "name": "extract_trauma_info",
+    "description": "Extract structured trauma information from a sentence. If there are multiple trauma conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Trauma"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients and siblings",
+                  "grandparents",
+                  "children",
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "siblings",
+                  "parents/caregiver"
+                ]
+              },
+              "trauma_type": {
+                "type": "string",
+                "enum": [
+                  "divorce",
+                  "loss",
+                  "physical_abuse",
+                  "psychological_abuse",
+                  "domestic_violence",
+                  "dcf",
+                  "abandonment"
+                ]
+              },
+              "trauma_status": {
+                "type": "string",
+                "enum": [
+                  "none",
+                  "current",
+                  "past"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "trauma_type",
+              "trauma_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Adherence": {
+    "name": "extract_adherence_info",
+    "description": "Extract structured adherence information from a sentence. If there are multiple adherence types, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Adherence"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "adherence_type": {
+                "type": "string",
+                "enum": [
+                  "medication",
+                  "therapy",
+                  "other"
+                ]
+              },
+              "adherence_level": {
+                "type": "string",
+                "enum": [
+                  "high",
+                  "normal",
+                  "low",
+                  "none"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "adherence_type",
+              "adherence_level"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Literacy": {
+    "name": "extract_literacy_info",
+    "description": "Extract structured literacy information from a sentence. If there are multiple literacy or knowledge types, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Literacy"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "literacy_type": {
+                "type": "string",
+                "enum": [
+                  "transplant_knowledge",
+                  "caregiving_knowledge",
+                  "medication_knowledge"
+                ]
+              },
+              "literacy_level": {
+                "type": "string",
+                "enum": [
+                  "high",
+                  "normal",
+                  "low",
+                  "none"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "literacy_type",
+              "literacy_level"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Recommendation": {
+    "name": "extract_recommendation_info",
+    "description": "Extract structured recommendation information from a sentence. If there are multiple recommendation types or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Recommendation"
+                ]
+              },
+              "Experiencer": {
+                "type": "string",
+                "enum": [
+                  "patients",
+                  "Father",
+                  "Family",
+                  "Mother",
+                  "parents/caregiver",
+                  "patients and caregivers"
+                ]
+              },
+              "recommendation_type": {
+                "type": "string",
+                "enum": [
+                  "increase_literacy",
+                  "increase_social_support",
+                  "increase_financial_support"
+                ]
+              },
+              "recommendation_status": {
+                "type": "string",
+                "enum": [
+                  "yes",
+                  "no"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "Experiencer",
+              "recommendation_type",
+              "recommendation_status"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  },
+  "Concern": {
+    "name": "extract_concern_info",
+    "description": "Extract structured concern information from a sentence. If there are multiple conditions or events, extract each as a separate item in the list.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "extracted_conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "Concern"
+                ]
+              },
+              "concern_level": {
+                "type": "string",
+                "enum": [
+                  "light",
+                  "moderate",
+                  "intense"
+                ]
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "category",
+              "concern_level"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "extracted_conditions"
+      ]
+    },
+    "strict": true
+  }
+}

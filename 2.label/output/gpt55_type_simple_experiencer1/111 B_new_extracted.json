@@ -1,0 +1,748 @@
+[
+    {
+        "sentence": "111 B\tDate:  *** **, ****          Name: ******* ********   DOB:  **/**/****  MRN:  ********     **, ******* ********, is a 6 year-old female with history of restrictive cardiomyopathy s/p OHT **/**/** referred by ***** ******, APRN, Transplant Coordinator, for Heart Transplant Psychosocial Assessment.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Information for this assessment was obtained through an interview with the patient's mother and review of the medical records. ******* is currently sedated and unable to participate.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Patient's father was unavailable due to working.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "SW spent 45 minutes of face to face time with family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Living situation:  **, *******, lives with her mother, father, and sister in ********, *******.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They reside at **** *** ** *, ********, ** *****.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They live in * ****** with a/c and heat window units, and well water.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They clean their air filter monthly.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is a filter on the water as well.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no smoking in the home.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Smoke",
+                        "smoke_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They have one dog.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Demographics:  Mother:  ******** ********  DOB:  **/**/****  Language: English   Education Level: High School Diploma       Employment:  Receptionist at *** ******** ***               Phone:  ***-***-****     Father:  ***** ********  DOB:  **/**/****  Language: English   Education Level: High School Diploma       Employment:  Self Employed- ****** Tinting       Phone:  ***-***-****     Siblings:  ********- 4     Support systems:  ******** and ***** lean on and depend on each other for support.",
+        "categories": [
+            "Education",
+            "Employment",
+            "Education",
+            "Employment",
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Education",
+                        "education_level": "high_level",
+                        "education_status": "past"
+                    },
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Education",
+                        "education_level": "high_level",
+                        "education_status": "past"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    },
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They also have a close knit family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Most of their extended family lives within an hour of the family.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family was very involved during time waiting on first transplant.   ******* has been ********** since ******** of last year.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She is enrolled in kindergarten through ******* Virtual School.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Education",
+                        "education_level": "childhood",
+                        "education_status": "current"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that she is on track to be promoted.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Her lowest grade is currently a *.    ******* enjoys outdoor activities such as riding 4wheeler, riding bikes, swimming, gardening, etc.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She has been able to participate in these activities up until recently illness. ******* had difficulty coping with admission while awaiting a heart transplant.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom feels that she will do better this time as she is older.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Child life will need to be heavily involved with patient, especially if a VAD is required.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Mom plans to again be the primary caregiver post-transplant with assistance from dad.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Parents are very familiar with post-transplant care needs.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Literacy",
+                        "literacy_level": "high",
+                        "literacy_type": "caregiving_knowledge"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family identifies as *******.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They deny any objections to blood products, transfusions, etc.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Course of illness:     ******* ******** is a 6 yo girl with history of hypertrophic restrictive cardiomyopathy s/p OHT (*/*/****) who presents with 3 days history of feeding intolerance and fatigue.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She has a history of recent PTLD (**/****) that was successfully treated with reduced immunosuppression and 6 doses of rituximab.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Her last cath was **/**** which showed normal **, filling pressures of 9 and 12 mmHg and normal unobstructed coronaries.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Biopsy at that time was Grade 0R.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She does not have a history of positive panel reactive antibodies.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Per mom, she has had 3 days vomiting and fatigue.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She was taken to *** where she was diagnosed with viral gastroenteritis.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Due to persistent symptoms, she was asked to bring her here.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She is currently on tacrolimus 0.6 mg BID without any recent missed dose.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Financial situation:  Both parents are employed full time.",
+        "categories": [
+            "Financial",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom's employer provides PTO but she will quickly use this with current hospital stay.",
+        "categories": [
+            "Employment",
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She reports that her **** is understanding and will hold her job for her.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Dad is self-employed and will need to continue to work throughout hospitalization.",
+        "categories": [
+            "Employment",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Finances will be a concern for family but they do have a significant amount of extended family support.  ******* is covered by ********/******** Medicaid and is currently approved under social security disability.",
+        "categories": [
+            "Financial",
+            "Social",
+            "Insurance",
+            "Insurance"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    }
+                ]
+            },
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Social",
+                        "social_level": "medium",
+                        "social_type": "government"
+                    }
+                ]
+            },
+            "Insurance": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Insurance",
+                        "insurance_type": "public"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that she is having to ********* and is getting push back about ******* not meeting criteria.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW will assist with providing updated medical records from this admission.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Friends of the family are ******* their apartment in ******** ******* to the family.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family will also be bringing down ******.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "This will allow for the family is remain local during ****** ******** closure and will also allow for dad to continue working.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family has two vehicles and transportation will not be a barrier.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Family History:     Family denies any history with DCF in regards to *******. ******** did have DCF involvement as a child victim.",
+        "categories": [
+            "Trauma",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Trauma",
+                        "trauma_status": "none",
+                        "trauma_type": "dcf"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Trauma",
+                        "trauma_status": "past",
+                        "trauma_type": "dcf"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Her mother was the perpetrator but she is no longer involved in the family's life.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Family denies any mental health or substance abuse history.",
+        "categories": [
+            "Mental Health",
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "none",
+                        "mentalhealth_type": "general"
+                    }
+                ]
+            },
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "SubstanceUse",
+                        "substanceuse_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Family medical history significant for hypertension, high cholesterol, heart failure, COPD, and diabetes in older family members (grandparents, etc).",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Adherence:     Previously there have been no concerns for adherence since transplant.",
+        "categories": [
+            "Adherence",
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "high",
+                        "adherence_type": "other",
+                        "category": "Adherence"
+                    }
+                ]
+            },
+            "Concern": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "However, family has been reluctant to get labs or come to appointments due to *****-19 concerns.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They have not been seen in clinic since **/**/** due to reluctance.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Assessment and recommendations:     SW inquired about how the family feels about proceeding with transplant knowing her difficult course the last few years.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "Mom states that they are ready to fight and do whatever is necessary.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She feels that ******* is up for the challenge.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Parents seem to have a limited understanding of *******'s current condition and factors that may impact transplant.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Literacy",
+                        "literacy_level": "low",
+                        "literacy_type": "transplant_knowledge"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They would benefit from ongoing education and meetings with the care team.   ******* is likely to have a difficult time with an extended hospitalization, especially if a VAD is medically indicated.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She will need ongoing support from child life to assist with adjustment as she did previous hospital stay.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  1     Family Background & Social Support -  1     Financial/Insurance - 2     Mental Health/Substance Abuse - 1     Involvement with *** Enforcement/Child Protection -  1     Adherence -2     Understanding of medical situation & transplant process - 2     Health Literacy - 1     Coping Skills - 1     Total:  11 Low Risk     The family scores as low risk in regards to psychosocial contra-indicators to transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Recommendations:  *Provide continuing education/reeducation to the family about heart transplant and post-transplant care.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_literacy"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*Offer support and guidance to family as needed.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_social_support"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*Involve child life.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_social_support"
+                    }
+                ]
+            }
+        }
+    }
+]

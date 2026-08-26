@@ -1,0 +1,501 @@
+BOS 109 Pt , * * * * * * , is a 3 month old female [ FP1 ] who is diagnosed with pulmonary atresia with intact ventricular septum with right ventricular dependent coronary circulation who is being referred for heart transplant Psychosocial Assessment [ FP2 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O B-Healthcare I-Healthcare O O O O O O O O O O O O O B-Healthcare O O O O O O O O O O
+BOS Information for this assessment was obtained through an interview with the pt's parents and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS SW spent 60 minutes of face to face time with patient and family . EOS	O O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * * , lives with her parents , older brother , grandparents , aunt , uncle [ FP3 ] , and * * * * * * * in * * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They reside in a * * * * * * * * * * * * * * * * * with city water and central heating and a / c . EOS	O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The air filters are replaced monthly [ FP4 ] . EOS	O O O O O O O O O O O O
+BOS There is no smoking in the home , although both parents report that they smoke outside [ FP5 ] . EOS	O O O O B-Smoke O O O O O O O O O O B-Smoke O O O O O O
+BOS They have no pets [ FP6 ] . EOS	O O O O O O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 26 Education : Finished half of 12th grade . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education I-Education I-Education I-Education O O
+BOS Dropped out [ FP7 ] due to having baby and DV issues with father of baby [ FP8 ] ( not * * * * * * * ) . EOS	O B-Education I-Education O O O O O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O
+BOS Employment : Not employed [ FP9 ] Phone : * * * - * * * - * * * * cell Father : * * * * * * * * * * * * * * * * * * : * * / * * / * * * * Age : 35 Education : college [ FP10 ] . EOS	O O O B-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education O O O O O
+BOS Attended * * * Employment : Does odd jobs as available [ FP11 ] . EOS	O O O O O O O O O B-Employment O O O O O O O
+BOS Currently pursuing a job [ FP12 ] at a local restaurant Phone : * * * - * * * - * * * * cell Siblings : Half-brother : * * * * * * * * * * * * * * * : * * / * * / * * * * Age 8 Others in the home : * * * * * * * * * * * * * * * * * , Maternal grandmother , Age 53 * * * * * * * * , maternal grandfather , age 56 * * * * * * * * * , mom's sister , age 23 * * * * * * * * * * * * * * , * * * * * ' s daughter , age 7 * * * * * * * * * * , * * * * * ' s son , age 6 mo * * * * * * * * * * , mom's brother , age 16 Support systems : * * * * * * * and * * * * * * * * have been together for 4 years but are not married [ FP13 ] . EOS	O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social I-Social O O O O O
+BOS They reside with * * * * * * * * ' s parents and siblings currently [ FP14 ] . EOS	O O B-Living O O O O O O O O O O O O O O O O O O O O
+BOS However , they are hoping to relocate to Gainesville to be closer to the hospital , and to get their own housing [ FP15 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * * , * * * * * * * * ' s mother is keeping her 8 yr old son while they are here in Gainesville with the baby . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * states his family also resides in * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS However , he states he is not involved with his family . EOS	O O O O O O O O B-Social O O O O O
+BOS He states they are not supportive of him [ FP16 ] . EOS	O O O O O O B-Social O O O O O O O
+BOS Financially , the family has very little support [ FP17 ] . EOS	O O O O O O O B-Financial I-Financial O O O O O
+BOS * * * * * * * reports that he does a lot of odd jobs , including moving furniture , fencing , and doing * * * * * * * * [ FP18 ] . EOS	O O O O O O O O O O O O O O O B-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O
+BOS He states he is always able to provide what they need if given enough advance notice . EOS	O O O O O O O O B-Financial O O O O O O O O O O
+BOS He states he does not mind working hard and will do whatever it takes to provide for his family . EOS	O O O O O O O O O O O O O O O O B-Financial O O O O O
+BOS However , he is somewhat limited because he does not have a drivers license currently [ FP19 ] . EOS	O O O O O O O O O O O O O B-Transportation I-Transportation O O O O O O
+BOS He states he has to finish paying off a seatbelt fine , as he was stopped for a traffic violation and did not have * * * * * * * in a car seat [ FP20 ] . EOS	O O O O O O O O O O O O O O O O O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O
+BOS He states he * * * * about $100 and will have his license reinstated when he is able to pay that . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * also does not have a drivers license [ FP21 ] . EOS	O O O O O O O O O O O O O O B-Transportation I-Transportation O O O O O
+BOS It will be more expensive to get hers reinstated as she has to pay court fees . EOS	O O O O O O O O O O O O O O O B-Financial I-Financial O O
+BOS She was driving on a suspended license and was cited for a traffic violation . EOS	O O O O O O B-Transportation I-Transportation O O O O O O O O O
+BOS Neither of them own a car [ FP22 ] . EOS	O O O O O O B-Transportation O O O O O
+BOS They have applied * * * * * * for SSI but this is still pending [ FP23 ] . EOS	O O O O O O O O O O O B-Financial O O O O O O O O O O
+BOS * * * * * * * * was supposed to go to an appt at the social security office in regards to this . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * , * * * * * * was then admitted . EOS	O O O O O O O O O O O O O O O O O O O O
+BOS SW provided phone number for her to call and request a telephone interview since pt is admitted out of * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * is covered by Medicaid [ FP24 ] * * * * * * * * / * * * * * * * * . EOS	O O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O O O O
+BOS This may assist with displacement housing post-transplant . EOS	O O O O O O B-Living O O O
+BOS This will also cover Medicaid transportation to and from medical appointments [ FP25 ] . EOS	O O O O O O B-Transportation O O O O O O O O O O
+BOS Fundraising to assist with these displacement expenses was discussed [ FP26 ] . EOS	O B-Financial O O O O O O O O O O O O O
+BOS The family was given information on * * * * ( Childrens * * * * * Transplant Association ) . EOS	O O O O O O O O O O O O B-Financial I-Financial I-Financial I-Financial I-Financial I-Financial I-Financial I-Financial O O O
+BOS They were also given an application for First Hand Foundation [ FP27 ] * * * * * . EOS	O O O O O O O O B-Financial I-Financial I-Financial O O O O O O O O O O
+BOS Both parents are legally permitted to sign consents and make medical decisions . EOS	O O O O O O O O O O O O O O O
+BOS SW discussed how they handle situations regarding * * * * * * if they are in disagreement about the decision . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Both state that they are typically able to discuss this and come to a consensus [ FP28 ] . EOS	O O O O O O O O O O O O O O O O O O O O O
+BOS Course of illness : * * * * * * was diagnosed with her heart condition prenatally . EOS	O O O O O O O O O O O O B-Healthcare O O O O O O O
+BOS She is diagnosed with pulmonary atresia with intact ventricular septum and hypertrophic cardiomyopathy * * * * * * * * * with a PDA stent . EOS	O O O O O B-Healthcare I-Healthcare O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O O
+BOS She had a heart cath in which LVH and RV dependent coronary circulation were identified . EOS	O O O O O O O O O O O O O O O O O O
+BOS As a result , she was referred to * * * * * * * * for transplant evaluation Financial Situation : * * * * * * is covered by Medicaid [ FP29 ] * * * * * * * * / * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O O O O
+BOS The family has begun the process of applying for SSI for her [ FP30 ] . EOS	O O O O O O O O O O B-Financial O O O O O O O
+BOS The family receives WIC [ FP31 ] and * * * * * * * * * * . EOS	O O O O B-Financial O O O O O O O O O O O O O O O O
+BOS * * * * * * * * is ordered to receive child support for her son , * * * * * * * , but states she does not receive this [ FP32 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Primarily , the family is supported by whatever work * * * * * * * is able to find . EOS	O O O O O O O O O B-Employment O O O O O O O O O O O O O
+BOS Family History : There is no reported medical history in the family other than a grandfather passing away in his 60s from a heart attack . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS In addition , the family reports that they were expecting a child about 2 years ago and * * * * * * * * had a miscarriage . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Trauma O O
+BOS There is no reported mental health history other than * * * * * * * * having postpartum depression with her first child [ FP33 ] . EOS	O O O O O O O O O O O O O O O O O O O B-MentalHealth I-MentalHealth O O O O O O O O O
+BOS She disclosed that this was partially related to DV issues with his father [ FP34 ] . EOS	O O O O O O O O O B-Trauma O O O O O O O O O
+BOS Psychotropic medication management of this was recommended , but she states she never took anything . EOS	O B-MentalHealth I-MentalHealth O O O O O O O O O O O O O O O
+BOS She denies any postpartum depression with * * * * * * . EOS	O O O O B-MentalHealth I-MentalHealth O O O O O O O O O
+BOS The family denies any substance abuse history currently [ FP35 ] . EOS	O O O O O B-SubstanceUse I-SubstanceUse O O O O O O O
+BOS * * * * * * * disclosed that he did smoke * * * * * * * * * a few times when he was 18 [ FP36 ] , and received a misdemeanor charge for this [ FP37 ] . EOS	O O O O O O O O O O O O B-SubstanceUse O O O O O O O O O O O O O O O O O O O O O O O B-Trauma O O O O O O O O
+BOS He denies any current usage . EOS	O O O O O B-SubstanceUse O O
+BOS * * * * * * * * does report history of DV with father [ FP38 ] of * * * * * * * . EOS	O O O O O O O O O O O O O B-Trauma O O O O O O O O O O O O O O O
+BOS She reports continued problems with him . EOS	O O O O B-Social O O O O
+BOS * * * * * * * is still ordered to have visitation with him , although this is arranged through the grandmother . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * states she does not deal directly with him . EOS	O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * , * * * * * * * disclosed that they do receive threatening phone calls [ FP39 ] from * * * * * * * ' s father at times , as well as * * * * * * * against * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * disclosed that DCF was involved when * * * * * * * was little due to these DV issues [ FP40 ] . EOS	O O O O O O O O O O O B-Trauma O O O O O O O O O O O O O O O B-Trauma I-Trauma O O O O O
+BOS They deny any other history of involvement with DCF , law enforcement , arrests , or criminal history [ FP41 ] . EOS	O O O O O O O O O B-Trauma O B-Trauma I-Trauma O B-Trauma O O B-Trauma I-Trauma O O O O O
+BOS Adherence : There are no concerns for adherence that have been documented at this time [ FP42 ] . EOS	O O O O O O O O B-Adherence O O O O O O O O O O O O
+BOS The family reports that they have been able to give * * * * * * her meds and provide her care needs without difficulty during the brief times she has been at home in between her admissions . EOS	O O O O O O O O O O O O O O O O O O B-Adherence O B-Adherence I-Adherence I-Adherence I-Adherence O O O O O O O O O O O O O O O O O
+BOS They both state they are comfortable giving meds , checking weight and checking pulse ox . EOS	O O O O O O O O B-Adherence O O O O O O O O O
+BOS They disclosed they were trained in how to check BP as well but were not provided a blood pressure cuff to do so [ FP43 ] [ FP44 ] . EOS	O O O O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * was feeding by mouth prior to admission , so they have not had to learn g-tube care . EOS	O O O O O O O O O O O O O O O O O O O O O B-Literacy O O O O
+BOS They verbalize belief that they will be able to do so if needed [ FP45 ] . EOS	O O O B-Literacy O O O O O O O O O O O O O O O
+BOS They report that they will be able to keep follow up appointments , even if they have to use Medicaid transportation . EOS	O O O O O O O O O O O O B-Adherence O O O O O O O O O O O
+BOS Both appear bonded with * * * * * * . EOS	O O O B-Social O O O O O O O O O
+BOS Assessment and recommendations : The family has very limited financial resources and tangible supports [ FP46 ] [ FP47 ] . EOS	O O O O O O O O O O B-Financial O O O B-Social O O O O O O O O
+BOS They do report adequate emotional support and support with care for the older child . EOS	O O O O O O B-Social O O O O O O O O O O
+BOS They verbalize a desire to move forward with transplant [ FP48 ] . EOS	O O O O O O B-Literacy I-Literacy O O O O O O O
+BOS They report that it is ' scary ' but they want the best opportunity [ FP49 ] for * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * , * * * * * * * also disclosed that he would like to be given information if * * * * * * is ever at a point where it is not likely that she would be able to have a good life . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He states that he does not want her ' hooked up to machines forever ' with no real hope of being able to come off of them . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He states that he does not feel that is really living , and would rather let her go if it gets to that point . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He states he believes she is strong and will fight through , but wanted to express his thoughts on this should it come to it [ FP50 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * expressed hope and belief that * * * * * * will be ok , and states she would never want to have to make a decision about end of life care . EOS	O O O O O O O O O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 3 Family Background & Social Support - 2 Financial / Insurance - 2 Mental Health / Substance Abuse - 1 Involvement with * * * Enforcement / Child Protection - 1 Adherence - 1 Understanding of medical situation & transplant process - 1 Health Literacy - 1 Coping Skills - 2 Total : 14 Moderate The family scores as moderate risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The biggest concern is the lack of financial support . EOS	O O O B-Concern O O O O B-Financial O O O
+BOS Recommendations are listed below : Recommendations : * Provide ongoing education about heart transplant and post-transplant care . EOS	O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O
+BOS Use teach-back method to ensure that the parents understand what is being explained . EOS	O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O
+BOS * Provide fundraising and financial resources to assist the family with expenses that arise secondary to child's extended admission * Assist with resources for local housing should the family continue to make plans to relocate to Gainesville permanently [ FP51 ] * * * * * * * * * * * * * * LCSW Pediatric Heart / Lung Transplant Team [ FP1 ] gender [ FP2 ] ACC_Health_Care [ FP3 ] Living_Condition [ FP4 ] Living_Supply [ FP5 ] Smoking [ FP6 ] Living_Condition [ FP7 ] Education_General [ FP8 ] IPV Historical [ FP9 ] Employment_Status [ FP10 ] Education_General [ FP11 ] Occupation [ FP12 ] Employment_Status [ FP13 ] Social_Cohesion [ FP14 ] Living Condition [ FP15 ] Financial_Constraint [ FP16 ] Social_Support [ FP17 ] Poverty [ FP18 ] Occupation [ FP19 ] Financial_Constraint [ FP20 ] Personal_Safety [ FP21 ] Fianncial_Constraint [ FP22 ] Financial_Constraint [ FP23 ] Insurance [ FP24 ] Insurance [ FP25 ] Financial_Constraint [ FP26 ] Financial_Constraint [ FP27 ] Financial_Constraint [ FP28 ] Social_Cohesion [ FP29 ] Insurance [ FP30 ] Insurance [ FP31 ] Poverty [ FP32 ] Poverty [ FP33 ] Mental Health [ FP34 ] IPV ( Historical ) [ FP35 ] Drug_Abuse [ FP36 ] Drug Abuse ( Historical ) [ FP37 ] Legal Involvement [ FP38 ] IPV [ FP39 ] Personal_Safety [ FP40 ] Abuse ( Historical ) [ FP41 ] Abuse [ FP42 ] Adherence [ FP43 ] Adherence [ FP44 ] Literacy [ FP45 ] Literacy [ FP46 ] Poverty [ FP47 ] Social_Support [ FP48 ] Literacy [ FP49 ] Literacy [ FP50 ] Literacy [ FP51 ] Recommendations EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O B-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS 110 Pt , * * * * * , is a 14 year old male who is diagnosed with hypertrophic cardiomyopathy who is being referred for heart transplant Psychosocial Assessment . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O
+BOS Information for this assessment was obtained through an interview with the pt , his parents , his older brother , and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW spent 30 minutes of face to face time with patient and family . EOS	O O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * , lives with his parents and younger brother in * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O
+BOS They reside in a single family house with central air conditioning and well water . EOS	O O B-Living O O O O O O O O O O O O O O
+BOS They have a filtration system on the water , and do use it for cooking and drinking . EOS	O O O O O O O O O O O O O O O O O O O O
+BOS They change the air filter monthly . EOS	O O O O O O O O O
+BOS There is no smoking in the home . EOS	O O O O B-Smoke O O O O O
+BOS They have indoor * * * * * * * * * * and outdoor German Shepherds ( which they * * * * * ) . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 37 Employment : Self-employed with husband . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O
+BOS They run a contracting business doing commercial landscaping . EOS	O O B-Employment I-Employment I-Employment I-Employment O O O O O
+BOS Phone : * * * - * * * - * * * * home ; * * * - * * * - * * * * cell Father : * * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 50 Employment : Self-employed with contracting business doing commercial landscaping Phone : * * * - * * * - * * * * Siblings : * * * * * * * * * * * , DOB * * / * * / * * * * , age 22 Does not live at home , but works with dad part-time ; Has glaucoma and is on disability * * * * * * * * * * * * * , DOB * * / * * / * * * * , age 17 Support systems : Parents report that they have adequate support . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social I-Social I-Social I-Social O
+BOS They have ample friends and family who are able to assist them if needed . EOS	O O O O B-Social I-Social I-Social O O O O O O O O O O
+BOS The paternal grandmother resides nearby and is very actively involved with the family . EOS	O O O O O O O O O B-Social I-Social I-Social I-Social I-Social O O
+BOS She will likely be present at the time of transplant . EOS	O O O O O O O O O O O O O
+BOS * * * * is also actively involved although he does not live at home any longer . EOS	O O O O O O O O O O O O O O O O O O O O
+BOS He cannot drive due to glaucoma but is able to see well enough to do basic tasks to help out . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS Both parents have a vehicle . EOS	O O O O O B-Transportation O O
+BOS In addition , * * * * * * has a truck . EOS	O O O O O O O O O O O O B-Transportation O O
+BOS They deny that transportation to and from Gainesville will be a problem . EOS	O O O O B-Transportation O O O O O O O O O O
+BOS They deny that travel expenses will be problematic as well . EOS	O O O O B-Transportation I-Transportation O O O O O O O
+BOS They report that they have more than adequate income from their business . EOS	O O O O O O O O O B-Financial O O O O O
+BOS Dad disclosed that his partners will continue running the business while they are here with * * * * * , and that they will not experience any loss of income . EOS	O O O O O O O O B-Employment I-Employment I-Employment O O O O O O O O O O O O O O O O O O B-Financial I-Financial I-Financial O O
+BOS However , he states that he will likely return home to work after * * * * * is stable and doing well . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom will remain at bedside , and in the transplant housing with * * * * * . EOS	O O O O O O O O O O B-Living I-Living O O O O O O O O
+BOS * * * * * is covered by Medicaid * * * * * * * * / * * * * * * * * . EOS	O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O
+BOS He does not receive disability due to parents ' income . EOS	O O O O O O O O O O B-Financial O O
+BOS This may assist with displacement housing post-transplant . EOS	O O O O O O O O O O
+BOS The family is interested in fundraising through * * * * . EOS	O O O O O O B-Financial O O O O O O O
+BOS This information was provided . EOS	O O O O O O O
+BOS They disclosed that they are more interested in fundraising for the future expenses in case * * * * * loses insurance when he is an adult and needs help paying for medications etc . EOS	O O O O O O O O O B-Financial O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * will be entering the 9th grade next week . EOS	O O O O O O O O O O B-Education I-Education O O O O
+BOS He states he is nervous about starting high school . EOS	O O O O O O O O B-Education I-Education O O
+BOS He is a good student . EOS	O O O O O B-Education O O
+BOS He is not on an IEP or 504 plan . EOS	O O O O O O O O O O O O
+BOS He hopes to one day become a cardiologist . EOS	O O O O O O O O O O O
+BOS He does not plan to participate in any extracurricular activities . EOS	O O O O O O O O O O O O O
+BOS He is not able to participate in sports due to his cardiac limitations . EOS	O O O O O O O O O O O O O O O O
+BOS He states his main * * * * * is playing video games . EOS	O O O O O O O O O O O O O O O O
+BOS Course of illness : * * * * * was diagnosed with hypertrophic cardiomyopathy at the age of 3 yrs . EOS	O O O O O O O O O O O B-Healthcare O O O O O O O O O O O
+BOS He is status post septal myectomy . EOS	O O O O O B-Healthcare I-Healthcare O O
+BOS He is also status post ICD device . EOS	O O O O O O O O O O
+BOS He is currently being evaluated for heart transplant . EOS	O O O O O B-Healthcare O O O O O
+BOS Financial Situation : Family is financially supported by income from parent's business . EOS	O O O O O O O O O B-Financial O O O O O
+BOS * * * * * is covered by Medicaid * * * * * * * * / * * * * * * * * . EOS	O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O
+BOS Family reports they are able to pay for displacement lodging and travel expenses , but do want to * * * * * * * * * for future expenses in case there is a time when * * * * * is no longer covered by the Medicaid . EOS	O O O O O O O O O O O O B-Transportation I-Transportation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Insurance O O
+BOS Family History : Family medical history includes diabetes , hypertension , high cholesterol , COPD , and breast cancer . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS In addition , pt's older brother has glaucoma . EOS	O O O O O O O O O O O
+BOS There is no reported mental health history . EOS	O O O O O B-MentalHealth I-MentalHealth O O O
+BOS The family denies any substance abuse history . EOS	O O O O O B-SubstanceUse I-SubstanceUse O O O
+BOS There is no reported history of DV or involvement with DCF . EOS	O O O O O O O B-Trauma O O O B-Trauma O O
+BOS The family denies any history of involvement with law enforcement , arrests , or criminal history . EOS	O O O O O O O O O O O O B-Trauma O O O O O O
+BOS Adherence : There are no concerns for adherence that have been documented at this time . EOS	O O O O O O O O B-Adherence O O O O O O O O O
+BOS * * * * * reports that he is currently on one medication . EOS	O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare O O
+BOS He states he takes this independently and the family verbalizes agreement . EOS	O O O O O O B-Adherence O O O O O O O
+BOS He is compliant with exercise restrictions . EOS	O O O B-Adherence O O O O O
+BOS It appears that the family is compliant with keeping appointments . EOS	O O O O O O O B-Adherence O O O O O
+BOS Assessment and recommendations : The family appears to have adequate support . EOS	O O O O O O O O O O B-Social I-Social O O
+BOS They have been aware of the possibility of transplant since * * * * * was a toddler , and are agreeable with moving forward when it is time . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * states he would like to get a transplant so that he can be more active and have fewer limitations . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He states he would like to be able to go out and walk around , or help walk the dogs . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 1 Family Background & Social Support - 1 Financial / Insurance - 1 Mental Health / Substance Abuse - 1 Involvement with * * * Enforcement / Child Protection - 1 Adherence - 1 Understanding of medical situation & transplant process - 1 Health Literacy - 1 Coping Skills - 1 Total : 9 Low The family scores as low risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Recommendations are listed below : Recommendations : * Provide ongoing education about heart transplant and post-transplant care . EOS	O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O
+BOS * Provide fundraising resources to assist the family with expenses that arise secondary to transplant * * * * * * * * * * * * * * LCSW Pediatric Heart / Lung Transplant Team * * * - * * * - * * * * EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS 112 Pt , * * * * * * * * * * * * * , is a 14 - month-old female with diagnosed cardiomyopathy , referred by * * * * * * * * * * * , * * * * , Transplant Coordinator , for Psychosocial Assessment for Heart Transplant Evaluation . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Information for this assessment was obtained through an interview with the patient's mother , * * * * * * * * * * * * * , and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * ' s father , * * * * * * * * * * * * * * * , was not available due to caring for their older child at home . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW spent approximately 40 minutes of face-to-face time with patient and family . EOS	O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * , lives with her mother , father , and brother in * * * * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They reside at * * * * * * * * * * * * * * , * * * * * * * * * , * * * * * * * . EOS	O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They are currently renting a 3 - bedroom * * * * * * * * with central heating and a / c . EOS	O O O O B-Living O O O O O O O O O O O O O O O O O O O O O
+BOS They are building a 5 - bedroom * * * * * * * * * * * * * * * * * * * * * * * * * * , * * * * * * * * * * * * , * * * * * * * , that is expected to be completed on * * * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS There is no smoking in the home . EOS	O O O O B-Smoke O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * * DOB : * * / * * / * * * * Language : English Education Level : BSN and * * * * * * ' s * * * * * * in * * * * * * * * * * * * * * * * * * * Employment : Stay at * * * * * * * Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * * * DOB : * * / * * / * * * * Language : English Education Level : * * * * * * ' s * * * * * * Employment : Software * * * * * * * * with * * * * * * * * Phone : * * * - * * * - * * * * Siblings : * * * * * * * * * * * * * - 11 ( received heart transplant * * / * * / * * ) Social History and Support Systems : * * * * * resides at home in Kissimmee with her mother , father , and brother . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * and * * * * * * * have been married for 17 years . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS They lean on each other for support and work their schedules around the children . EOS	O O O O O O O B-Social O O O O O O O O O
+BOS The maternal grandparents have also relocated to * * * * * * * . EOS	O O O O O O O O O O O O O O O O O
+BOS They are currently living an hour away from family in * * * * * * * * * * * but may eventually relocate closer to the family . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Patient's brother , * * * * * , received a heart transplant on * * / * * / * * at * * * * * * * * * * * * * * ' s Hospital and is still followed by their transplant team . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom reports that he has a stable course post-transplant . EOS	O O O O O O O O O O O O
+BOS They are working with him now on medical independence and teaching him to fill his pillbox . EOS	O O O O O O O O O B-Adherence O O O O O O O O O
+BOS * * * * * and * * * * * * * struggled with fertility while trying to get pregnant with the children . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They had several miscarriages and also lost a child born prematurely at 23 weeks . EOS	O O O O B-Trauma O O B-Trauma I-Trauma I-Trauma O O O O O O O
+BOS Mom reports they coped appropriately with the losses and do not plan on having any further children . EOS	O O O O O O O O O O O O O O O O O O O O
+BOS Mom reports that * * * * * is on track developmentally . EOS	O O O O O O O O O O O O O O O
+BOS There have never been any developmental concerns by parents or pediatrician . EOS	O O O O O O O O O O O O O O
+BOS Mom reports that * * * * * defers from her brother in her personality . EOS	O O O O O O O O O O O O O O O O O O
+BOS While at a younger age he was laid back , * * * * * is determined , strong-willed , and very independent . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom is hopeful that they will be able to await transplant outpatient as this will be easier on * * * * * and the family . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom will be * * * * * ' s primary caregiver post transplant . EOS	O O O O O O O O O O O O O O O O O
+BOS Dad will be the backup caregiver . EOS	O O O O O O O O O
+BOS He is the sole provider for the family but can work from anywhere and can adjust his work times as needed . EOS	O O O O O O O O O O O O O O O O B-Employment I-Employment I-Employment I-Employment O O O O
+BOS Maternal grandparents have also helped greatly in the past . EOS	O O O O O B-Social O O O O O O
+BOS Mom denies any objections to blood products , transfusions , etc . EOS	O O O O O O O O O O O O O O
+BOS Course of illness : * * * * * was diagnosed with dilated cardiomyopathy at 18 days of age on screening echo done because of her family history : her brother had a heart transplant for dilated cardiomyopathy . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS She has been asymptomatic since then with good feeding tolerance , appropriate growth , no cyanosis or edema and no other sign of heart failure . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom reports that * * * * * ' s heart function has been slowly declining since diagnosis . EOS	O O O O O O O O O O O O O O O O O O O O O
+BOS Financial situation : * * * * * * * works full time and is the sole provider for the family . EOS	O O O O O O O O O O O B-Employment O O O O O O O O O O O O
+BOS His income more than meets their needs each month . EOS	O O B-Financial O O O O O O O O O
+BOS Due to family income , they will not be eligible for SSI or * * * * * assistance . EOS	O O O O B-Financial O O O O O O O O O O O O O O O O O
+BOS Family has experienced the costs of transplant in the past and deny any need for fundraising information . EOS	O O O O O B-Financial O O O O O O O O O O B-Financial O O O
+BOS * * * * * is covered by United Healthcare through * * * * * * * ' s employer . EOS	O O O O O O O O O B-Insurance I-Insurance O O O O O O O O O O B-Employment O O
+BOS Dad will likely only need limited time off work since mom is not working , his schedule is flexible , and grandparents are retired . EOS	O O O O O O O O O B-Employment O O O B-Employment I-Employment O O O O O O O O O O O O
+BOS Both parents have vehicles and transportation will not be a barrier . EOS	O O O O B-Transportation O O O O O O O O O
+BOS Family History : Mom denies any DCF , law enforcement , or substance abuse history by immediate family . EOS	O O O O O O O B-Trauma O O O O O B-SubstanceUse I-SubstanceUse O O O O O O
+BOS Dad has a history of depression , per mom , likely stemming from the loss of his mother at a young age . EOS	O O O O O O B-MentalHealth O O O O O O O O B-Trauma O O O O O O O O O
+BOS He has engaged in counseling sporadically but is not currently involved . EOS	O O O O O B-Healthcare O O O O O O O O
+BOS Mom reports that he is on Effexor and the depression does not interfere with his daily functioning . EOS	O O O O O O O O O O B-MentalHealth O O O O O O O O O
+BOS Adherence : There are no concerns with adherence noted . EOS	O O O O O O B-Adherence O O O O O
+BOS Family is familiar with transplant regimen and there is no documented compliance issues . EOS	O O O B-Literacy O O O O O O O O O O O O
+BOS Assessment and recommendations : Family is very knowledgeable about transplant as their 11 year old son received a heart transplant in * * * * * * * * * * . EOS	O O O O O O O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS There were no concerns noted during assessment or in medical records . EOS	O O O O B-Concern O O O O O O O O O
+BOS Family is ready to proceed with transplant if indicated . EOS	O O O O O O O O O O O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 1 Family Background & Social Support - 1 Financial / Insurance - 1 Mental Health / Substance Abuse - 1 Involvement with * * * Enforcement / Child Protection - 1 Adherence - 1 Understanding of medical situation & transplant process - 1 Health Literacy - 1 Coping Skills - 1 Total : 9 Low The family scores as low risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Recommendations : * Provide continuing education to the family about heart transplant and post-transplant care . EOS	O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O
+BOS * Offer support and guidance to family as needed . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O
+BOS * * * * * * * * * * * * * , MSW Pediatric Heart and Lung Transplant Team * * * - * * * - * * * * EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS 125 Pt , * * * * * * * * * * * * * * * * * * , is a 17 y / o male [ FP1 ] with tricuspid atresia with transposition of the great arteries and coarctation of the aorta [ FP2 ] , referred by * * * * * * * * * * * * * * * , * * * * , Transplant Coordinator , for Psychosocial Assessment for Heart Transplant Evaluation . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Information for this assessment was obtained through an interview with the patient , patient's mother , * * * * * * * * * * * * * , mother's fiancé , * * * * * * * * * * * * * , patient's grandmother , * * * * * * * * * * * * * , and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW spent approximately 60 minutes of face-to-face time with patient and family . EOS	O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * * * * * * * , resides with his mother , mother's fiancé , and siblings [ FP3 ] in * * * * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They reside at * * * * * * * * * * * * * , * * * * * * * * * , * * * * * * * . EOS	O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They * * * * a 4 - bedroom home [ FP4 ] with central a / c and heat . EOS	O O O O O O O O O O B-Living O O O O O O O O O O O O
+BOS They have city water [ FP5 ] . EOS	O O O O O O O O O O
+BOS Both adults smoke but there is no smoking in the home or in the car [ FP6 ] . EOS	O O O B-Smoke O O O O O O O O O O O O O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : 11th Grade [ FP7 ] Employment : Unemployed [ FP8 ] Phone : * * * - * * * - * * * * Mom's Fiance : * * * * * * * * * * * * * * * * : * * / * * / * * * * Language : English Education Level : High School Diploma [ FP9 ] Employment : Unemployed [ FP10 ] Phone : * * * - * * * - * * * * Father : * * * * * * * * * * * * * * * * Prison in * * * * * * * * Siblings in Home : * * * * * * * * * * * * * * 28 * * * * * * * * * * * * 4 Siblings Not in Home : * * * * * * * * * * * * 26 ( * * * * * ) * * * * * * * * * * * * * * * 24 ( * * * * * ) * * * * * Mon 22 ( New * * * * ) * * * * * * * * * * * * * * * 13 ( * * * * * * * ) Other Children in Home ( * * * * * * * ' s Children ) : * * * * * * * * * * * * * 8 * * * * * * * * * * * * 6 * * * * * * * * * * * * * 4 Social History and Support Systems : * * * * * * * * * * * lives with his mother , mother's fiancé ( * * * * * * * ) , two of his sisters , and three [ FP11 ] * * * * * * * in * * * * * * * * * , * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education O B-Education I-Education I-Education O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Trauma I-Trauma O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They recently relocated from * * * * * * * in * * * * * * * * * * * * * . EOS	O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * and * * * * * * * have been together for four years . EOS	O O O O O O O O O O O O O O O B-Social I-Social I-Social O O O O O
+BOS They are engaged with plans to be married [ FP12 ] . EOS	O O O O O O O O O O O O O O
+BOS They had to put plans on hold due to * * * * * * * * * * * ' s illness but hope to be married this weekend while their family is all here . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They have a significant amount of family support present at the hospital at this time . EOS	O O O O O O O O B-Social O O O O O O O O O
+BOS Their family has come in from * * * * * and New * * * * to be here . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS [ FP13 ] Maternal grandmother and grandfather are here from * * * * * * * and plan to relocate to be near the family during this time [ FP14 ] . EOS	O O O O O O O O O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O
+BOS This would be beneficial as grandmother has had custody [ FP15 ] of * * * * * * * * * * * and been an advocate for his healthcare during the majority of his life per medical records from * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O O O O O O O O O O O
+BOS Per mom and grandmother , * * * * * * * * * * * ' s father is in Prison in * * * * * * * * for attempted to murder and is sentenced to life without the possibility of parole [ FP16 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He has not had any involvement in * * * * * * * * * * * ' s life and has not had any contact with the family since 2004 . EOS	O O O O O O B-Social O O O O O O O O O O O O O O O O B-Social I-Social I-Social I-Social I-Social O O O O O O O
+BOS Mom plans to be * * * * * * * * * * * ' s primary caregiver post-transplant . EOS	O O O O O O O O O O O O O O O O O O O B-Social O O O
+BOS * * * * * * * * * * * ' s grandmother will be the secondary caregiver as she plans to relocate to * * * * * * * to be here for the family . EOS	O O O O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O O O O O O O O O O
+BOS Neither are working at this time . EOS	O O O B-Employment O O O O O
+BOS * * * * * * * * * * * is enrolled in the 11th grade special education program at * * * * * * * * * * * * * * * * * . EOS	O O O O O O O O O O O O O O O O B-Education I-Education I-Education I-Education I-Education O O O O O O O O O O O O O O O O O O O O
+BOS He has been diagnosed with a developmental delay [ FP17 ] . EOS	O O O O O O O B-MentalHealth I-MentalHealth O O O O O
+BOS He initially received PT and OT when he transferred to * * * * * * * * * * * but ' graduated ' from the program . EOS	O O O O B-Healthcare O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He was sporadically under the care of a psychiatrist and psychologist [ FP18 ] in * * * * * * * by request of the Cardiologist in * * * * * * * and had been diagnosed with ADHD and depression . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MentalHealth O B-MentalHealth O O
+BOS There was documented noncompliance with follow up and he had not received these services since move [ FP19 ] to * * * * * * * . EOS	O O O O B-Adherence O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Family is not in agreement with the diagnosis or the medication treatment he received for the diagnosis . EOS	O O O O O B-Literacy O O O O O O O O O O O O O O
+BOS They believe that he presents more as someone with bipolar disorder due to his frequent mood swings and family history of bipolar disorder ( mom ) [ FP20 ] . EOS	O O O O O O O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * * * * enjoys wrestling , video games , music , and dancing to * * * * * * * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He is used to hospitalizations and * * * * * appropriately per grandmother's report . EOS	O O O O O B-Healthcare O O O O O O O O O O O O
+BOS He can become depressed during hospital stays but family being at bedside assists with improving his mood . EOS	O O O O B-MentalHealth O O O O B-Social I-Social I-Social I-Social I-Social O O O O O O
+BOS Mom denies any objections to blood products , transfusions , etc [ FP21 ] . EOS	O O O O B-Literacy O O O O O O O O O O O O
+BOS Course of illness : * * * * * * * * * * * * * * * * * * is a 17 y / o male [ FP22 ] with a history of tricuspid atresia with transposition of the great arteries and coarctation of the aorta [ FP23 ] . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O O O O O O O O O O O O O O
+BOS He has been * * * * * * * * * with * * * * * and * * * * * * procedures ( initially fenestrated , now closed ) , mitral valve repair ( * * / * * * * ) , pacemaker / AICD placement ( 2012 ) . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare I-Healthcare O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O O O
+BOS Also with history of left CVA with resultant right-sided weakness s / p HIT induced coagulopathy , seizure disorder ( last seizure * / * * * * ) , and small bowel resection following obstruction . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare O O O O
+BOS He is now admitted and currently being evaluated for a heart transplant . EOS	O O O O B-Healthcare O O O O O O O O O O
+BOS Financial situation : Both * * * * * * and * * * * * * * are currently unemployed and not seeking employment at this time [ FP24 ] . EOS	O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O
+BOS Just prior to the move to * * * * * * * , mom was involved in an accident and is receiving a settlement from the accident . EOS	O O O O O O O O O O O O O O O O O O O O B-Trauma O O O O B-Financial O O O O O
+BOS The family is in section 8 housing and was just approved for food [ FP25 ] * * * * * * . EOS	O O O O O B-Financial I-Financial O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * * * * also receives social security disability [ FP26 ] . EOS	O O O O O O O O O O O O O O B-Financial I-Financial I-Financial O O O O O
+BOS Mom is aware that the disability will be cut back if * * * * * * * * * * * is to remain in the hospital [ FP27 ] . EOS	O O O O O O B-Financial O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * * * * is currently covered by New * * * * * * * * * * * * [ FP28 ] . EOS	O O O O O O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O
+BOS Mom reports that they have been approved for * * * * * * * Medicaid [ FP29 ] but that she has been advised that she needs to pick one of the plans . EOS	O O O O O O O O O O O O O O O O B-Insurance O O O O O O O O O O O O O O O O O O O O
+BOS Once approved , this will cover all medical expenses at 100% . EOS	O O O O O O B-Insurance O O O O O O O
+BOS Family has two vehicles and report that transportation will not be a barrier [ FP30 ] . EOS	O O O O B-Transportation O O O O O O O O O O O O O O
+BOS Family History : Mom has a significant history of drug abuse [ FP31 ] . EOS	O O O O O O O O O O B-SubstanceUse I-SubstanceUse O O O O O
+BOS She has been sober since 2007 [ FP32 ] . EOS	O O O O B-SubstanceUse O O O O O O O
+BOS Due to the drug abuse she has been in and out of her children's lives . EOS	O O O O B-SubstanceUse I-SubstanceUse O O O O O O O O O O O O
+BOS * * * * * * * * * * * has lived the majority of his life in his grandmother's care . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom has a significant mental health history and has been diagnosed with anxiety , bipolar disorder , and manic-depressive disorder . EOS	O O O O O O O O O O O O O B-MentalHealth O B-MentalHealth O O O B-MentalHealth I-MentalHealth O O
+BOS She has had treatment in the past but is not currently undergoing care . EOS	O O O O B-Healthcare O O O O O O O O O O O
+BOS She has a very remote history of a suicide attempt and psychiatric hospitalization over 20 years ago . EOS	O O O O O O O O O B-MentalHealth O O B-MentalHealth I-MentalHealth O O O O O O
+BOS She feels that her mental health has been stable during the past few years [ FP33 ] . EOS	O O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O O O O
+BOS She also has a criminal record relating to the drug use but nothing since 2007 [ FP34 ] [ FP35 ] . EOS	O O O O O B-Trauma O O O O B-SubstanceUse I-SubstanceUse O O O O O O O O O O O O
+BOS There was no DCF involvement due to any of the above information as mom voluntarily placed her children with their grandmother [ FP36 ] . EOS	O O O O B-Trauma O O O O O O O O O O O O O O O O O O O O O O
+BOS However , mom did disclose that the father of her youngest child , * * * * * * , called in unfounded allegations because he was upset with her . EOS	O O O O O O O O O O O O O O O O O O O O O O O B-Trauma I-Trauma O O O O O O O O
+BOS The case was closed and he no longer has any contact with the family . EOS	O O B-Trauma O O O O O O O O B-Social I-Social I-Social I-Social O O
+BOS Adherence : There are significant concerns for adherence due to past records forwarded from patient's cardiologist [ FP37 ] in * * * * * * * . EOS	O O O O O O B-Adherence I-Adherence I-Adherence O O O O O O O O O O O O O O O O O O O O O
+BOS There was documented history of noncompliance , specifically , when * * * * * * * * * * * was with his mother . EOS	O O O O O O B-Adherence O O O O O O O O O O O O O O O O O O O O O
+BOS There was lack of follow through with psychology [ FP38 ] . EOS	O O O O O B-Adherence I-Adherence O O O O O O O
+BOS Upon move to * * * * * * * , family was slow to seek physicians , medical care , insurance , resources , etc . EOS	O O O O O O O O O O O O O O B-Adherence I-Adherence I-Adherence O O O O O O O O O O O O
+BOS [ FP39 ] SW discussed these concerns with family at length including the expectations of the transplant team . EOS	O O O O O O O B-Concern O O O O O O B-Literacy I-Literacy I-Literacy I-Literacy I-Literacy O O
+BOS Assessment and recommendations : Mom was very * * * * * * about her past but seems to be very committed to being there for * * * * * * * * * * * and her other children . EOS	O O O O O O O O O O O O O O O O O O O O O B-Literacy I-Literacy O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * and grandmother are both here and also committed to being support for both mom and * * * * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O O O O O O
+BOS They acknowledge that there has been noncompliance in the past [ FP40 ] and that the transplant team has concerns due to that history . EOS	O O O O O O O B-Adherence O O O O O O O O O O O O B-Concern O O O O O O
+BOS They are willing to do whatever is necessary / requested including signing a contract of expectations . EOS	O O O B-Literacy O O O O O O O O O O O O O O O
+BOS There are concerns about their ability to maintain financially without * * * * * * * * * ' s social security disability income [ FP41 ] . EOS	O O O B-Concern O O O O O B-Financial O O O O O O O O O O O O B-Financial I-Financial I-Financial I-Financial O O O O O
+BOS Family will need to come up with a plan to address this . EOS	O O O O O O O O O O O O O O O
+BOS SW met with * * * * * * * alone to discuss his feelings regarding transplant . EOS	O O O O O O O O O O O O O O O B-Literacy I-Literacy I-Literacy O O
+BOS He had a limited understanding of transplant but was able to verbalize to SW that his heart would have to be removed and someone else's put in . EOS	O O O O O B-Literacy O O O O B-Literacy I-Literacy I-Literacy O O O O O O O O O O O O O O O O O
+BOS He also stated that someone would have to die for him to live . EOS	O O O O O O O O O O O O O O O O
+BOS He went on to say that if someone had to die then he just ' wanted to pull the cord and be done ' . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He was explaining it as such that the other person was being killed for him to live [ FP42 ] . EOS	O O O B-Literacy O O O O O O O O O O O O O O O O O O O
+BOS SW explored this further with him and explained different circumstances to his level of understanding . EOS	O O O O O O O O O O O O O O O O O O
+BOS He seemed to comprehend . EOS	O O O O B-Literacy O O
+BOS [ MK43 ] SW allowed him to explore his feelings on his quality of life lived and life left to live and gave opportunity to openly discuss his wishes . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He would likely benefit from ongoing counseling to give opportunity to express his feelings on the topic and ask questions [ FP44 ] . EOS	O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O
+BOS In the end , he verbalized that he would like to proceed with transplant . EOS	O O O O O O B-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 2 Family Background & Social Support - 3 Financial / Insurance - 3 Mental Health / Substance Abuse - 3 Involvement with * * * Enforcement / Child Protection - 3 Adherence - 4 Understanding of medical situation & transplant process - 3 Health Literacy - 2 Coping Skills - 3 Total : 26 High Risk The family scores as High risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Recommendations : * Complete Pre and Post-Transplant Contracts with Family to address concerns with adherence . EOS	O B-Recommendation O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O B-Concern I-Concern I-Concern O O
+BOS * Provide continuing education to the family about heart transplant and post-transplant care . EOS	O O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O
+BOS * Arrange for ongoing counseling for * * * * * * * * * * * . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O
+BOS * Assist family with financial plan for transplant including possible fundraising , provide information on * * * * . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O
+BOS * Offer support and guidance to family as needed [ FP45 ] . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O
+BOS * * * * * * * * * * * * * , LCSW Pediatric Heart and Lung Transplant Team [ FP1 ] Gender [ FP2 ] ACC Healthcare [ FP3 ] Living Condition [ FP4 ] Living Condition [ FP5 ] Living Supply [ FP6 ] Smoking [ FP7 ] Education General [ FP8 ] Employment Status [ FP9 ] Education General [ FP10 ] Employment Status [ FP11 ] Living Condition [ FP12 ] Social Cohesion [ FP13 ] Social Support [ FP14 ] Social Support [ FP15 ] Abuse [ FP16 ] Legal Involvement ( Historical ) [ FP17 ] Mental Health [ FP18 ] Mental Health [ FP19 ] Mental Health [ FP20 ] Mental Health [ FP21 ] Literacy [ FP22 ] Gender [ FP23 ] ACC Healthcare [ FP24 ] Employment Status [ FP25 ] Poverty [ FP26 ] Poverty [ FP27 ] Financial Constraint [ FP28 ] Insurance [ FP29 ] Insurance [ FP30 ] Financial Constraint [ FP31 ] Drug Abuse [ FP32 ] Drug Abuse ( Historical ) [ FP33 ] Mental Health [ FP34 ] Legal Involvement ( Historical ) [ FP35 ] Drug Abuse ( Historical ) [ FP36 ] Abuse [ FP37 ] Adherence [ FP38 ] Adherence [ FP39 ] Adherence [ FP40 ] Adherence [ FP41 ] Poverty [ FP42 ] Literacy [ MK43 ] Literacy [ FP44 ] Reccomendations [ FP45 ] Reccomendations EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS 347 Pt , * * * * * , is a 21 year old male who is diagnosed with hypoplastic left heart syndrome s / p fontan with PLE being referred for heart transplant Psychosocial Assessment . EOS	O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O O O O O O O O O O O O B-Healthcare O O
+BOS Information for this assessment was obtained through an interview with the pt's mother and aunt and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW did not speak to * * * * * at this time as mother requested that he not participate in transplant discussions until it is more likely that he will be listed . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS She disclosed that he tends to perseverate on things that he is anxious about . EOS	O O O O O O O O O O O O O B-MentalHealth O O O
+BOS SW spent 75 minutes of face to face time with patient's family . EOS	O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * , lives with his parents in * * * * * * * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They just recently relocated into a different home in the same subdivision . EOS	O O O O O O O O B-Living O O O O O O
+BOS They moved into a corner lot with more property and privacy , as well as more room for * * * * * to have more of his own space . EOS	O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Mom reports that * * * * * loves the new house . EOS	O O O O O O O O O O O O B-Living O O
+BOS The house has central heating and a / c . EOS	O O O O O O O O O O O O
+BOS They replace the air filters monthly . EOS	O O O O O O O O O
+BOS They have city water . EOS	O O O O O O O
+BOS There is no smoking in the home . EOS	O O O O B-Smoke O O O O O
+BOS They have a dog ( medium size * * * * * mix ) , a bird , and a * * * * * ( that is kept in the garage ) . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 49 Employment : Had been working as a manager at a hair [ SM1 ] * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O
+BOS However , she does not plan to return to work in order to stay home with * * * * * and monitor his compliance with fluid restrictions etc Phone : * * * - * * * - * * * * ( cell ) Father : * * * * * * * * * * * Employment : Works at * * * * and Associates Phone : * * * - * * * - * * * * ( cell ) Siblings : Brother : * * * * * * * * * * * * * , age 23 . EOS	O O O O O O O O O O B-Employment O O O O O O O O O O O O O O B-Adherence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Resides in * * * * * * * * * * * * * * * Aunt : * * * * * * * * * * * * * * * * * in * * * * * * , * * . EOS	O B-Living O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Works for * * * * Hotels administration Phone : * * * - * * * - * * * * Support systems : * * * * * * * * reports that she and her husband provide support for one another . EOS	O B-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social O O O O O
+BOS She states her sister ( * * * * * * ) is also a big support . EOS	O O O O O O O O O O O O O O O O O B-Social O O
+BOS Although she lives in * * * * * * , she is actively involved in their lives and is able to come to assist them when needed . EOS	O O O B-Living O O O O O O O O O O O O O O O O O O O O O B-Social O O O O O
+BOS She has been present for the last week during this admission and is participating in this evaluation , but will be returning to * * * * * this weekend . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * was tearful when talking about the need to return to * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS She disclosed that she has only been in * * * * * * about a year and a half . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS She moved there for her ' * * * * * job ' . EOS	O O B-Living O O O O O O O O O B-Employment O O O
+BOS However , she states she is really close to her family and misses them . EOS	O O O O O O O O B-Social O O O O O O O O
+BOS Parents report that * * * * * is very close with his parents . EOS	O O O O O O O O O O O B-Social O O O O O
+BOS He does not like to be alone while in the hospital . EOS	O O O O O O O O O O O O O O
+BOS Prior to this admission , he was able to stay home by himself while mom was at work . EOS	O O O O O O O O O O O B-Living O O O O O O B-Employment O O
+BOS He would cook dinner and have it waiting when they came home from work . EOS	O O O O O O O O O O O O O O B-Employment O O
+BOS However , he was not on a fluid restriction at the time . EOS	O O O O O O O O O O O O O O O
+BOS Now that he is on a fluid restriction , * * * * * cannot be left alone at all as he will drink excessive amounts of fluid if no one is watching . EOS	O O O O O O O O O O O O O O O O O O O O O O O O B-Adherence O O O O O O O O O O O
+BOS While in the hospital , he reports drinking about 8000 ml of water in the shower . EOS	O O O O B-Healthcare O O O O O O O O O O O O O O
+BOS The family denies that transportation is a problem . EOS	O O O O O B-Transportation O O O O O
+BOS Both parents own their own vehicle . EOS	O O O O O O B-Transportation O O
+BOS * * * * * * * * states they are able to afford the gas expenses as well . EOS	O O O O O O O O O O O O O O O O O B-Transportation O O O O
+BOS Because she feels the need to stay in the room with him at the hospital , she denies that displacement lodging expenses will be a problem either . EOS	O O O O O O O B-Living O O O O O O O B-Healthcare O O O O O O O O O O O O O O
+BOS She also denies need for assistance with displacement food expenses . EOS	O O O O O O O O O O B-Financial O O
+BOS Fundraising through * * * * was encouraged . EOS	O B-Financial O O O O O O O O O
+BOS However , she verbalizes that they do not need financial assistance at this time . EOS	O O O O O O O O O O B-Financial I-Financial O O O O O
+BOS * * * * * * * * states they would likely commute back and forth for follow up appts after transplant if this were allowed . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS If not , she believes they would be able to afford displacement lodging temporarily . EOS	O O O O O O O O O O O B-Financial O O O O O
+BOS * * * * * is not in school . EOS	O O O O O O O O O B-Education O O
+BOS He did not graduate . EOS	O O O O B-Education O O
+BOS He has completed a 9th grade level of education . EOS	O O O O O O O O O B-Education O O
+BOS He has not participated in any vocational skills training . EOS	O O O O O O O B-Education O O O O
+BOS He has * * * * * * * * * * * at the zoo and at a restaurant previously . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He likes animals . EOS	O O O O O O
+BOS * * * * * * * * is considering the possibility of them both volunteering at the humane society . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS Course of illness : * * * * * was born with hypoplastic left heart syndrome . EOS	O O O O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare I-Healthcare O O
+BOS He had * * * * * * * at 8 days old , glenn at 6 mo old , and fontan at 19 mo of age . EOS	O O O O O O O O O O O O O O O B-Healthcare O O O O O O B-Healthcare O O O O O O O
+BOS He developed protein losing enteropathy at age 5 . EOS	O O O O O O O O O O O
+BOS This was successfully managed medically until about 2 years ago . EOS	O O O O O O O O O O O O O
+BOS He has had 3 admissions over the past 2 years for fluid overload and hypoalbuminemia . EOS	O O O O O B-Healthcare O O O O O O O O O O O O
+BOS He was most recently admitted to * * * * * * * * on * / * / * * with electrolyte imbalances that likely contributed to a seizure on * / * / * * . EOS	O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He was transferred to us for heart transplant evaluation on * / * / * * . EOS	O O O B-Healthcare O O O O O O O O O O O O O O O
+BOS Financial Situation : * * * * * is covered by Medicaid * * * * * * insurance . EOS	O O O O O O O O O O O O B-Insurance O O O O O O O O O
+BOS He receives social security benefits as well . EOS	O O O B-Financial I-Financial O O O O O
+BOS Due to his developmental and intellectual delays , the parents are his legal decision makers . EOS	O O O O B-MentalHealth I-MentalHealth I-MentalHealth I-MentalHealth O O O O O O O O O O
+BOS In the event that they are unable to provide consent , Aunt * * * * * * would be the next person to provide consent . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The family is supported primarily by dad's employment income . EOS	O O O O O O O O O B-Financial O O
+BOS * * * * * * * * was also working part-time , but they did not depend on her income . EOS	O O O O O O O O O O O B-Employment O O O O O O O O O O O O
+BOS She does not plan to resume working and they verbalize that there will be no financial stress related to this . EOS	O O O O O O O B-Employment O O O O O O O O B-Financial O O O O O O
+BOS The family does not verbalize a need to * * * * * * * * * at this time . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS Family History : There is no other major family medical history . EOS	O O O O O O O O O O O O O O
+BOS The maternal grandfather had triple bypass surgery but was in 70 ' s at the time . EOS	O O O O O O O B-Healthcare O O O O O O O O O O O
+BOS The great grandmother had diabetes . EOS	O O O O O O O O
+BOS There is no other heart related history . EOS	O O O O O O O O O O
+BOS There is no cancer in the family history . EOS	O O O O O O O O O O O
+BOS In regards to mental health history , * * * * * has been reportedly diagnosed with anxiety . EOS	O O O O O O O O O O O O O O O O O O B-MentalHealth O O
+BOS The only psychotropic medication he has been prescribed was Zoloft , prior to this admission . EOS	O O O O B-Healthcare O O O O O O O O O O O O O
+BOS During this admission , * * * * * demonstrated aggressive behaviors and hallucinations . EOS	O O O O O O O O O O O B-MentalHealth I-MentalHealth I-MentalHealth I-MentalHealth O O
+BOS Psychiatry saw him and put him on * * * * * * * * * . EOS	O B-Healthcare O O O O O O O O O O O O O O O O O
+BOS He also had to be given Haldol a few times in order to get his behavior under control . EOS	O O O O O O O B-Healthcare O O O O O O O O O O O O O
+BOS It is believed this was secondary to electrolyte imbalance rather than a psychiatric condition . EOS	O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * reports that she had never previously seen him exhibit behavior like that . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS He also has a history of sleep disturbances . EOS	O O O O O O O B-MentalHealth I-MentalHealth O O
+BOS He can go for days on end without sleeping . EOS	O O O O O O O O O O O O
+BOS Several things were tried during this admission . EOS	O O O O O O O B-Healthcare O O
+BOS It seems he has been tolerating ambien ok for help with sleep . EOS	O O O O O O O O O O O O O O O
+BOS * * * * * * * * also reports that she gets migraines when she is sleep deprived . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS She has been prescribed Elavil for this . EOS	O O O O O O O O O O
+BOS * * * * * * * * denies any substance abuse in the immediate family . EOS	O O O O O O O O O O O B-SubstanceUse I-SubstanceUse O O O O O O
+BOS However , she reports that her father was an alcoholic in the past . EOS	O O O O O O O O O O B-SubstanceUse O O O O O
+BOS There is no reported history of DV or involvement with DCF or law enforcement . EOS	O O O O O O O B-Trauma O O O B-Trauma O B-Trauma I-Trauma O O
+BOS Adherence : There are several concerns related to adherence . EOS	O O O O O O B-Concern O O B-Adherence O O
+BOS One concern is * * * * * ' s inability to regulate his fluid intake . EOS	O O B-Concern O O O O O O O O O O O O O O O O
+BOS * * * * * * * * reports that he had been taking in * - * liters of fluid per day previously . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He is now on fluid restrictions , but has been found to sneak liquids at any opportunity he can ( including drinking shower water ) . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS In addition , * * * * * cannot take pills . EOS	O O O O O O O O O B-Adherence I-Adherence I-Adherence I-Adherence O
+BOS The majority of his medications are given through his g-tube . EOS	O O O O O B-Healthcare O O O O O O O
+BOS * * * * * * * * does not think he will be able to take prograf capsules by mouth . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS It was explained that prograf should not be administered through g-tube . EOS	O O O O O O O O O O O O O O
+BOS In addition , it is difficult to get financial approval for liquid prograf for an adult patient . EOS	O O O O O O O O O B-Financial O O O O O O O O O O
+BOS * * * * * * * * states they will work on this issue , but she does not feel confident he can take a pill or capsule . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Another concern is that there have been multiple times when * * * * * has pulled off his leads and attempted to remove his lines etc . EOS	O O B-Concern O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He has also threatened to leave the hospital * * * . EOS	O O O O B-Adherence I-Adherence I-Adherence O O O O O O O
+BOS Although this is unlikely with his mother at bedside , these behaviors could make managing him post-operatively more complicated . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * denies that there will be any difficulty keeping follow up appointments , obtaining labs , etc . EOS	O O O O O O O O O O O O O O O O B-Adherence O O O O O O O O O O
+BOS Assessment and recommendations : * * * * * * * * admits that she is overwhelmed with thinking about the prospect of transplant . EOS	O O O O O O O O O O O O O O O O O B-Concern O O O O O O O O O
+BOS However , she is equally afraid of trying to manage him medically at home as his electrolytes and albumin levels have been so difficult to maintain at a therapeutic level . EOS	O O O O O O B-Concern O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS She states * * * * * would likely be in agreement with a transplant if it meant he could drink without restrictions . EOS	O O O O O O O O O O O O B-Literacy O O O O O O O O O O O O O
+BOS She states they will do whatever it takes to keep him healthy . EOS	O O O O O B-Literacy I-Literacy I-Literacy I-Literacy O O O O O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 1 Family Background & Social Support - 1 Financial / Insurance - 1 Mental Health / Substance Abuse - 2 Involvement with * * * Enforcement / Child Protection - 1 Adherence - 3 Understanding of medical situation & transplant process - 2 Health Literacy - 2 Coping Skills - 3 Total : 16 Moderate The family scores as moderate risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The primary concerns are the issues with compliance with fluid restrictions and the difficulty * * * * * has with taking oral medications . EOS	O O O B-Concern O O O O O O O O O O O O O O O O O O O O O O O
+BOS Recommendations are listed below : Recommendations : * Provide ongoing education in simple terms to the family about heart transplant and post-transplant care . EOS	O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O
+BOS Use teach-back method to ensure that the family / patient are understanding what is being explained . EOS	O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O
+BOS * Assist with connecting patient and family with counseling and supports that will assist in positive coping skills * Assist * * * * * in reducing aversion and anxiety related to taking oral medications by engaging Child * * * * and positive reinforcement / reward system . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * * * * * * * * LCSW Pediatric Heart / Lung Transplant Team * * * - * * * - * * * * [ SM1 ] occupation EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS 97 Pt , * * * * * , is a 10 year old female who is diagnosed with progressive heart failure and is now being referred for heart transplant Psychosocial Assessment . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Information for this assessment was obtained through an interview with the pt's mother and father and review of the medical records . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW did not speak to * * * * * at this time as she is intubated and sedated . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS SW spent 75 minutes of face to face time with patient and family . EOS	O O O O O O O O O O O O O O O O
+BOS Living situation : * * , * * * * * , lives with her parents and siblings in * * * * * * * * , * * * * * * * . EOS	O O O O O O O O O O O O O B-Living O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They reside in a rental home . EOS	O O B-Living O O O O O O
+BOS The * * * * * ended on * * * * * * * * * * , and they had been planning to relocate to New * * * * * * * * * * * , * * where dad was going to begin * * * * * * * * * a church . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS However , due to pt's medical status , they have extended their * * * * * an additional 3 months in order to remain near the hospital . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They plan to likely extend this until * * * * as they do not know how long it will take for * * * * * to get a donor , and they do not want to pull the children out of school in the middle of the year . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They live in * * * * * with city water and central heating and a / c . EOS	O O O O O O O O O O O O O O O O O O O O O
+BOS There is no smoking in the home . EOS	O O O O B-Smoke O O O O O
+BOS They have no pets . EOS	O O O O O O O
+BOS Demographics : Mother : * * * * * * * * * * * * * * DOB : * * / * * / * * * * Age : 43 Education : Has earned a CNA Employment : Not employed Phone : * * * - * * * - * * * * ( cell ) Father : * * * * * * * * * * * DOB : * * / * * / * * * * Age : 54 Education : Some college . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education O O B-Employment I-Employment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education O O
+BOS Earned a certificate . EOS	O O O B-Education O O
+BOS Employment : Works as an assembler for Home * * * * * . EOS	O O O O O O B-Employment O O O O O O O O O
+BOS Also serves as a traveling * * * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O
+BOS Phone : * * * - * * * - * * * * ( cell ) Siblings : Sister : * * * * * * * , age 18 ( taking web classes currently from * * * * * * * * * * * * * * ) Sister : * * * * * * * , age 16 Sister : * * * * , age 13 Brother : * * * * * * * * , age 7 ( diagnosed with autism spectrum disorder ) Sister : * * * * * * , age 5 Support systems : Parents report that they receive most of their support from one another and from their church family . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Education I-Education O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Social I-Social I-Social I-Social O O O B-Social O O O
+BOS Although they are members of the church in * * * * * * * * * , they also receive a lot of support for the local * * * * * * * * and pastors . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O O O O
+BOS They disclosed that the local * * * * * * * * have been assisting the family with meals while they are going back and forth between their home and the hospital . EOS	O O O O O O O O O O O O O O O O B-Social O O O O O O O O O O O O O O O O O O O
+BOS They do not have any other family members nearby . EOS	O O O O O O O O O O O O
+BOS Mom's family resides primarily in * * * * * * * and * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS Dad is from * * * * * * * * , although he has a sister who lives in * * * * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They also state that their 18 yr old daughter helps them a lot , and has decided not to work in order to be able to assist in being at bedside with * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O B-Employment O O O O O O O O O O O O O O O O O O O
+BOS Parents report that * * * * * is very close with mom , and is comfortable talking to mom about her feelings . EOS	O O O O O O O O O O B-Social I-Social O O O O O O O O O O O O O O
+BOS They would like to get her in counseling . EOS	O O O O O O O O B-Healthcare O O
+BOS It has been difficult to get her into counseling while hospitalized . EOS	O O O O O O O O O B-Healthcare O O O O
+BOS However , the psychology department is going to attempt to work out something as her admission is now likely to be lengthy . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The family denies that transportation is a problem . EOS	O O O O O B-Transportation O O O O O
+BOS However , they admit that the cost of gas for the daily trips back and forth between their home and the hospital has become overwhelming . EOS	O O O O O O O B-Financial O O O O O O O O O O O O O O O O O O O O
+BOS They disclosed that they had to * * * * * * from * * * * * * * ' s financial aid in order to meet their * * * * this month . EOS	O O O O O O O O O O O O O O O O O O O O O O O B-Financial I-Financial O O O O O O O O O O O O O
+BOS They are interested in fundraising . EOS	O O O O O B-Financial O O
+BOS They were given information on * * * * . EOS	O O O O O O O O O O O O
+BOS They identified several people from church that would be able to take leadership of the fundraising efforts for them . EOS	O O O O O O O O O O O O O O O O B-Financial O O O O O
+BOS They are also interested in applying for a First Hand Foundation * * * * * . EOS	O O O O O O O O O B-Social I-Social I-Social O O O O O O O
+BOS The application was provided to them . EOS	O O O O O O O O O
+BOS * * * * * is in the 5th grade . EOS	O O O O O O O O O B-Education I-Education O O
+BOS She is enrolled in hospital homebound . EOS	O O O O O O O O O
+BOS The family has met the school teacher for the hospital , and state she has been checking in with them . EOS	O O O O O O O O O O O O O O O O O O O O O O O
+BOS * * * * * * * , * * * * * is currently too ill to do any schoolwork . EOS	O O O O O O O O O O O O O O O O O O O O O O O O
+BOS She has reportedly done well in school in the past . EOS	O O O O O O O B-Education O O O O O
+BOS Course of illness : * * * * * was reportedly a healthy child until * * * * * of this year , when she was diagnosed with a murmur after presenting to her PCP with cold symptoms . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The PCP referred to cardiology where echo showed a hypoplastic aortic valve and moderate to severe aortic stenosis . EOS	O O O O O O O O O O B-Healthcare I-Healthcare I-Healthcare O O O O O O O O
+BOS She had surgery in * * * * to repair this valve . EOS	O O O B-Healthcare O O O O O O O O O O O
+BOS She was readmitted two days after discharge with cardiogenic shock , * * * * , and multiorgan failure . EOS	O O O B-Healthcare O O O O O O O O O O O O O O O O O O
+BOS She was able to be discharged within about 3 weeks . EOS	O O O O O O B-Healthcare O O O O O O
+BOS She was readmitted about 3 weeks later for abdominal pain . EOS	O O O B-Healthcare O O O O O O O O O
+BOS She had surgery on * * / * to replace the aortic valve and repair the mitral valve . EOS	O O O B-Healthcare O O O O O O O O O O O O O O O O O
+BOS She continued to progress into heart failure following this , and is now being scheduled for * * * * * * bi-vad support until transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare I-Healthcare O O O O
+BOS Financial Situation : * * * * * is covered by Medicaid * * * * * * * * . EOS	O O O O O O O O O O O O B-Insurance O O O O O O O O O O
+BOS The family is applying her for SSI / disability . EOS	O O O O O O O B-Insurance I-Insurance I-Insurance O O
+BOS However , she has not yet been approved . EOS	O O O O O O O O O O O
+BOS Currently the family is supported by dad's income . EOS	O O O O O O O O B-Financial O O
+BOS However , he has missed several days due to being at the hospital with * * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS He states his employer is understanding and is trying to help the family . EOS	O O O O O O O O O O O O O O O O
+BOS However , dad loses income when he is not working . EOS	O O O O O B-Financial O O O O O O O
+BOS The family does verbalize willingness to * * * * * * * * * . EOS	O O O O B-Literacy I-Literacy O O O O O O O O O O O O
+BOS Family History : There is no other reported medical history in the family other than dad having been diagnosed with a ' coronary artery defect ' at the age of 20 . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS He has not had any intervention related to this . EOS	O O O O O O O O O O O O
+BOS There is no reported mental health history , other than pt's younger brother who is diagnosed with Autism . EOS	O O O O O B-MentalHealth I-MentalHealth O O O O O O O O O O O B-MentalHealth O O
+BOS In addition , * * * * * has demonstrated anxiety during her hospital stay and the family is in agreement with her receiving counseling . EOS	O O O O O O O O O O O B-MentalHealth O O O O O O O O O B-Literacy O O O B-Healthcare O O
+BOS The family denies any substance abuse in the immediate family . EOS	O O O O O B-SubstanceUse I-SubstanceUse O O O O O O
+BOS However , dad reports that his extended family includes several family members with a history of alcohol abuse . EOS	O O O O O O O O O O O O O O O O O B-SubstanceUse O O O
+BOS There is no * * * * * * * history of DV or involvement with DCF . EOS	O O O O O O O O O O O O O B-Trauma O O O O O O
+BOS Adherence : The only concern related to adherence is * * * * * ' s difficulty taking her medications . EOS	O O O O O B-Concern O O O O O O O O O O O O B-Adherence I-Adherence I-Adherence O O
+BOS She has demonstrated difficulty taking them at times while admitted , and has vomited after taking them a few times . EOS	O O O O B-Adherence I-Adherence I-Adherence O O O B-Healthcare O O O O O O O O O O O O
+BOS Parents report that she sometimes does better taking them when they administer , but sometimes does not . EOS	O O O O O O B-Adherence I-Adherence I-Adherence I-Adherence O O O O O O O O O O
+BOS They state she seems to do better taking them when she is at home , as she knows she needs to do so to prevent a return trip to the hospital . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS However , they admit that taking meds on a schedule ( as is needed post-transplant ) will be a new experience for all of them . EOS	O O O O O O B-Adherence I-Adherence O O O O O O O O O O O O O O O O O O O O
+BOS They verbalize understanding that there will be a lot of meds initially , that are gradually reduced . EOS	O O O O O O O O O O O B-Healthcare O O O O O O O O
+BOS They verbalize belief that they will be able to get her to take them , especially if she is advised of what they do and how important they are . EOS	O O B-Literacy I-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The family denies that there will be any difficulty keeping follow up appointments , obtaining labs , etc . EOS	O O O B-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence O O O O O O O O O O O
+BOS Assessment and recommendations : The family is adjusting to the information regarding * * * * * ' s medical condition . EOS	O O O O O O O O O O O B-Literacy O O O O O O O O O O O O
+BOS This is all relatively new to the family . EOS	O O O O O O O O O O O
+BOS The parents disclosed that they are struggling with some self-blame , as she did not have any problems prior to the first surgery in * * * * . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They question if she would have been ok if they had not agreed to surgery at that time . EOS	O O O O O O O O O O O O O O O O O O O O O
+BOS However , the verbalize understanding that they have to move past that , and deal with the current situation . EOS	O O O O B-Literacy I-Literacy O O O O O O O O O O O O O O O O
+BOS At this point , they verbalize that * * * * * * * * * * * * * * * * * * * and are aware that there is nothing surgically that can be done to make * * * * * ' s heart improve . EOS	O O O O O O B-Literacy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS They are in agreement with moving forward with transplant . EOS	O O O O B-Literacy O O O O O O O
+BOS However , they do not appear to understand fully what transplant involves . EOS	O O O O B-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy O O O O O
+BOS They appear to need medical things to be broken down in very simple terms . EOS	O O O O O B-Literacy I-Literacy I-Literacy I-Literacy I-Literacy I-Literacy O O O O O O
+BOS They are also hesitant about explaining transplant to * * * * * . EOS	O O O O O O O O O O O O O O O O
+BOS SW explained that it is best to be * * * * * * * with children her age , as this increases the child's trust in the adults involved in her care . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Unfortunately , she is currently intubated and sedated and will likely not be able to be prepared for the * * * * * * prior to waking up with it . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS SW explained that this can be traumatic initially for a child who does not understand what happened . EOS	O O O O O O O O O O O O O O O O O O O O
+BOS Parents verbalize willingness to let * * * * * * * * * assist * * * * * in processing this . EOS	O O B-Literacy I-Literacy O O O O O O O O O O O O O O O O O O O O O O
+BOS They are also amenable to counseling as soon as the financial / insurance part can be worked out . EOS	O O O O O O B-Healthcare O O O O B-Financial O B-Insurance O O O O O O O
+BOS The parents disclosed that * * * * * ' s medical condition is already having a significant impact on their family . EOS	O O O O O O O O O O O O O O O O O O B-Concern I-Concern O O O O O
+BOS They report that their 7 year old son who is autistic has begun acting out at school , and is repeatedly asking where * * * * * is . EOS	O O O O O O O O O O O B-MentalHealth O O O O O O O O O O O O O O O O O O O O
+BOS They similarly report that their 5 year old is asking for * * * * * . EOS	O O O O O O O O O O O O O O O O O O O
+BOS In addition , they report that the family did not get to do anything over the * * * * * * as a result of * * * * * ' s admissions , and are concerned that the other children may begin to resent the time the parents have to spend at the hospital . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Healthcare O O O O O O O O O O O O O O O O O O O O O O O O
+BOS Similarly , their oldest was unable to begin attending * * * * * * * * * planned , as the family did not move to * * * * * * * area as anticipated . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS As a result , she is doing on-line classes instead . EOS	O O O O O O O O B-Education I-Education O O O
+BOS Ultimately , the family expresses that they will do whatever it takes for * * * * * , and believe their faith will support them through whatever the future holds . EOS	O O O O O O O O B-Literacy I-Literacy I-Literacy O O O O O O O O O O O O O O O O O O O O O O O
+BOS IMPRESSION : ( Low Risk - 1 ; Moderate Risk - 2 ; High Risk - 3 ; Severe Risk - 4 ) Home Environment / Transportation - 2 Family Background & Social Support - 1 Financial / Insurance - 2 Mental Health / Substance Abuse - 1 Involvement with * * * Enforcement / Child Protection - 1 Adherence - 2 Understanding of medical situation & transplant process - 2 Health Literacy - 2 Coping Skills - 2 Total : 15 Low / Moderate The family scores as low to moderate risk in regards to psychosocial contra-indicators to transplant . EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS The primary concerns are the financial stressors and the difficulty * * * * * has demonstrated with taking oral medications . EOS	O O O B-Concern O O B-Financial I-Financial O O B-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence I-Adherence O O
+BOS It is expected that both of these concerns can be successfully managed . EOS	O O O O O O O O B-Concern O O O O O O
+BOS Recommendations are listed below : Recommendations : * Provide ongoing education in simple terms to the family about heart transplant and post-transplant care . EOS	O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O
+BOS Use teach-back method to ensure that the family / child are understanding what is being explained . EOS	O B-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O
+BOS * Provide fundraising and financial resources to assist the family with expenses that arise secondary to child's extended admission * Assist with connecting child and family with counseling and supports that will assist in positive coping skills * Assist * * * * * in reducing aversion and anxiety related to taking oral medications by engaging Child * * * * and positive reinforcement / reward system . EOS	O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O B-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O O O O O O O O O O O O O O O O
+BOS Assist caregivers in participating in this process . EOS	O B-Recommendation I-Recommendation I-Recommendation I-Recommendation O O O O O
+BOS * * * * * * * * * * * * * * LCSW Pediatric Heart / Lung Transplant Team * * * - * * * - * * * * EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,1475 @@
+[
+    {
+        "sentence": "347\tPt, *****, is a 21 year old male who is diagnosed with hypoplastic left heart syndrome s/p fontan with PLE being referred for heart transplant Psychosocial Assessment.",
+        "categories": [
+            "Healthcare",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Information for this assessment was obtained through an interview with the pt's mother and aunt and review of the medical records.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "SW did not speak to ***** at this time as mother requested that he not participate in transplant discussions until it is more likely that he will be listed.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She disclosed that he tends to perseverate on things that he is anxious about.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "current",
+                        "mentalhealth_type": "anxiety"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "SW spent 75 minutes of face to face time with patient's family.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Living situation:  **, *****, lives with his parents in ************, *******.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They just recently relocated into a different home in the same subdivision.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Living",
+                        "num_of_caregivers": 2
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They moved into a corner lot with more property and privacy, as well as more room for ***** to have more of his own space.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Living",
+                        "num_of_caregivers": 2
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Mom reports that ***** loves the new house.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The house has central heating and a/c.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They replace the air filters monthly.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "They have city water.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no smoking in the home.",
+        "categories": [
+            "Smoke"
+        ],
+        "extracted_predictions": {
+            "Smoke": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Smoke",
+                        "smoke_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "They have a dog (medium size ***** mix), a bird, and a ***** (that is kept in the garage).",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Demographics:  Mother: ******** ******  DOB:  **/**/****           Age:  49  Employment:  Had been working as a manager at a hair[SM1] *****.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, she does not plan to return to work in order to stay home with ***** and monitor his compliance with fluid restrictions etc  Phone:  ***-***-**** (cell)     Father: ***** ******  Employment:  Works at **** and Associates   Phone:  ***-***-**** (cell)     Siblings:  Brother:  ******* ******, age 23.",
+        "categories": [
+            "Employment",
+            "Adherence",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "unemployed"
+                    },
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "normal",
+                        "adherence_type": "other",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Resides in ****** **** *****      Aunt:  ****** ****  ******* in ******, **.",
+        "categories": [
+            "Living"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    },
+                    {
+                        "Experiencer": "others",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Works for **** Hotels administration  Phone:  ***-***-****     Support systems:  ******** reports that she and her husband provide support for one another.",
+        "categories": [
+            "Employment",
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            },
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states her sister (******) is also a big support.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Although she lives in ******, she is actively involved in their lives and is able to come to assist them when needed.",
+        "categories": [
+            "Living",
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            },
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She has been present for the last week during this admission and is participating in this evaluation, but will be returning to ***** this weekend.   ****** was tearful when talking about the need to return to ******.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She disclosed that she has only been in ****** about a year and a half.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She moved there for her '***** job'.",
+        "categories": [
+            "Living",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, she states she is really close to her family and misses them.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Parents report that ***** is very close with his parents.",
+        "categories": [
+            "Social"
+        ],
+        "extracted_predictions": {
+            "Social": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Social",
+                        "social_level": "high",
+                        "social_type": "family"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He does not like to be alone while in the hospital.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Prior to this admission, he was able to stay home by himself while mom was at work.",
+        "categories": [
+            "Living",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Living",
+                        "num_of_caregivers": 0
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He would cook dinner and have it waiting when they came home from work.",
+        "categories": [
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, he was not on a fluid restriction at the time.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Now that he is on a fluid restriction, ***** cannot be left alone at all as he will drink excessive amounts of fluid if no one is watching.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "low",
+                        "adherence_type": "other",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "While in the hospital, he reports drinking about 8000 ml of water in the shower.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family denies that transportation is a problem.",
+        "categories": [
+            "Transportation"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Transportation",
+                        "transportation_status": "no",
+                        "transportation_type": "vehicle_access"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Both parents own their own vehicle.  ******** states they are able to afford the gas expenses as well.",
+        "categories": [
+            "Transportation",
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Transportation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Transportation",
+                        "transportation_status": "yes",
+                        "transportation_type": "vehicle_access"
+                    },
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Transportation",
+                        "transportation_status": "easy",
+                        "transportation_type": "cost"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Because she feels the need to stay in the room with him at the hospital, she denies that displacement lodging expenses will be a problem either.",
+        "categories": [
+            "Living",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Living": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Living",
+                        "num_of_caregivers": 1
+                    }
+                ]
+            },
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She also denies need for assistance with displacement food expenses.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Fundraising through **** was  encouraged.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, she verbalizes that they do not need financial assistance at this time. ******** states they would likely commute back and forth for follow up appts after transplant if this were allowed.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "If not, she believes they would be able to afford displacement lodging temporarily.        ***** is not in school.",
+        "categories": [
+            "Financial",
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            },
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Education",
+                        "education_level": "general",
+                        "education_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He did not graduate.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Education",
+                        "education_level": "general",
+                        "education_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He has completed a 9th grade level of education.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Education",
+                        "education_level": "general",
+                        "education_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He has not participated in any vocational skills training.",
+        "categories": [
+            "Education"
+        ],
+        "extracted_predictions": {
+            "Education": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Education",
+                        "education_level": "occupational",
+                        "education_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He has *********** at the zoo and at a restaurant previously.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He likes animals.  ******** is considering the possibility of them both volunteering at the humane society.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Course of illness:        ***** was born with hypoplastic left heart syndrome.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "He had ******* at 8 days old, glenn at 6 mo old, and fontan at 19 mo of age.",
+        "categories": [
+            "Healthcare",
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He developed protein losing enteropathy at age 5.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "This was successfully managed medically until about 2 years ago.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He has had 3 admissions over the past 2 years for fluid overload and hypoalbuminemia.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He was most recently admitted to ******** on */*/** with electrolyte imbalances that likely contributed to a seizure on */*/**.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He was transferred to us for heart transplant evaluation on */*/**.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "clinical visits"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Financial Situation:     ***** is covered by Medicaid ****** insurance.",
+        "categories": [
+            "Insurance"
+        ],
+        "extracted_predictions": {
+            "Insurance": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Insurance",
+                        "insurance_type": "public"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He receives social security benefits as well.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Due to his developmental and intellectual delays, the parents are his legal decision makers.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "current",
+                        "mentalhealth_type": "neuro condition"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "In the event that they are unable to provide consent, Aunt ****** would be the next person to provide consent.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The family is supported primarily by dad's employment income.  ******** was also working part-time, but they did not depend on her income.",
+        "categories": [
+            "Financial",
+            "Employment"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            },
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    },
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "employed"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She does not plan to resume working and they verbalize that there will be no financial stress related to this.",
+        "categories": [
+            "Employment",
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Employment": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Employment",
+                        "employment_status": "unemployed"
+                    }
+                ]
+            },
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Financial",
+                        "financial_status": "normal"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The family does not verbalize a need to ********* at this time.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Family History:     There is no other major family medical history.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The maternal grandfather had triple bypass surgery but was in 70's at the time.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "others",
+                        "category": "Healthcare",
+                        "healthcare_type": "surgeries/procedures"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The great grandmother had diabetes.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no other heart related history.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "There is no cancer in the family history.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "In regards to mental health history, ***** has been reportedly diagnosed with anxiety.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "current",
+                        "mentalhealth_type": "anxiety"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The only psychotropic medication he has been prescribed was Zoloft, prior to this admission.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "medications"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "During this admission, ***** demonstrated aggressive behaviors and hallucinations.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "current",
+                        "mentalhealth_type": "general"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Psychiatry saw him and put him on *********.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "current",
+                        "mentalhealth_type": "medication"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He also had to be given Haldol a few times in order to get his behavior under control.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "medications"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "It is believed this was secondary to electrolyte imbalance rather than a psychiatric condition.  ******** reports that she had never previously seen him exhibit behavior like that.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "He also has a history of sleep disturbances.",
+        "categories": [
+            "Mental Health"
+        ],
+        "extracted_predictions": {
+            "Mental Health": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "MentalHealth",
+                        "mentalHealth_status": "past",
+                        "mentalhealth_type": "sleep problem"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He can go for days on end without sleeping.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "Several things were tried during this admission.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "hospital stay"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "It seems he has been tolerating ambien ok for help with sleep.       ******** also reports that she gets migraines when she is sleep deprived.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "She has been prescribed Elavil for this.       ******** denies any substance abuse in the immediate family.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "SubstanceUse",
+                        "substanceuse_status": "none"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, she reports that her father was an alcoholic in the past.",
+        "categories": [
+            "Substance Use"
+        ],
+        "extracted_predictions": {
+            "Substance Use": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "SubstanceUse",
+                        "substanceuse_status": "past"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "There is no reported history of DV or involvement with DCF or law enforcement.",
+        "categories": [
+            "Trauma",
+            "Trauma",
+            "Trauma"
+        ],
+        "extracted_predictions": {
+            "Trauma": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Trauma",
+                        "trauma_status": "none",
+                        "trauma_type": "domestic_violence"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Trauma",
+                        "trauma_status": "none",
+                        "trauma_type": "dcf"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Adherence:  There are several concerns related to adherence.",
+        "categories": [
+            "Concern",
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            },
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "low",
+                        "adherence_type": "other",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "One concern is *****'s inability to regulate his fluid intake.  ******** reports that he had been taking in *-* liters of fluid per day previously.",
+        "categories": [
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He is now on fluid restrictions, but has been found to sneak liquids at any opportunity he can (including drinking shower water).",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "In addition, ***** cannot take pills.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "low",
+                        "adherence_type": "medication",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "The majority of his medications are given through his g-tube.  ******** does not think he will be able to take prograf capsules by mouth.",
+        "categories": [
+            "Healthcare"
+        ],
+        "extracted_predictions": {
+            "Healthcare": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "medications"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Healthcare",
+                        "healthcare_type": "medications"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "It was explained that prograf should not be administered through g-tube.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "In addition, it is difficult to get financial approval for liquid prograf for an adult patient.  ******** states they will work on this issue, but she does not feel confident he can take a pill or capsule.",
+        "categories": [
+            "Financial"
+        ],
+        "extracted_predictions": {
+            "Financial": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Financial",
+                        "financial_status": "constrain"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Another concern is that there have been multiple times when ***** has pulled off his leads and attempted to remove his lines etc.",
+        "categories": [
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "He has also threatened to leave the hospital ***.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "low",
+                        "adherence_type": "therapy",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Although this is unlikely with his mother at bedside, these behaviors could make managing him post-operatively more complicated.       ******** denies that there will be any difficulty keeping follow up appointments, obtaining labs, etc.",
+        "categories": [
+            "Adherence"
+        ],
+        "extracted_predictions": {
+            "Adherence": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "adherence_level": "high",
+                        "adherence_type": "other",
+                        "category": "Adherence"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Assessment and recommendations:     ******** admits that she is overwhelmed with thinking about the prospect of transplant.",
+        "categories": [
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "However, she is equally afraid of trying to manage him medically at home as his electrolytes and albumin levels have been so difficult to maintain at a therapeutic level.",
+        "categories": [
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "intense"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states ***** would likely be in agreement with a transplant if it meant he could drink without restrictions.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "patient",
+                        "category": "Literacy",
+                        "literacy_level": "low",
+                        "literacy_type": "transplant_knowledge"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "She states they will do whatever it takes to keep him healthy.",
+        "categories": [
+            "Literacy"
+        ],
+        "extracted_predictions": {
+            "Literacy": {
+                "extracted_conditions": []
+            }
+        }
+    },
+    {
+        "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  1     Family Background & Social Support -  1     Financial/Insurance  - 1     Mental Health/Substance Abuse - 2     Involvement with *** Enforcement/Child Protection -  1     Adherence - 3     Understanding of medical situation & transplant process -  2     Health Literacy -  2     Coping Skills - 3     Total:  16  Moderate     The family scores as moderate risk in regards to psychosocial contra-indicators to transplant.",
+        "categories": [],
+        "extracted_predictions": {}
+    },
+    {
+        "sentence": "The primary concerns are the issues with compliance with fluid restrictions and the difficulty ***** has  with taking oral medications.",
+        "categories": [
+            "Concern"
+        ],
+        "extracted_predictions": {
+            "Concern": {
+                "extracted_conditions": [
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    },
+                    {
+                        "category": "Concern",
+                        "concern_level": "moderate"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Recommendations are listed below:     Recommendations:  *Provide ongoing education in simple terms to the family about heart transplant and post-transplant care.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_literacy"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "Use teach-back method to ensure that the family/ patient are understanding what is being explained.",
+        "categories": [
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_literacy"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_literacy"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sentence": "*Assist with connecting patient and family with counseling and supports that will assist in positive coping skills   *Assist ***** in reducing aversion and anxiety related to taking oral medications by engaging Child **** and positive reinforcement/ reward system.       ****** ******** LCSW  Pediatric Heart/ Lung Transplant Team  ***-***-****\r[SM1]occupation",
+        "categories": [
+            "Recommendation",
+            "Recommendation"
+        ],
+        "extracted_predictions": {
+            "Recommendation": {
+                "extracted_conditions": [
+                    {
+                        "Experiencer": "caregivers",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_social_support"
+                    },
+                    {
+                        "Experiencer": "patient",
+                        "category": "Recommendation",
+                        "recommendation_status": "yes",
+                        "recommendation_type": "increase_social_support"
+                    }
+                ]
+            }
+        }
+    }
+]

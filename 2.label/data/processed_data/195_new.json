@@ -1,0 +1,1123 @@
+{
+   "0": {
+      "sentence": "195\tPt, ********, is a 5 month old female, diagnosed with dilated cardiomyopathy with history of  cardiac arrest and ECMO who is being referred by ******* ****** APRN for heart transplant Psychosocial Assessment.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "diagnosis"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "assessment"
+            }
+         }
+      ]
+   },
+   "1": {
+      "sentence": "Information for this assessment was obtained through an interview with the pt's mother, and review of the medical records.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "assessment"
+            }
+         }
+      ]
+   },
+   "2": {
+      "sentence": "SW spent 60 minutes of face to face time with patient and family."
+   },
+   "3": {
+      "sentence": "Living situation:  **, ********, resides with her parents in a house[SM1] that is also shared with the paternal niece.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "patients",
+               "LivingStatus": "current",
+               "LivingType": "with both parents"
+            }
+         },
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "4": {
+      "sentence": "Mom states they have their own space in the home with the exception of sharing the ******* area.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "LivingType": "with other relatives",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "5": {
+      "sentence": "They have a ***** for their portion of the house."
+   },
+   "6": {
+      "sentence": "The house has central air conditioning and city water.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "ResidentType": "home"
+            }
+         }
+      ]
+   },
+   "7": {
+      "sentence": "There are no pets."
+   },
+   "8": {
+      "sentence": "There is no smoking in the home[SM2].",
+      "SDoH": [
+         {
+            "Smoke": {
+               "Experiencer": "Family",
+               "SmokeStatus": "none"
+            }
+         }
+      ]
+   },
+   "9": {
+      "sentence": "Demographics:  Mother: ****** *****  DOB: **/**/**  Age: 29  Education:  High School diploma[SM3]  Employment:  Not employed [SM4] Phone:  ***-***-**** (cell)     Father: ****** ****** **  ***: **/**/****  Age: 56  Education: GED[SM5]  Employment: *** **** Contracting  Phone: ***-***-**** (cell)     Support systems:  Mother is currently staying at bedside, while dad continues to work[SM6].",
+      "SDoH": [
+         {
+            "Education": {
+               "EducationStatus": "past",
+               "EducationType": "general",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "unemployed",
+               "Experiencer": "Mother"
+            }
+         },
+         {
+            "Education": {
+               "EducationStatus": "past",
+               "EducationType": "general",
+               "Experiencer": "Father"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "Father"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "Father"
+            }
+         }
+      ]
+   },
+   "10": {
+      "sentence": "It is challenging for dad to visit as he does not have a driver's license or vehicle[SM7][SM8].",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Father",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         },
+         {
+            "Transportation": {
+               "Experiencer": "Father",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "11": {
+      "sentence": "They have to rely on other people to assist them with transportation[SM9].",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "parents/caregiver",
+               "SocialActivity": "medium",
+               "SocialType": "other"
+            }
+         },
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "12": {
+      "sentence": "Mom disclosed that she and dad have been together for 1 year."
+   },
+   "13": {
+      "sentence": "They had been together for 3 months when she became pregnant."
+   },
+   "14": {
+      "sentence": "She states this was not a planned pregnancy."
+   },
+   "15": {
+      "sentence": "However."
+   },
+   "16": {
+      "sentence": "She states it has been a blessing, which led her to the name, ********."
+   },
+   "17": {
+      "sentence": "She states that she and dad are engaged[SM10] and plan to ***** after ******** is better."
+   },
+   "18": {
+      "sentence": "Dad has 4 other children by other relationships."
+   },
+   "19": {
+      "sentence": "Two children are now adults and live independently.",
+      "SDoH": [
+         {
+            "Living": {
+               "Experiencer": "siblings",
+               "LivingStatus": "current",
+               "LivingType": "independently"
+            }
+         }
+      ]
+   },
+   "20": {
+      "sentence": "The two younger children are ages 7 and 4."
+   },
+   "21": {
+      "sentence": "Their mother has custody and is not currently allowing dad to have contact with them, although he does pay child support.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "siblings",
+               "TraumaStatus": "current",
+               "TraumaType": "divorce or separation"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "Father",
+               "FinancialStatus": "constrain"
+            }
+         }
+      ]
+   },
+   "22": {
+      "sentence": "He is reportedly going to court to try to get visitation re-********."
+   },
+   "23": {
+      "sentence": "Mom states that neither she nor dad have a car[SM11].",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "24": {
+      "sentence": "She states neither have a driver's license[SM12] either.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         }
+      ]
+   },
+   "25": {
+      "sentence": "She disclosed that she has never pursued a driver's license.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Mother",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         }
+      ]
+   },
+   "26": {
+      "sentence": "She states dad had a driver's license.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Father",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         }
+      ]
+   },
+   "27": {
+      "sentence": "However, he 'was not paying attention and ********** a car' about a year ago."
+   },
+   "28": {
+      "sentence": "He left the scene."
+   },
+   "29": {
+      "sentence": "As a result, his license was revoked and he is on probation for 3 yrs.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Father",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "license"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "current",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "30": {
+      "sentence": "He has over a year remaining of this probation.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "current",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "31": {
+      "sentence": "She admits that transportation to and from Gainesville will be problematic, although the aunt and niece they reside with might be able to assist.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         },
+         {
+            "Living": {
+               "Experiencer": "Family",
+               "LivingStatus": "current",
+               "LivingType": "with other relatives"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "32": {
+      "sentence": "Mom identifies the paternal aunt and niece as support persons.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "33": {
+      "sentence": "She also identifies her mother, ******* ******* as a support person[SM13]. (*********@*******.***). *******, her mother works for a prison[SM14] during the week and is primarily able to help them on the weekends.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Mother",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Employment": {
+               "EmploymentStatus": "employed",
+               "Experiencer": "grandparents"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialActivity": "medium",
+               "SocialType": "family"
+            }
+         }
+      ]
+   },
+   "34": {
+      "sentence": "She also lives about 90 minutes away from the family."
+   },
+   "35": {
+      "sentence": "However, Ms ******* has requested that SW send a letter to her ****** to request the ability to take time off from work to assist the family as needed.",
+      "SDoH": [
+         {
+            "Employment": {
+               "EmploymentStatus": "on leave",
+               "Experiencer": "grandparents"
+            }
+         }
+      ]
+   },
+   "36": {
+      "sentence": "Mom disclosed that they are *********."
+   },
+   "37": {
+      "sentence": "She states they have no objections to blood products, transfusions, etc."
+   },
+   "38": {
+      "sentence": "Course of illness:        ******** is a 5 month old female."
+   },
+   "39": {
+      "sentence": "She was born via C Section.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "40": {
+      "sentence": "She did not require any time in the NICU and discharged home after birth.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital discharge"
+            }
+         }
+      ]
+   },
+   "41": {
+      "sentence": "She was reportedly doing well at home until *** *, when she began vomiting."
+   },
+   "42": {
+      "sentence": "Mom took her to the ED.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         }
+      ]
+   },
+   "43": {
+      "sentence": "She quickly decompensated in the ED, going into full cardiac arrest and requiring 78 minutes of CPR.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital admit"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "44": {
+      "sentence": "She was cannulated for VA ECMO.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "45": {
+      "sentence": "She went to cath lab for atrial septostomy.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "46": {
+      "sentence": "She was decannulated on *** *.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "47": {
+      "sentence": "She continued to have complications including seizures and acute kidney injury requiring PD.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "48": {
+      "sentence": "She remained intubated as well.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "49": {
+      "sentence": "She was transferred to our ******* for further management and possible heart transplant evaluation.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "Transfer"
+            }
+         }
+      ]
+   },
+   "50": {
+      "sentence": "At that time, she was able to be extubated and weaned to oral medication management.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "medications"
+            }
+         }
+      ]
+   },
+   "51": {
+      "sentence": "She was discharged home on **/**/**.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital discharge"
+            }
+         }
+      ]
+   },
+   "52": {
+      "sentence": "She began vomiting again on **** **, and was transferred back to our facility.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "Transfer"
+            }
+         }
+      ]
+   },
+   "53": {
+      "sentence": "She is now being re-evaluated for heart transplant, and VAD support.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "surgeries/procedures"
+            }
+         }
+      ]
+   },
+   "54": {
+      "sentence": "Financial Situation:     ******** is covered by Medicaid CMS[SM15] ********.",
+      "SDoH": [
+         {
+            "Insurance": {
+               "Experiencer": "patients",
+               "InsuranceType": "public"
+            }
+         }
+      ]
+   },
+   "55": {
+      "sentence": "Mom states ******** has been approved for SSI.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "patients",
+               "FinancialStatus": "poverty"
+            }
+         }
+      ]
+   },
+   "56": {
+      "sentence": "However, they have not yet received any funding from this.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         }
+      ]
+   },
+   "57": {
+      "sentence": "They do receive food ****** and WIC[SM16].",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         }
+      ]
+   },
+   "58": {
+      "sentence": "The primary source of income is dad's employment income.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "normal"
+            }
+         }
+      ]
+   },
+   "59": {
+      "sentence": "Dad does not have any paid time off, and is unsure if he is eligible for FMLA.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Father",
+               "FinancialStatus": "unpaid time off"
+            }
+         },
+         {
+            "Financial": {
+               "Experiencer": "Father",
+               "FinancialStatus": "unpaid time off"
+            }
+         }
+      ]
+   },
+   "60": {
+      "sentence": "Information on fundraising through **** was provided.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "fundraising"
+            }
+         }
+      ]
+   },
+   "61": {
+      "sentence": "However, mom states they do not really have anyone who can assist them with this."
+   },
+   "62": {
+      "sentence": "They were granted First Hand Foundation funding[SM17] on previous admission, and are not eligible for further funding from this organization for one year.",
+      "SDoH": [
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "FinancialStatus": "fundraising",
+               "SocialType": "non-profit"
+            }
+         }
+      ]
+   },
+   "63": {
+      "sentence": "SW encouraged mom to call CMS[SM18] ******** case manager for assistance with meal reimbursement while ******** is admitted.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         }
+      ]
+   },
+   "64": {
+      "sentence": "Mom states she has already called RMH regarding getting on the list."
+   },
+   "65": {
+      "sentence": "She was advised that the second round of guests will be accepted on ****** **."
+   },
+   "66": {
+      "sentence": "They are required to get a ******* test and present a negative result within 10 days of this date."
+   },
+   "67": {
+      "sentence": "SW will provide mom with information on where to go for this test, as well as assist with transportation for this.",
+      "SDoH": [
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "68": {
+      "sentence": "Dad is not eligible to stay there due to felony history.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "past",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "69": {
+      "sentence": "Family History:     Mom states that there is diabetes, hypertension, and cancer on both sides of the family."
+   },
+   "70": {
+      "sentence": "She states she has a maternal aunt who had a heart condition of some type that required her to be on medications for her life.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "relatives",
+               "HealthcareType": "medications"
+            }
+         }
+      ]
+   },
+   "71": {
+      "sentence": "She lived into her 60's with this."
+   },
+   "72": {
+      "sentence": "She also disclosed that the paternal grandmother had to have a pacemaker, and now lives in a nursing home.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "grandparents",
+               "HealthcareType": "surgeries/procedures"
+            }
+         },
+         {
+            "Living": {
+               "Experiencer": "grandparents",
+               "LivingStatus": "current",
+               "ResidentType": "institution"
+            }
+         }
+      ]
+   },
+   "73": {
+      "sentence": "Mom states she was referred for counseling and participated[SM19] in it briefly, but felt that she did not connect to the therapist.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "Mother",
+               "HealthcareType": "counseling"
+            }
+         }
+      ]
+   },
+   "74": {
+      "sentence": "She admits that she is currently stressed by the situation with ********, but denies depression or anxiety[SM20].",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "none",
+               "MentalHealthType": "depression"
+            }
+         },
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "none",
+               "MentalHealthType": "anxiety"
+            }
+         }
+      ]
+   },
+   "75": {
+      "sentence": "She states dad does not have a mental health history.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Father",
+               "MentalHealthStatus": "none"
+            }
+         }
+      ]
+   },
+   "76": {
+      "sentence": "[SM21]      Mom denied any history of mental health issues[SM22], substance abuse issues, domestic violence, or history with law enforcement.",
+      "SDoH": [
+         {
+            "Mental Health": {
+               "Experiencer": "Mother",
+               "MentalHealthStatus": "none"
+            }
+         },
+         {
+            "Substance Use": {
+               "Experiencer": "Mother",
+               "SubstanceUseStatus": "none"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Mother",
+               "TraumaStatus": "none",
+               "TraumaType": "domestic violence"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Mother",
+               "TraumaStatus": "none",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "77": {
+      "sentence": "She disclosed that dad spent time in prison a long time ago, but did not want to bring those past things up and make him feel bad.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "past",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "78": {
+      "sentence": "(Public record shows he has been incarcerated for drug charges including cocaine[SM23], resisting arrest, and assault both with and without a deadly weapon.",
+      "SDoH": [
+         {
+            "Substance Use": {
+               "Experiencer": "Father",
+               "SubstanceUseStatus": "past"
+            }
+         },
+         {
+            "Substance Use": {
+               "Experiencer": "Father",
+               "SubstanceUseStatus": "past"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "past",
+               "TraumaType": "arrest"
+            }
+         },
+         {
+            "Trauma": {
+               "Experiencer": "Father",
+               "TraumaStatus": "past",
+               "TraumaType": "arrest"
+            }
+         }
+      ]
+   },
+   "79": {
+      "sentence": "All of these were prior to the year 2000.)"
+   },
+   "80": {
+      "sentence": "There is no reported history with DCF.",
+      "SDoH": [
+         {
+            "Trauma": {
+               "Experiencer": "Family",
+               "TraumaStatus": "none",
+               "TraumaType": "DCF"
+            }
+         }
+      ]
+   },
+   "81": {
+      "sentence": "[SM24]        Adherence:  ******** was discharged on several meds after previous admission.",
+      "SDoH": [
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "hospital discharge"
+            }
+         }
+      ]
+   },
+   "82": {
+      "sentence": "Mom admits that she ran out of Lasix one week prior to this current admission.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "patients and caregivers"
+            }
+         }
+      ]
+   },
+   "83": {
+      "sentence": "There is no documentation indicating she attempted to get a refill."
+   },
+   "84": {
+      "sentence": "[SM25]  Otherwise, she kept scheduled appointments, using Medicaid transportation.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "appointments",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Transportation": {
+               "Experiencer": "parents/caregiver",
+               "TransportationConvenienceLevel": "easy",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "85": {
+      "sentence": "Mom states she had attending * *** training program previously, but did not complete it."
+   },
+   "86": {
+      "sentence": "Mom states ******** had attended all well-baby visits[SM26] and received shots until now.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "High",
+               "AdherenceType": "appointments",
+               "Experiencer": "parents/caregiver"
+            }
+         },
+         {
+            "Healthcare": {
+               "Experiencer": "patients",
+               "HealthcareType": "medications"
+            }
+         }
+      ]
+   },
+   "87": {
+      "sentence": "She has not received 3 month shots[SM27] yet.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "other",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "88": {
+      "sentence": "She also admits they were late on one of the visits due to a 'family emergency'.",
+      "SDoH": [
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "appointments",
+               "Experiencer": "parents/caregiver"
+            }
+         }
+      ]
+   },
+   "89": {
+      "sentence": "Mom appears bonded with ******** and was talking to her and standing close to her throughout much of SW interaction."
+   },
+   "90": {
+      "sentence": "Assessment and recommendations:     This is mom's first baby, although dad has had 4 previous children."
+   },
+   "91": {
+      "sentence": "Mom presents as invested and able to advocate for her baby."
+   },
+   "92": {
+      "sentence": "She appears bonded to her."
+   },
+   "93": {
+      "sentence": "The family has limited financial resources[SM28], and limited support in regards to transportation.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         }
+      ]
+   },
+   "94": {
+      "sentence": "Mom disclosed that she was hopeful that transplant would not be needed."
+   },
+   "95": {
+      "sentence": "However, she states that she and dad are both in agreement with moving forward if it will allow her to live.",
+      "SDoH": [
+         {
+            "Literacy": {
+               "Experiencer": "parents/caregiver",
+               "LiteracyLevel": "Normal",
+               "LiteracyType": "illness knowledge"
+            }
+         }
+      ]
+   },
+   "96": {
+      "sentence": "She states they feel the same in regards to the ****** VAD."
+   },
+   "97": {
+      "sentence": "IMPRESSION:     (Low Risk - 1; Moderate Risk - 2; High Risk - 3; Severe Risk - 4)     Home Environment/Transportation -  3  Family Background & Social Support -  2  Financial/Insurance  - 2  Mental Health/Substance Abuse - 2  Involvement with *** Enforcement/Child Protection -  2  Adherence - 2  Understanding of medical situation & transplant process -  2  Health Literacy -  2  Coping Skills - 2     Total:  19 Moderate/ High Risk       The family scores as moderate/ high risk in regards to psychosocial contra-indicators to transplant."
+   },
+   "98": {
+      "sentence": "Primary concerns are limited finances, limited support persons, limited transportation, as well as possible adherence concerns.",
+      "SDoH": [
+         {
+            "Financial": {
+               "Experiencer": "Family",
+               "FinancialStatus": "poverty"
+            }
+         },
+         {
+            "Social": {
+               "Experiencer": "Family",
+               "SocialActivity": "low",
+               "SocialType": "family"
+            }
+         },
+         {
+            "Transportation": {
+               "Experiencer": "Family",
+               "TransportationConvenienceLevel": "hard",
+               "TransportationType": "vehicle access"
+            }
+         },
+         {
+            "Adherence": {
+               "AdherenceLevel": "Low",
+               "AdherenceType": "medication",
+               "Experiencer": "Family"
+            }
+         }
+      ]
+   },
+   "99": {
+      "sentence": "Recommendations are listed below:     Recommendations:  *Provide ongoing education to the family about heart transplant and post-transplant care.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "100": {
+      "sentence": "Use teachback method to confirm understanding.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "101": {
+      "sentence": "Provide information in writing as well.",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase literacy"
+            }
+         }
+      ]
+   },
+   "102": {
+      "sentence": "*Provide information on Medicaid transportation to assist with transportation issues  *Provide fundraising resources to assist the family with expenses that arise secondary to transplant   * Assist family with resources to assist in coping with lengthy admission while displaced from home  *Assist in connecting mom with counseling resources   \r[SM1]living condition\r[SM2]smoking\r[SM3]education general\r[SM4]employment status\r[SM5]education general\r[SM6]employment status\r[SM7]**transportation access**\r[SM8R7]???",
+      "SDoH": [
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "help with transportation"
+            }
+         },
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase financial support"
+            }
+         },
+         {
+            "Recommendation": {
+               "Experiencer": "Family",
+               "RecommendationType": "increase social support"
+            }
+         },
+         {
+            "Recommendation": {
+               "Experiencer": "Mother",
+               "RecommendationType": "increase social support"
+            }
+         }
+      ]
+   },
+   "103": {
+      "sentence": "[SM9]social support\r[SM10]marital status\r[SM11]transportation status\r[SM12]transportation access\r[SM13]social support\r[SM14]employment status\r[SM15]insurance\r[SM16]poverty\r[SM17]poverty\r[SM18]recommendations\r[SM19]mental health\r[SM20]mental health\r[SM21]mental health\r[SM22]mental health\r[SM23]drug abuse\r[SM24]abuse\r[SM25]adherence\r[SM26]adherence\r[SM27]healthcare\r[SM28]financial constrain"
+   }
+}

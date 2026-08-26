@@ -1,0 +1,5 @@
+https://www.nature.com/articles/s41746-023-00970-0
+
+https://physionet.org/content/annotation-dataset-sdoh/1.0.0/
+
+https://github.com/AIM-Harvard/SDoH/blob/main/synthetic_data/Partial_Iteration_2_demographic_annotated.csv

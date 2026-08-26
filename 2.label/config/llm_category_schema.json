@@ -1,0 +1,1037 @@
+{
+    "Healthcare": {
+        "name": "extract_healthcare_info",
+        "description": "Extract structured healthcare information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Healthcare"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "siblings",
+                        "relatives",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "HealthcareType": {
+                    "type": "string",
+                    "enum": [
+                        "medications",
+                        "Transfer",
+                        "General",
+                        "assessment",
+                        "clinical visits",
+                        "caregiving",
+                        "surgeries/procedures",
+                        "diagnosis",
+                        "none",
+                        "hospital admit",
+                        "rehab",
+                        "counseling",
+                        "hospital discharge"
+                    ]
+                },
+                "AdherenceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low",
+                        "High"
+                    ]
+                },
+                "AdherenceType": {
+                    "type": "string",
+                    "enum": [
+                        "other",
+                        "medication"
+                    ]
+                },
+                "LiteracyLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Normal"
+                    ]
+                },
+                "LiteracyType": {
+                    "type": "string",
+                    "enum": [
+                        "caregiving knowledge"
+                    ]
+                },
+                "RecommendationType": {
+                    "type": "string",
+                    "enum": [
+                        "Counseling"
+                    ]
+                },
+                "SocialType": {
+                    "type": "string",
+                    "enum": [
+                        "family"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate"
+                    ]
+                },
+                "MentalHealthStatus": {
+                    "type": "string",
+                    "enum": [
+                        "none",
+                        "current"
+                    ]
+                }
+            }
+        }
+    },
+    "Living": {
+        "name": "extract_living_info",
+        "description": "Extract structured living information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Living"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "siblings",
+                        "Mother",
+                        "relatives",
+                        "friends",
+                        "cousins",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "LivingStatus": {
+                    "type": "string",
+                    "enum": [
+                        "future",
+                        "past",
+                        "current"
+                    ]
+                },
+                "LivingType": {
+                    "type": "string",
+                    "enum": [
+                        "with single parent",
+                        "with strangers",
+                        "with patient",
+                        "homeless",
+                        "at hospital",
+                        "with foster family",
+                        "independently",
+                        "with friends",
+                        "with other relatives",
+                        "with both parents"
+                    ]
+                },
+                "ResidentType": {
+                    "type": "string",
+                    "enum": [
+                        "homeless",
+                        "institution",
+                        "home",
+                        "hospital"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "intense"
+                    ]
+                }
+            }
+        }
+    },
+    "Smoke": {
+        "name": "extract_smoke_info",
+        "description": "Extract structured smoke information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Smoke"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "SmokeStatus": {
+                    "type": "string",
+                    "enum": [
+                        "none",
+                        "past",
+                        "current"
+                    ]
+                }
+            }
+        }
+    },
+    "Employment": {
+        "name": "extract_employment_info",
+        "description": "Extract structured employment information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Employment"
+                    ]
+                },
+                "EmploymentStatus": {
+                    "type": "string",
+                    "enum": [
+                        "past",
+                        "retired",
+                        "employed",
+                        "student",
+                        "part-time",
+                        "homemaker",
+                        "Looking for",
+                        "on leave",
+                        "FMLA",
+                        "unemployed"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "step-parent",
+                        "Father",
+                        "Mother",
+                        "siblings",
+                        "relatives",
+                        "parents/caregiver"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "unpaid time off"
+                    ]
+                }
+            }
+        }
+    },
+    "Social": {
+        "name": "extract_social_info",
+        "description": "Extract structured social information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Social"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients and siblings",
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "relatives",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "SocialActivity": {
+                    "type": "string",
+                    "enum": [
+                        "high",
+                        "low",
+                        "medium"
+                    ]
+                },
+                "SocialType": {
+                    "type": "string",
+                    "enum": [
+                        "family",
+                        "community",
+                        "non-profit",
+                        "friends",
+                        "other",
+                        "church"
+                    ]
+                },
+                "ResidentType": {
+                    "type": "string",
+                    "enum": [
+                        "home"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "fundraising"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "light"
+                    ]
+                }
+            }
+        }
+    },
+    "Education": {
+        "name": "extract_education_info",
+        "description": "Extract structured education information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Education"
+                    ]
+                },
+                "EducationStatus": {
+                    "type": "string",
+                    "enum": [
+                        "none",
+                        "future",
+                        "past",
+                        "current"
+                    ]
+                },
+                "EducationType": {
+                    "type": "string",
+                    "enum": [
+                        "high level",
+                        "general",
+                        "childhood",
+                        "occupational"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "children",
+                        "patients",
+                        "step-parent",
+                        "Father",
+                        "Mother",
+                        "siblings",
+                        "parents/caregiver"
+                    ]
+                },
+                "EmploymentStatus": {
+                    "type": "string",
+                    "enum": [
+                        "unemployed"
+                    ]
+                }
+            }
+        }
+    },
+    "Transportation": {
+        "name": "extract_transportation_info",
+        "description": "Extract structured transportation information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Transportation"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "relatives",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "TransportationConvenienceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "easy",
+                        "N/A",
+                        "hard"
+                    ]
+                },
+                "TransportationType": {
+                    "type": "string",
+                    "enum": [
+                        "vehicle access",
+                        "license",
+                        "travel distance",
+                        "transportation cost"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "constrain"
+                    ]
+                }
+            }
+        }
+    },
+    "Mental Health": {
+        "name": "extract_mental health_info",
+        "description": "Extract structured mental health information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Mental Health"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "siblings",
+                        "relatives",
+                        "parents/caregiver"
+                    ]
+                },
+                "MentalHealthStatus": {
+                    "type": "string",
+                    "enum": [
+                        "future",
+                        "none",
+                        "past",
+                        "current"
+                    ]
+                },
+                "MentalHealthType": {
+                    "type": "string",
+                    "enum": [
+                        "general",
+                        "PTSD",
+                        "anxiety",
+                        "neuro condition",
+                        "bipolar",
+                        "sleep problem",
+                        "ADHD",
+                        "medication",
+                        "depression",
+                        "OCD"
+                    ]
+                },
+                "HealthcareType": {
+                    "type": "string",
+                    "enum": [
+                        "medications",
+                        "assessment"
+                    ]
+                }
+            }
+        }
+    },
+    "Insurance": {
+        "name": "extract_insurance_info",
+        "description": "Extract structured insurance information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Insurance"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients",
+                        "parents/caregiver",
+                        "Family",
+                        "Mother",
+                        "patients and siblings",
+                        "patients and caregivers"
+                    ]
+                },
+                "InsuranceType": {
+                    "type": "string",
+                    "enum": [
+                        "private",
+                        "public",
+                        "none",
+                        "both"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "poverty",
+                        "Insured"
+                    ]
+                }
+            }
+        }
+    },
+    "Financial": {
+        "name": "extract_financial_info",
+        "description": "Extract structured financial information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Financial"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "friends",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "poverty",
+                        "unpaid time off",
+                        "PTO",
+                        "normal",
+                        "constrain",
+                        "Insured",
+                        "fundraising"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate",
+                        "intense"
+                    ]
+                },
+                "RecommendationType": {
+                    "type": "string",
+                    "enum": [
+                        "increase financial support",
+                        "increase literacy"
+                    ]
+                },
+                "InsuranceType": {
+                    "type": "string",
+                    "enum": [
+                        "public"
+                    ]
+                },
+                "TransportationConvenienceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "easy",
+                        "hard"
+                    ]
+                },
+                "TransportationType": {
+                    "type": "string",
+                    "enum": [
+                        "transportation cost"
+                    ]
+                },
+                "SocialType": {
+                    "type": "string",
+                    "enum": [
+                        "church"
+                    ]
+                },
+                "SocialActivity": {
+                    "type": "string",
+                    "enum": [
+                        "high"
+                    ]
+                }
+            }
+        }
+    },
+    "Substance Use": {
+        "name": "extract_substance use_info",
+        "description": "Extract structured substance use information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Substance Use"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "grandparents",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "relatives",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "SubstanceUseStatus": {
+                    "type": "string",
+                    "enum": [
+                        "past",
+                        "None",
+                        "current",
+                        "none",
+                        "Current"
+                    ]
+                },
+                "MentalHealthStatus": {
+                    "type": "string",
+                    "enum": [
+                        "current"
+                    ]
+                },
+                "MentalHealthType": {
+                    "type": "string",
+                    "enum": [
+                        "neuro condition"
+                    ]
+                },
+                "SmokeStatus": {
+                    "type": "string",
+                    "enum": [
+                        "current"
+                    ]
+                }
+            }
+        }
+    },
+    "Trauma": {
+        "name": "extract_trauma_info",
+        "description": "Extract structured trauma information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Trauma"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients and siblings",
+                        "grandparents",
+                        "children",
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "siblings",
+                        "parents/caregiver"
+                    ]
+                },
+                "TraumaStatus": {
+                    "type": "string",
+                    "enum": [
+                        "future",
+                        "none",
+                        "past",
+                        "current"
+                    ]
+                },
+                "TraumaType": {
+                    "type": "string",
+                    "enum": [
+                        "loss",
+                        "divorce or separation",
+                        "domestic violence",
+                        "Abuse",
+                        "DCF",
+                        "physical",
+                        "other",
+                        "psychological",
+                        "arrest"
+                    ]
+                },
+                "SubstanceUseStatus": {
+                    "type": "string",
+                    "enum": [
+                        "Past",
+                        "none"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "poverty"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "intense"
+                    ]
+                }
+            }
+        }
+    },
+    "Adherence": {
+        "name": "extract_adherence_info",
+        "description": "Extract structured adherence information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Adherence"
+                    ]
+                },
+                "AdherenceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low",
+                        "High"
+                    ]
+                },
+                "AdherenceType": {
+                    "type": "string",
+                    "enum": [
+                        "other",
+                        "therapy",
+                        "appointments",
+                        "medication"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate",
+                        "intense",
+                        "light",
+                        "None"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "TraumaStatus": {
+                    "type": "string",
+                    "enum": [
+                        "none",
+                        "past"
+                    ]
+                },
+                "TraumaType": {
+                    "type": "string",
+                    "enum": [
+                        "domestic violence",
+                        "Abuse"
+                    ]
+                },
+                "HealthcareType": {
+                    "type": "string",
+                    "enum": [
+                        "medications",
+                        "General"
+                    ]
+                },
+                "RecommendationType": {
+                    "type": "string",
+                    "enum": [
+                        "Help with Adherence"
+                    ]
+                }
+            }
+        }
+    },
+    "Literacy": {
+        "name": "extract_literacy_info",
+        "description": "Extract structured literacy information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Literacy"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "LiteracyLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low",
+                        "Normal",
+                        "High"
+                    ]
+                },
+                "LiteracyType": {
+                    "type": "string",
+                    "enum": [
+                        "caregiving knowledge",
+                        "illness knowledge",
+                        "medication knowledge",
+                        "transplant knowledge"
+                    ]
+                },
+                "HealthcareType": {
+                    "type": "string",
+                    "enum": [
+                        "medications"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "intense"
+                    ]
+                },
+                "AdherenceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "High"
+                    ]
+                },
+                "AdherenceType": {
+                    "type": "string",
+                    "enum": [
+                        "appointments"
+                    ]
+                }
+            }
+        }
+    },
+    "Recommendation": {
+        "name": "extract_recommendation_info",
+        "description": "Extract structured recommendation information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Recommendation"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "RecommendationType": {
+                    "type": "string",
+                    "enum": [
+                        "Housing",
+                        "increase financial support",
+                        "Help with Adherence",
+                        "Diet and/or Exercise",
+                        "increase literacy",
+                        "Education",
+                        "increase social support",
+                        "other",
+                        "help with transportation",
+                        "Counseling"
+                    ]
+                },
+                "AdherenceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low"
+                    ]
+                },
+                "AdherenceType": {
+                    "type": "string",
+                    "enum": [
+                        "medication"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "normal"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate"
+                    ]
+                },
+                "MentalHealthStatus": {
+                    "type": "string",
+                    "enum": [
+                        "current"
+                    ]
+                }
+            }
+        }
+    },
+    "Concern": {
+        "name": "extract_concern_info",
+        "description": "Extract structured concern information from a sentence.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "category": {
+                    "type": "string",
+                    "enum": [
+                        "Concern"
+                    ]
+                },
+                "ConcernLevel": {
+                    "type": "string",
+                    "enum": [
+                        "moderate",
+                        "light",
+                        "None",
+                        "intense"
+                    ]
+                },
+                "Experiencer": {
+                    "type": "string",
+                    "enum": [
+                        "patients",
+                        "Father",
+                        "Family",
+                        "Mother",
+                        "parents/caregiver",
+                        "patients and caregivers"
+                    ]
+                },
+                "HealthcareType": {
+                    "type": "string",
+                    "enum": [
+                        "caregiving"
+                    ]
+                },
+                "MentalHealthStatus": {
+                    "type": "string",
+                    "enum": [
+                        "current"
+                    ]
+                },
+                "FinancialStatus": {
+                    "type": "string",
+                    "enum": [
+                        "poverty",
+                        "constrain"
+                    ]
+                },
+                "TraumaType": {
+                    "type": "string",
+                    "enum": [
+                        "domestic violence"
+                    ]
+                },
+                "LiteracyLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low"
+                    ]
+                },
+                "LiteracyType": {
+                    "type": "string",
+                    "enum": [
+                        "transplant knowledge"
+                    ]
+                },
+                "AdherenceLevel": {
+                    "type": "string",
+                    "enum": [
+                        "Low"
+                    ]
+                },
+                "AdherenceType": {
+                    "type": "string",
+                    "enum": [
+                        "other"
+                    ]
+                }
+            }
+        }
+    }
+}

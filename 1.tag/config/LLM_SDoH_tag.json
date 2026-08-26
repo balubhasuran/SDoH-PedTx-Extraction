@@ -1,0 +1,18 @@
+{
+  "name": "SDoH_tag_classification",
+  "description": "Classify the given sentence into one or more predefined categories based on occurrence.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "selected_categories": {
+        "type": "array",
+        "description": "The list of categories that apply to the sentence.",
+        "items": {
+          "type": "string",
+          "enum":["Adherence","Concern","Education","Employment","Financial","Healthcare","Insurance","Literacy","Living","MentalHealth","Recommendation","Smoke","Social","SubstanceUse","Transportation","Trauma"] 
+        }
+      }
+    },
+    "required": ["selected_categories"]
+  }
+}

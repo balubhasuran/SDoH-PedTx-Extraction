@@ -1,0 +1,7 @@
+,Model,strict_precision,strict_recall,strict_f1,relax_precision,relax_recall,relax_f1,sentence-level_precision,sentence-level_recall,sentence-level_f1
+0,BERT,0.528,0.267,0.353,0.758,0.385,0.509,0.834,0.399,0.538
+1,BioBERT,0.714,0.718,0.716,0.857,0.868,0.862,0.903,0.887,0.894
+2,RoBERTa,0.777,0.775,0.775,0.884,0.893,0.888,0.914,0.909,0.911
+3,BiLSTM-CRF,0.232,0.062,0.097,0.534,0.133,0.209,0.582,0.147,0.231
+4,Ctran,0.467,0.438,0.452,0.648,0.615,0.63,0.719,0.664,0.689
+5,GPT-4o,N/A,N/A,N/A,N/A,N/A,N/A,0.506,0.686,0.582
