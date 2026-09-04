@@ -79,6 +79,11 @@ SDoH-main/
 │   ├── requirements.txt
 │   └── README.md
 │
+├── sample_data/             # Fully synthetic example data (safe to share/commit)
+│   ├── 1.tag/, 2.label/       #   mirrors the real 1.tag/ and 2.label/ data & output layout
+│   ├── generate_sample_data.py #  regenerates the whole set from one source of truth
+│   └── README.md               #  format notes and known simplifications
+│
 └── README.md                 # (this file)
 ```
 
@@ -155,12 +160,24 @@ schema, and design notes.
 ## Data and privacy note
 
 The annotated notes are derived from pediatric transplantation social-worker
-notes. Raw/annotated data files under `1.tag/data/`, `2.label/data/`, and
-`2.label/output/` may contain sensitive or de-identified clinical text — do
-not commit new data files or credentials, and treat any local copies
-according to your institution's data-use agreement. GUI users must supply
-their own OpenAI API key (see `gui/README.md`); never commit `.env` files or
-keys.
+notes. Raw/annotated data files under `1.tag/data/`, `2.label/data/`,
+`2.label/output/`, and `2.label/eval/` may contain sensitive or de-identified
+clinical text — do not commit new data files or credentials, and treat any
+local copies according to your institution's data-use agreement. These paths
+are excluded via `.gitignore` for this reason. GUI users must supply their
+own OpenAI API key (see `gui/README.md`); never commit `.env` files or keys.
+
+### Sample data
+
+[`sample_data/`](sample_data) contains a small, **fully synthetic** dataset
+(four invented pediatric transplant notes, no real patient data) that mirrors
+every file format above — raw UIMA annotation export, NER BIO-tagged
+training data, a train/test fold, ground-truth structured extraction, LLM
+extraction outputs, and evaluation CSVs. Use it to explore the pipeline's
+data formats, smoke-test scripts, or as fixtures for tests, without needing
+access to the real (restricted) clinical notes. See
+[`sample_data/README.md`](sample_data/README.md) for the layout and a few
+documented simplifications versus the real data.
 
 ## Status / next steps
 
