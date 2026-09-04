@@ -1,0 +1,133 @@
+{
+  "0": {
+    "sentence": "9003\tPt, Naomi Ferraro, is a 16 year old female with a history of autoimmune hepatitis referred for Liver Transplant Psychosocial Assessment.",
+    "SDoH": [
+      {
+        "Healthcare": {
+          "Experiencer": "patients",
+          "HealthcareType": "assessment"
+        }
+      }
+    ]
+  },
+  "1": {
+    "sentence": "Information for this assessment was obtained through an interview with the patient and her father, and review of the medical record."
+  },
+  "2": {
+    "sentence": "SW spent 45 minutes of face to face time with the family."
+  },
+  "3": {
+    "sentence": "Employment: the father was recently laid off from his position at a local warehouse and is currently seeking new employment.",
+    "SDoH": [
+      {
+        "Employment": {
+          "EmploymentStatus": "Looking for",
+          "Experiencer": "Father"
+        }
+      }
+    ]
+  },
+  "4": {
+    "sentence": "The mother works part time as a home health aide.",
+    "SDoH": [
+      {
+        "Employment": {
+          "EmploymentStatus": "part-time",
+          "Experiencer": "Mother"
+        }
+      }
+    ]
+  },
+  "5": {
+    "sentence": "Financial situation: the family reports significant financial strain related to the father's recent job loss.",
+    "SDoH": [
+      {
+        "Financial": {
+          "Experiencer": "Family",
+          "FinancialStatus": "constrain"
+        }
+      }
+    ]
+  },
+  "6": {
+    "sentence": "Naomi is currently covered by a combination of private insurance through her mother's employer and state Medicaid.",
+    "SDoH": [
+      {
+        "Insurance": {
+          "Experiencer": "patients",
+          "InsuranceType": "both"
+        }
+      }
+    ]
+  },
+  "7": {
+    "sentence": "Transportation: the family's only vehicle is unreliable, which has caused difficulty attending clinic appointments.",
+    "SDoH": [
+      {
+        "Transportation": {
+          "Experiencer": "Family",
+          "TransportationConvenienceLevel": "hard",
+          "TransportationType": "vehicle access"
+        }
+      }
+    ]
+  },
+  "8": {
+    "sentence": "Support systems: the family is active in their church community, which provides both emotional and occasional financial support.",
+    "SDoH": [
+      {
+        "Social": {
+          "Experiencer": "Family",
+          "SocialActivity": "high",
+          "SocialType": "church"
+        }
+      }
+    ]
+  },
+  "9": {
+    "sentence": "There is no smoking or vaping in the home; the father reports quitting smoking two years ago.",
+    "SDoH": [
+      {
+        "Smoke": {
+          "Experiencer": "Father",
+          "SmokeStatus": "past"
+        }
+      }
+    ]
+  },
+  "10": {
+    "sentence": "Health literacy: the father verbalizes some difficulty understanding the post-transplant medication schedule and would benefit from additional teaching.",
+    "SDoH": [
+      {
+        "Literacy": {
+          "Experiencer": "Father",
+          "LiteracyLevel": "Low",
+          "LiteracyType": "medication knowledge"
+        }
+      }
+    ]
+  },
+  "11": {
+    "sentence": "Assessment and recommendations: the family is motivated and engaged despite current financial stressors."
+  },
+  "12": {
+    "sentence": "Recommendations: connect the family with the hospital's financial counseling office and the transportation assistance program.",
+    "SDoH": [
+      {
+        "Recommendation": {
+          "RecommendationType": "increase financial support"
+        }
+      }
+    ]
+  },
+  "13": {
+    "sentence": "Provide additional one-on-one medication education for the father prior to discharge.",
+    "SDoH": [
+      {
+        "Recommendation": {
+          "RecommendationType": "increase literacy"
+        }
+      }
+    ]
+  }
+}

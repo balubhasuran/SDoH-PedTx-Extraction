@@ -1,0 +1,195 @@
+[
+  {
+    "sentence": "9002\tPt, Micah Torres, is a 12 year old male with a history of focal segmental glomerulosclerosis referred for Kidney Transplant Psychosocial Assessment.",
+    "categories": [
+      "Healthcare"
+    ],
+    "extracted_predictions": {
+      "Healthcare": {
+        "extracted_conditions": [
+          {
+            "category": "Healthcare",
+            "Experiencer": "patient",
+            "HealthcareType": "assessment"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Information for this assessment was obtained through interviews with the patient and his mother, and review of the medical record.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "SW spent 60 minutes of face to face time with patient and family.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Family history: the family reports a prior Department of Child and Family involvement approximately five years ago related to housing instability, which has since been resolved.",
+    "categories": [
+      "Trauma"
+    ],
+    "extracted_predictions": {
+      "Trauma": {
+        "extracted_conditions": [
+          {
+            "category": "Trauma",
+            "Experiencer": "patient",
+            "TraumaStatus": "past",
+            "TraumaType": "DCF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The family denies any current involvement with child protective services.",
+    "categories": [
+      "Trauma"
+    ],
+    "extracted_predictions": {
+      "Trauma": {
+        "extracted_conditions": [
+          {
+            "category": "Trauma",
+            "Experiencer": "family",
+            "TraumaStatus": "none",
+            "TraumaType": "DCF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Mental health: Micah's mother reports a history of generalized anxiety, currently managed with outpatient counseling.",
+    "categories": [
+      "Mental Health"
+    ],
+    "extracted_predictions": {
+      "Mental Health": {
+        "extracted_conditions": [
+          {
+            "category": "Mental Health",
+            "Experiencer": "caregiver",
+            "MentalHealthStatus": "current",
+            "MentalHealthType": "anxiety"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Micah himself denies any mental health concerns at this time.",
+    "categories": [
+      "Mental Health"
+    ],
+    "extracted_predictions": {
+      "Mental Health": {
+        "extracted_conditions": [
+          {
+            "category": "Mental Health",
+            "Experiencer": "patient",
+            "MentalHealthStatus": "none"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Substance use: the family denies any current or past substance use in the home.",
+    "categories": [
+      "Substance Use"
+    ],
+    "extracted_predictions": {
+      "Substance Use": {
+        "extracted_conditions": [
+          {
+            "category": "Substance Use",
+            "Experiencer": "family",
+            "SubstanceUseStatus": "none"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Adherence: the family reports occasional missed doses of Micah's immunosuppressant medication due to a hectic school schedule.",
+    "categories": [
+      "Adherence"
+    ],
+    "extracted_predictions": {
+      "Adherence": {
+        "extracted_conditions": [
+          {
+            "category": "Adherence",
+            "AdherenceLevel": "Low",
+            "AdherenceType": "medication",
+            "Experiencer": "patient"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The mother verbalizes a strong understanding of the medication regimen and transplant process.",
+    "categories": [
+      "Adherence"
+    ],
+    "extracted_predictions": {
+      "Adherence": {
+        "extracted_conditions": [
+          {
+            "category": "Adherence",
+            "AdherenceLevel": "High",
+            "AdherenceType": "medication",
+            "Experiencer": "caregiver"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Assessment and recommendations: the primary psychosocial concern is moderate medication non-adherence related to scheduling conflicts.",
+    "categories": [
+      "Concern"
+    ],
+    "extracted_predictions": {
+      "Concern": {
+        "extracted_conditions": [
+          {
+            "category": "Concern",
+            "ConcernLevel": "moderate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The family appears otherwise well supported and engaged in Micah's care.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Recommendations: refer the family to the adherence support program and provide a pill organizer with alarm reminders.",
+    "categories": [
+      "Recommendation"
+    ],
+    "extracted_predictions": {
+      "Recommendation": {
+        "extracted_conditions": [
+          {
+            "category": "Recommendation",
+            "RecommendationType": "Help with Adherence"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Continue routine psychosocial follow-up at each clinic visit.",
+    "categories": [],
+    "extracted_predictions": {}
+  }
+]

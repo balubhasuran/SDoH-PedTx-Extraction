@@ -1,0 +1,226 @@
+[
+  {
+    "sentence": "9001\tPt, Avery Coleman, is a 5 year old female with a history of dilated cardiomyopathy referred by Dana Whitfield, RN, Transplant Coordinator, for Heart Transplant Psychosocial Assessment.",
+    "categories": [
+      "Healthcare"
+    ],
+    "extracted_predictions": {
+      "Healthcare": {
+        "extracted_conditions": [
+          {
+            "category": "Healthcare",
+            "Experiencer": "patient",
+            "HealthcareType": "assessment"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Information for this assessment was obtained through an interview with the parents and review of the medical records.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "SW spent 50 minutes of face to face time with the family.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Living situation: Avery lives with her mother and father in Millbrook Hollow, Rivendale.",
+    "categories": [
+      "Living"
+    ],
+    "extracted_predictions": {
+      "Living": {
+        "extracted_conditions": [
+          {
+            "category": "Living",
+            "Experiencer": "patient",
+            "LivingStatus": "current",
+            "LivingType": "with both parents",
+            "ResidentType": "home"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "They reside in a two bedroom apartment with central heat and air conditioning.",
+    "categories": [
+      "Living"
+    ],
+    "extracted_predictions": {
+      "Living": {
+        "extracted_conditions": [
+          {
+            "category": "Living",
+            "Experiencer": "caregiver",
+            "LivingStatus": "current",
+            "LivingType": "with both parents",
+            "ResidentType": "home"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "There is no smoking in the home.",
+    "categories": [
+      "Smoke"
+    ],
+    "extracted_predictions": {
+      "Smoke": {
+        "extracted_conditions": [
+          {
+            "category": "Smoke",
+            "Experiencer": "patient",
+            "SmokeStatus": "none"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Support systems: the mother and father report leaning on each other and on extended family for support.",
+    "categories": [
+      "Social"
+    ],
+    "extracted_predictions": {
+      "Social": {
+        "extracted_conditions": [
+          {
+            "category": "Social",
+            "Experiencer": "caregiver",
+            "SocialActivity": "high",
+            "SocialType": "family"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Avery is enrolled in kindergarten and the school has been notified of her medical condition.",
+    "categories": [
+      "Education"
+    ],
+    "extracted_predictions": {
+      "Education": {
+        "extracted_conditions": [
+          {
+            "category": "Education",
+            "EducationStatus": "current",
+            "EducationType": "childhood",
+            "Experiencer": "patient"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Avery is covered by Rivendale State Medicaid.",
+    "categories": [
+      "Insurance"
+    ],
+    "extracted_predictions": {
+      "Insurance": {
+        "extracted_conditions": [
+          {
+            "category": "Insurance",
+            "Experiencer": "patient",
+            "InsuranceType": "public"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The family owns a reliable vehicle and reports no difficulty getting Avery to appointments.",
+    "categories": [
+      "Transportation"
+    ],
+    "extracted_predictions": {
+      "Transportation": {
+        "extracted_conditions": [
+          {
+            "category": "Transportation",
+            "Experiencer": "caregiver",
+            "TransportationConvenienceLevel": "easy",
+            "TransportationType": "vehicle access"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The family lives approximately four hours from the transplant center, which adds to travel cost for appointments.",
+    "categories": [
+      "Transportation"
+    ],
+    "extracted_predictions": {
+      "Transportation": {
+        "extracted_conditions": [
+          {
+            "category": "Transportation",
+            "Experiencer": "caregiver",
+            "TransportationConvenienceLevel": "hard",
+            "TransportationType": "transportation cost"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Course of illness: Avery was diagnosed with dilated cardiomyopathy after a routine well-child visit revealed an irregular heartbeat.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "She was started on standard heart failure medications and has since been listed for transplant evaluation.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Financial situation: the family reports finances are tight due to the cost of frequent travel for appointments.",
+    "categories": [
+      "Financial"
+    ],
+    "extracted_predictions": {
+      "Financial": {
+        "extracted_conditions": [
+          {
+            "category": "Financial",
+            "Experiencer": "caregiver",
+            "FinancialStatus": "constrain"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The father continues to work full time and the mother has reduced her hours to manage caregiving.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Assessment and recommendations: the family demonstrates a good understanding of the transplant process and appears well bonded with Avery.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Recommendations: continue to monitor the family's travel-related financial burden and connect them with the hospital's travel assistance fund.",
+    "categories": [
+      "Recommendation"
+    ],
+    "extracted_predictions": {
+      "Recommendation": {
+        "extracted_conditions": [
+          {
+            "category": "Recommendation",
+            "RecommendationType": "increase financial support"
+          }
+        ]
+      }
+    }
+  }
+]

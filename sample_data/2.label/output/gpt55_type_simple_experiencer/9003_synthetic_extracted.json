@@ -1,0 +1,205 @@
+[
+  {
+    "sentence": "9003\tPt, Naomi Ferraro, is a 16 year old female with a history of autoimmune hepatitis referred for Liver Transplant Psychosocial Assessment.",
+    "categories": [
+      "Healthcare"
+    ],
+    "extracted_predictions": {
+      "Healthcare": {
+        "extracted_conditions": [
+          {
+            "category": "Healthcare",
+            "Experiencer": "patient",
+            "HealthcareType": "assessment"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Information for this assessment was obtained through an interview with the patient and her father, and review of the medical record.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "SW spent 45 minutes of face to face time with the family.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Employment: the father was recently laid off from his position at a local warehouse and is currently seeking new employment.",
+    "categories": [
+      "Employment"
+    ],
+    "extracted_predictions": {
+      "Employment": {
+        "extracted_conditions": [
+          {
+            "category": "Employment",
+            "EmploymentStatus": "Looking for",
+            "Experiencer": "caregiver"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The mother works part time as a home health aide.",
+    "categories": [
+      "Employment"
+    ],
+    "extracted_predictions": {
+      "Employment": {
+        "extracted_conditions": [
+          {
+            "category": "Employment",
+            "EmploymentStatus": "part-time",
+            "Experiencer": "caregiver"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Financial situation: the family reports significant financial strain related to the father's recent job loss.",
+    "categories": [
+      "Financial"
+    ],
+    "extracted_predictions": {
+      "Financial": {
+        "extracted_conditions": [
+          {
+            "category": "Financial",
+            "Experiencer": "family",
+            "FinancialStatus": "constrain"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Naomi is currently covered by a combination of private insurance through her mother's employer and state Medicaid.",
+    "categories": [
+      "Insurance"
+    ],
+    "extracted_predictions": {
+      "Insurance": {
+        "extracted_conditions": [
+          {
+            "category": "Insurance",
+            "Experiencer": "patient",
+            "InsuranceType": "both"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Transportation: the family's only vehicle is unreliable, which has caused difficulty attending clinic appointments.",
+    "categories": [
+      "Transportation"
+    ],
+    "extracted_predictions": {
+      "Transportation": {
+        "extracted_conditions": [
+          {
+            "category": "Transportation",
+            "Experiencer": "family",
+            "TransportationConvenienceLevel": "hard",
+            "TransportationType": "vehicle access"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Support systems: the family is active in their church community, which provides both emotional and occasional financial support.",
+    "categories": [
+      "Social"
+    ],
+    "extracted_predictions": {
+      "Social": {
+        "extracted_conditions": [
+          {
+            "category": "Social",
+            "Experiencer": "family",
+            "SocialActivity": "high",
+            "SocialType": "church"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "There is no smoking or vaping in the home; the father reports quitting smoking two years ago.",
+    "categories": [
+      "Smoke"
+    ],
+    "extracted_predictions": {
+      "Smoke": {
+        "extracted_conditions": [
+          {
+            "category": "Smoke",
+            "Experiencer": "caregiver",
+            "SmokeStatus": "past"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Health literacy: the father verbalizes some difficulty understanding the post-transplant medication schedule and would benefit from additional teaching.",
+    "categories": [
+      "Literacy"
+    ],
+    "extracted_predictions": {
+      "Literacy": {
+        "extracted_conditions": [
+          {
+            "category": "Literacy",
+            "Experiencer": "caregiver",
+            "LiteracyLevel": "Low",
+            "LiteracyType": "medication knowledge"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Assessment and recommendations: the family is motivated and engaged despite current financial stressors.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Recommendations: connect the family with the hospital's financial counseling office and the transportation assistance program.",
+    "categories": [
+      "Recommendation"
+    ],
+    "extracted_predictions": {
+      "Recommendation": {
+        "extracted_conditions": [
+          {
+            "category": "Recommendation",
+            "RecommendationType": "increase financial support"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Provide additional one-on-one medication education for the father prior to discharge.",
+    "categories": [
+      "Recommendation"
+    ],
+    "extracted_predictions": {
+      "Recommendation": {
+        "extracted_conditions": [
+          {
+            "category": "Recommendation",
+            "RecommendationType": "increase literacy"
+          }
+        ]
+      }
+    }
+  }
+]

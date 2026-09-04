@@ -1,0 +1,148 @@
+{
+  "0": {
+    "sentence": "9001\tPt, Avery Coleman, is a 5 year old female with a history of dilated cardiomyopathy referred by Dana Whitfield, RN, Transplant Coordinator, for Heart Transplant Psychosocial Assessment.",
+    "SDoH": [
+      {
+        "Healthcare": {
+          "Experiencer": "patients",
+          "HealthcareType": "assessment"
+        }
+      }
+    ]
+  },
+  "1": {
+    "sentence": "Information for this assessment was obtained through an interview with the parents and review of the medical records."
+  },
+  "2": {
+    "sentence": "SW spent 50 minutes of face to face time with the family."
+  },
+  "3": {
+    "sentence": "Living situation: Avery lives with her mother and father in Millbrook Hollow, Rivendale.",
+    "SDoH": [
+      {
+        "Living": {
+          "Experiencer": "patients",
+          "LivingStatus": "current",
+          "LivingType": "with both parents",
+          "ResidentType": "home"
+        }
+      }
+    ]
+  },
+  "4": {
+    "sentence": "They reside in a two bedroom apartment with central heat and air conditioning.",
+    "SDoH": [
+      {
+        "Living": {
+          "Experiencer": "parents/caregiver",
+          "LivingStatus": "current",
+          "LivingType": "with both parents",
+          "ResidentType": "home"
+        }
+      }
+    ]
+  },
+  "5": {
+    "sentence": "There is no smoking in the home.",
+    "SDoH": [
+      {
+        "Smoke": {
+          "Experiencer": "patients",
+          "SmokeStatus": "none"
+        }
+      }
+    ]
+  },
+  "6": {
+    "sentence": "Support systems: the mother and father report leaning on each other and on extended family for support.",
+    "SDoH": [
+      {
+        "Social": {
+          "Experiencer": "parents/caregiver",
+          "SocialActivity": "high",
+          "SocialType": "family"
+        }
+      }
+    ]
+  },
+  "7": {
+    "sentence": "Avery is enrolled in kindergarten and the school has been notified of her medical condition.",
+    "SDoH": [
+      {
+        "Education": {
+          "EducationStatus": "current",
+          "EducationType": "childhood",
+          "Experiencer": "patients"
+        }
+      }
+    ]
+  },
+  "8": {
+    "sentence": "Avery is covered by Rivendale State Medicaid.",
+    "SDoH": [
+      {
+        "Insurance": {
+          "Experiencer": "patients",
+          "InsuranceType": "public"
+        }
+      }
+    ]
+  },
+  "9": {
+    "sentence": "The family owns a reliable vehicle and reports no difficulty getting Avery to appointments.",
+    "SDoH": [
+      {
+        "Transportation": {
+          "Experiencer": "parents/caregiver",
+          "TransportationConvenienceLevel": "easy",
+          "TransportationType": "vehicle access"
+        }
+      }
+    ]
+  },
+  "10": {
+    "sentence": "The family lives approximately four hours from the transplant center, which adds to travel cost for appointments.",
+    "SDoH": [
+      {
+        "Transportation": {
+          "Experiencer": "patients and caregivers",
+          "TransportationConvenienceLevel": "hard",
+          "TransportationType": "transportation cost"
+        }
+      }
+    ]
+  },
+  "11": {
+    "sentence": "Course of illness: Avery was diagnosed with dilated cardiomyopathy after a routine well-child visit revealed an irregular heartbeat."
+  },
+  "12": {
+    "sentence": "She was started on standard heart failure medications and has since been listed for transplant evaluation."
+  },
+  "13": {
+    "sentence": "Financial situation: the family reports finances are tight due to the cost of frequent travel for appointments.",
+    "SDoH": [
+      {
+        "Financial": {
+          "Experiencer": "parents/caregiver",
+          "FinancialStatus": "constrain"
+        }
+      }
+    ]
+  },
+  "14": {
+    "sentence": "The father continues to work full time and the mother has reduced her hours to manage caregiving."
+  },
+  "15": {
+    "sentence": "Assessment and recommendations: the family demonstrates a good understanding of the transplant process and appears well bonded with Avery."
+  },
+  "16": {
+    "sentence": "Recommendations: continue to monitor the family's travel-related financial burden and connect them with the hospital's travel assistance fund.",
+    "SDoH": [
+      {
+        "Recommendation": {
+          "RecommendationType": "increase financial support"
+        }
+      }
+    ]
+  }
+}

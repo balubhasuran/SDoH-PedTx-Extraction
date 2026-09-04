@@ -38,6 +38,21 @@
 
 /1.tag/data/mimic3/*
 
+# Real (sensitive / de-identified) clinical data must never be committed --
+# see README "Data and privacy note". Safe synthetic examples of these same
+# formats live in /sample_data/, which is intentionally NOT covered by these
+# rules.
+/1.tag/data/annotation_data/
+/1.tag/data/annotation_data_zip/
+/1.tag/data/train_data/
+/1.tag/data/splitted_data/
+/2.label/data/annotation_data/
+/2.label/data/annotation_data_zip/
+/2.label/data/curation/
+/2.label/data/processed_data/
+/2.label/output/
+/2.label/eval/
+
 
 *.pt
 *.pth

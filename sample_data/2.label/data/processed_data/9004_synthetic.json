@@ -1,0 +1,105 @@
+{
+  "0": {
+    "sentence": "9004\tPt, Elias Byrne, is an 8 year old male with a history of cystic fibrosis referred for Lung Transplant Psychosocial Assessment.",
+    "SDoH": [
+      {
+        "Healthcare": {
+          "Experiencer": "patients",
+          "HealthcareType": "assessment"
+        }
+      }
+    ]
+  },
+  "1": {
+    "sentence": "Information for this assessment was obtained through an interview with the parents and review of the medical record."
+  },
+  "2": {
+    "sentence": "SW spent 55 minutes of face to face time with the family."
+  },
+  "3": {
+    "sentence": "Education: Elias is currently enrolled in a hospital homebound schooling program due to frequent admissions.",
+    "SDoH": [
+      {
+        "Education": {
+          "EducationStatus": "current",
+          "EducationType": "childhood",
+          "Experiencer": "patients"
+        }
+      }
+    ]
+  },
+  "4": {
+    "sentence": "Family history: the mother reports a past episode of postpartum depression that was treated and has since resolved.",
+    "SDoH": [
+      {
+        "Mental Health": {
+          "Experiencer": "Mother",
+          "MentalHealthStatus": "past",
+          "MentalHealthType": "depression"
+        }
+      }
+    ]
+  },
+  "5": {
+    "sentence": "The family denies any history of domestic violence or other trauma.",
+    "SDoH": [
+      {
+        "Trauma": {
+          "Experiencer": "Family",
+          "TraumaStatus": "none",
+          "TraumaType": "domestic violence"
+        }
+      }
+    ]
+  },
+  "6": {
+    "sentence": "Adherence: the parents report consistent adherence to Elias's airway clearance therapy and enzyme regimen.",
+    "SDoH": [
+      {
+        "Adherence": {
+          "AdherenceLevel": "High",
+          "AdherenceType": "medication",
+          "Experiencer": "parents/caregiver"
+        }
+      }
+    ]
+  },
+  "7": {
+    "sentence": "Health literacy: both parents demonstrate a strong understanding of Elias's illness and the transplant listing process.",
+    "SDoH": [
+      {
+        "Literacy": {
+          "Experiencer": "parents/caregiver",
+          "LiteracyLevel": "High",
+          "LiteracyType": "transplant knowledge"
+        }
+      }
+    ]
+  },
+  "8": {
+    "sentence": "Assessment and recommendations: the family's primary concern is the emotional toll of Elias's frequent hospitalizations on his siblings.",
+    "SDoH": [
+      {
+        "Concern": {
+          "ConcernLevel": "moderate"
+        }
+      }
+    ]
+  },
+  "9": {
+    "sentence": "The parents appear well informed, engaged, and appropriately bonded with Elias."
+  },
+  "10": {
+    "sentence": "Recommendations: offer a referral to sibling support group services through the hospital's family resource center.",
+    "SDoH": [
+      {
+        "Recommendation": {
+          "RecommendationType": "increase social support"
+        }
+      }
+    ]
+  },
+  "11": {
+    "sentence": "Continue routine psychosocial follow-up prior to transplant listing."
+  }
+}

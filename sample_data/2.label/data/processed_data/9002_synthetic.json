@@ -1,0 +1,127 @@
+{
+  "0": {
+    "sentence": "9002\tPt, Micah Torres, is a 12 year old male with a history of focal segmental glomerulosclerosis referred for Kidney Transplant Psychosocial Assessment.",
+    "SDoH": [
+      {
+        "Healthcare": {
+          "Experiencer": "patients",
+          "HealthcareType": "assessment"
+        }
+      }
+    ]
+  },
+  "1": {
+    "sentence": "Information for this assessment was obtained through interviews with the patient and his mother, and review of the medical record."
+  },
+  "2": {
+    "sentence": "SW spent 60 minutes of face to face time with patient and family."
+  },
+  "3": {
+    "sentence": "Family history: the family reports a prior Department of Child and Family involvement approximately five years ago related to housing instability, which has since been resolved.",
+    "SDoH": [
+      {
+        "Trauma": {
+          "Experiencer": "patients",
+          "TraumaStatus": "past",
+          "TraumaType": "DCF"
+        }
+      }
+    ]
+  },
+  "4": {
+    "sentence": "The family denies any current involvement with child protective services.",
+    "SDoH": [
+      {
+        "Trauma": {
+          "Experiencer": "Family",
+          "TraumaStatus": "none",
+          "TraumaType": "DCF"
+        }
+      }
+    ]
+  },
+  "5": {
+    "sentence": "Mental health: Micah's mother reports a history of generalized anxiety, currently managed with outpatient counseling.",
+    "SDoH": [
+      {
+        "Mental Health": {
+          "Experiencer": "Mother",
+          "MentalHealthStatus": "current",
+          "MentalHealthType": "anxiety"
+        }
+      }
+    ]
+  },
+  "6": {
+    "sentence": "Micah himself denies any mental health concerns at this time.",
+    "SDoH": [
+      {
+        "Mental Health": {
+          "Experiencer": "patients",
+          "MentalHealthStatus": "none"
+        }
+      }
+    ]
+  },
+  "7": {
+    "sentence": "Substance use: the family denies any current or past substance use in the home.",
+    "SDoH": [
+      {
+        "Substance Use": {
+          "Experiencer": "Family",
+          "SubstanceUseStatus": "none"
+        }
+      }
+    ]
+  },
+  "8": {
+    "sentence": "Adherence: the family reports occasional missed doses of Micah's immunosuppressant medication due to a hectic school schedule.",
+    "SDoH": [
+      {
+        "Adherence": {
+          "AdherenceLevel": "Low",
+          "AdherenceType": "medication",
+          "Experiencer": "patients"
+        }
+      }
+    ]
+  },
+  "9": {
+    "sentence": "The mother verbalizes a strong understanding of the medication regimen and transplant process.",
+    "SDoH": [
+      {
+        "Adherence": {
+          "AdherenceLevel": "High",
+          "AdherenceType": "medication",
+          "Experiencer": "Mother"
+        }
+      }
+    ]
+  },
+  "10": {
+    "sentence": "Assessment and recommendations: the primary psychosocial concern is moderate medication non-adherence related to scheduling conflicts.",
+    "SDoH": [
+      {
+        "Concern": {
+          "ConcernLevel": "moderate"
+        }
+      }
+    ]
+  },
+  "11": {
+    "sentence": "The family appears otherwise well supported and engaged in Micah's care."
+  },
+  "12": {
+    "sentence": "Recommendations: refer the family to the adherence support program and provide a pill organizer with alarm reminders.",
+    "SDoH": [
+      {
+        "Recommendation": {
+          "RecommendationType": "Help with Adherence"
+        }
+      }
+    ]
+  },
+  "13": {
+    "sentence": "Continue routine psychosocial follow-up at each clinic visit."
+  }
+}

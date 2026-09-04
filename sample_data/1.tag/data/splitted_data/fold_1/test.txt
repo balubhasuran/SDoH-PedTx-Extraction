@@ -1,0 +1,12 @@
+9004/O Pt/O ,/O Elias/O Byrne/O ,/O is/O an/O 8/O year/O old/O male/O with/O a/O history/O of/O cystic/B-Healthcare fibrosis/I-Healthcare referred/I-Healthcare for/I-Healthcare Lung/I-Healthcare Transplant/I-Healthcare Psychosocial/I-Healthcare Assessment/I-Healthcare ./O
+Information/O for/O this/O assessment/O was/O obtained/O through/O an/O interview/O with/O the/O parents/O and/O review/O of/O the/O medical/O record/O ./O
+SW/O spent/O 55/O minutes/O of/O face/O to/O face/O time/O with/O the/O family/O ./O
+Education/O :/O Elias/O is/O currently/B-Education enrolled/I-Education in/I-Education a/I-Education hospital/I-Education homebound/I-Education schooling/I-Education program/I-Education due/I-Education to/I-Education frequent/I-Education admissions/I-Education ./O
+Family/O history/O :/O the/O mother/O reports/O a/O past/B-MentalHealth episode/I-MentalHealth of/I-MentalHealth postpartum/I-MentalHealth depression/I-MentalHealth that/I-MentalHealth was/I-MentalHealth treated/I-MentalHealth and/I-MentalHealth has/I-MentalHealth since/I-MentalHealth resolved/I-MentalHealth ./O
+The/O family/O denies/B-Trauma any/I-Trauma history/I-Trauma of/I-Trauma domestic/I-Trauma violence/I-Trauma or/I-Trauma other/I-Trauma trauma/I-Trauma ./O
+Adherence/O :/O the/O parents/O report/O consistent/B-Adherence adherence/I-Adherence to/I-Adherence Elias's/I-Adherence airway/I-Adherence clearance/I-Adherence therapy/I-Adherence and/I-Adherence enzyme/I-Adherence regimen/I-Adherence ./O
+Health/O literacy/O :/O both/O parents/O demonstrate/O a/O strong/B-Literacy understanding/I-Literacy of/I-Literacy Elias's/I-Literacy illness/I-Literacy and/I-Literacy the/I-Literacy transplant/I-Literacy listing/I-Literacy process/I-Literacy ./O
+Assessment/O and/O recommendations/O :/O the/O family's/O primary/O concern/O is/O the/O emotional/B-Concern toll/I-Concern of/I-Concern Elias's/I-Concern frequent/I-Concern hospitalizations/I-Concern on/I-Concern his/I-Concern siblings/I-Concern ./O
+The/O parents/O appear/O well/O informed/O ,/O engaged/O ,/O and/O appropriately/O bonded/O with/O Elias/O ./O
+Recommendations/O :/O offer/B-Recommendation a/I-Recommendation referral/I-Recommendation to/I-Recommendation sibling/I-Recommendation support/I-Recommendation group/I-Recommendation services/I-Recommendation through/I-Recommendation the/I-Recommendation hospital's/I-Recommendation family/I-Recommendation resource/I-Recommendation center/I-Recommendation ./O
+Continue/O routine/O psychosocial/O follow/O -/O up/O prior/O to/O transplant/O listing/O ./O

@@ -1,0 +1,161 @@
+[
+  {
+    "sentence": "9004\tPt, Elias Byrne, is an 8 year old male with a history of cystic fibrosis referred for Lung Transplant Psychosocial Assessment.",
+    "categories": [
+      "Healthcare"
+    ],
+    "extracted_predictions": {
+      "Healthcare": {
+        "extracted_conditions": [
+          {
+            "category": "Healthcare",
+            "Experiencer": "patient",
+            "HealthcareType": "assessment"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Information for this assessment was obtained through an interview with the parents and review of the medical record.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "SW spent 55 minutes of face to face time with the family.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Education: Elias is currently enrolled in a hospital homebound schooling program due to frequent admissions.",
+    "categories": [
+      "Education"
+    ],
+    "extracted_predictions": {
+      "Education": {
+        "extracted_conditions": [
+          {
+            "category": "Education",
+            "EducationStatus": "current",
+            "EducationType": "childhood",
+            "Experiencer": "patient"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Family history: the mother reports a past episode of postpartum depression that was treated and has since resolved.",
+    "categories": [
+      "Mental Health"
+    ],
+    "extracted_predictions": {
+      "Mental Health": {
+        "extracted_conditions": [
+          {
+            "category": "Mental Health",
+            "Experiencer": "caregiver",
+            "MentalHealthStatus": "past",
+            "MentalHealthType": "depression"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The family denies any history of domestic violence or other trauma.",
+    "categories": [
+      "Trauma"
+    ],
+    "extracted_predictions": {
+      "Trauma": {
+        "extracted_conditions": [
+          {
+            "category": "Trauma",
+            "Experiencer": "family",
+            "TraumaStatus": "none",
+            "TraumaType": "domestic violence"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Adherence: the parents report consistent adherence to Elias's airway clearance therapy and enzyme regimen.",
+    "categories": [
+      "Adherence"
+    ],
+    "extracted_predictions": {
+      "Adherence": {
+        "extracted_conditions": [
+          {
+            "category": "Adherence",
+            "AdherenceLevel": "High",
+            "AdherenceType": "medication",
+            "Experiencer": "caregiver"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Health literacy: both parents demonstrate a strong understanding of Elias's illness and the transplant listing process.",
+    "categories": [
+      "Literacy"
+    ],
+    "extracted_predictions": {
+      "Literacy": {
+        "extracted_conditions": [
+          {
+            "category": "Literacy",
+            "Experiencer": "caregiver",
+            "LiteracyLevel": "High",
+            "LiteracyType": "transplant knowledge"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Assessment and recommendations: the family's primary concern is the emotional toll of Elias's frequent hospitalizations on his siblings.",
+    "categories": [
+      "Concern"
+    ],
+    "extracted_predictions": {
+      "Concern": {
+        "extracted_conditions": [
+          {
+            "category": "Concern",
+            "ConcernLevel": "moderate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "The parents appear well informed, engaged, and appropriately bonded with Elias.",
+    "categories": [],
+    "extracted_predictions": {}
+  },
+  {
+    "sentence": "Recommendations: offer a referral to sibling support group services through the hospital's family resource center.",
+    "categories": [
+      "Recommendation"
+    ],
+    "extracted_predictions": {
+      "Recommendation": {
+        "extracted_conditions": [
+          {
+            "category": "Recommendation",
+            "RecommendationType": "increase social support"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "sentence": "Continue routine psychosocial follow-up prior to transplant listing.",
+    "categories": [],
+    "extracted_predictions": {}
+  }
+]
