@@ -160,12 +160,15 @@ schema, and design notes.
 ## Data and privacy note
 
 The annotated notes are derived from pediatric transplantation social-worker
-notes. Raw/annotated data files under `1.tag/data/`, `2.label/data/`,
-`2.label/output/`, and `2.label/eval/` may contain sensitive or de-identified
-clinical text — do not commit new data files or credentials, and treat any
-local copies according to your institution's data-use agreement. These paths
-are excluded via `.gitignore` for this reason. GUI users must supply their
-own OpenAI API key (see `gui/README.md`); never commit `.env` files or keys.
+notes and contain sensitive or de-identified clinical text. **Due to HIPAA
+compliance, the raw/annotated data itself is not provided in this
+repository** — the paths where it would live locally
+(`1.tag/data/`, `2.label/data/`, `2.label/output/`, and `2.label/eval/`) are
+excluded via `.gitignore`. If you have an institutional data-use agreement
+granting access to the source notes, place your own local copies under
+these paths to run the pipeline end to end; do not commit them or any
+credentials. GUI users must supply their own OpenAI API key (see
+`gui/README.md`); never commit `.env` files or keys.
 
 ### Sample data
 
